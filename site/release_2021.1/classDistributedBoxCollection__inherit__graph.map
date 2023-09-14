@@ -1,0 +1,3 @@
+<map id="DistributedBoxCollection&lt; DIM &gt;" name="DistributedBoxCollection&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classDistributedBoxCollection.html" title="{DistributedBoxCollection\l\&lt; SPACE_DIM \&gt;\n|&#45; mBoxes\l&#45; mHaloBoxes\l&#45; mHalosRight\l&#45; mHalosLeft\l&#45; mHaloNodesRight\l&#45; mHaloNodesLeft\l&#45; mHaloBoxesMapping\l&#45; mDomainSize\l&#45; mBoxWidth\l&#45; mNumBoxes\land 12 more...\l&#45; msFudge\l|+ DistributedBoxCollection()\l+ ~DistributedBoxCollection()\l+ EmptyBoxes()\l+ UpdateHaloBoxes()\l+ GetNumLocalRows()\l+ IsBoxOwned()\l+ IsInteriorBox()\l+ IsHaloBox()\l+ CalculateGlobalIndex()\l+ CalculateContainingBox()\land 30 more...\l&#45; SetupHaloBoxes()\l&#45; serialize()\l}" alt="" coords="5,497,200,927"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classFileComparison.html" title="{FileComparison\n|&#45; mIgnoreCommentLines\l&#45; mCommentLineStarts\l|+ FileComparison()\l+ FileComparison()\l+ SetupCommentLines()\l+ SetIgnoreCommentLines()\l+ SetIgnoreLinesBeginningWith()\l+ CompareFiles()\l}" alt="" coords="5,325,216,512"/>
+<area shape="rect" href="$classNumericFileComparison.html" title="{NumericFileComparison\n||+ NumericFileComparison()\l+ NumericFileComparison()\l+ CompareFiles()\l}" alt="" coords="240,360,421,477"/>
+</map>

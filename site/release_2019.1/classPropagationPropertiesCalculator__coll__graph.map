@@ -1,0 +1,8 @@
+<map id="PropagationPropertiesCalculator" name="PropagationPropertiesCalculator">
+<area shape="rect" id="node3" href="$classHdf5DataReader.html" title="{Hdf5DataReader\n||+ Hdf5DataReader()\l+ Hdf5DataReader()\l+ GetVariableOverTime()\l+ GetVariableOverTimeOverMultiple\lNodes()\l+ GetVariableOverNodes()\l+ GetUnlimitedDimensionValues()\l+ GetNumberOfRows()\l+ GetVariableNames()\l+ GetUnit()\l+ Close()\l+ ~Hdf5DataReader()\l&#45; CommonConstructor()\l}" alt="" coords="751,821,983,1075"/>
+<area shape="rect" id="node4" href="$classAbstractHdf5Access.html" title="{AbstractHdf5Access\n||+ AbstractHdf5Access()\l+ AbstractHdf5Access()\l+ ~AbstractHdf5Access()\l+ IsDataComplete()\l+ GetIncompleteNodeMap()\l+ GetUnlimitedDimensionName()\l+ GetUnlimitedDimensionUnit()\l# DoesDatasetExist()\l# SetUnlimitedDatasetId()\l# SetMainDatasetRawChunkCache()\l}" alt="" coords="533,549,772,759"/>
+<area shape="rect" id="node6" href="$classhsize__t.html" title="{hsize_t\n||}" alt="" coords="247,263,311,340"/>
+<area shape="rect" id="node8" href="$classbool.html" title="{bool\n||}" alt="" coords="336,5,383,83"/>
+<area shape="rect" id="node11" href="$classFileFinder.html" title="{FileFinder\n||+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ ~FileFinder()\l+ SetPath()\l+ SetPath()\l+ IsPathSet()\l+ Exists()\l+ IsFile()\land 14 more...\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l&#45; PrivateRemove()\l}" alt="" coords="714,145,949,457"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1270,263,1345,340"/>
+</map>

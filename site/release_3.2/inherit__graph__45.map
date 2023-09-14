@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classAbstractStimulusFunction.html" title="AbstractStimulusFunction" alt="" coords="7,138,175,169"/>
+<area shape="rect" id="node3" href="$classMultiStimulus.html" title="MultiStimulus" alt="" coords="289,31,388,62"/>
+<area shape="rect" id="node9" href="$classPurkinjeVentricularJunctionStimulus.html" title="PurkinjeVentricularJunctionStimulus" alt="" coords="224,85,453,115"/>
+<area shape="rect" id="node11" href="$classRegularStimulus.html" title="RegularStimulus" alt="" coords="280,138,397,169"/>
+<area shape="rect" id="node15" href="$classSimpleStimulus.html" title="SimpleStimulus" alt="" coords="283,191,395,222"/>
+<area shape="rect" id="node17" href="$classZeroStimulus.html" title="ZeroStimulus" alt="" coords="289,245,388,275"/>
+<area shape="rect" id="node5" href="$classS1S2Stimulus.html" title="S1S2Stimulus" alt="" coords="556,5,660,35"/>
+<area shape="rect" id="node7" href="$classSteadyStateRestitutionStimulus.html" title="SteadyStateRestitutionStimulus" alt="" coords="505,58,711,89"/>
+<area shape="rect" id="node13" href="$classRegularStimulusZeroNetCharge.html" title="RegularStimulusZeroNetCharge" alt="" coords="503,138,713,169"/>
+</map>

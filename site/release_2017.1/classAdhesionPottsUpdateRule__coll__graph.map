@@ -1,0 +1,6 @@
+<map id="AdhesionPottsUpdateRule&lt; DIM &gt;" name="AdhesionPottsUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractPottsUpdateRule.html" title="{AbstractPottsUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractPottsUpdateRule()\l+ ~AbstractPottsUpdateRule()\l+ EvaluateHamiltonianContribution()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="5,361,237,512"/>
+<area shape="rect" id="node3" href="$classAbstractUpdateRule.html" title="{AbstractUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractUpdateRule()\l+ ~AbstractUpdateRule()\l+ OutputUpdateRuleInfo()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="13,161,230,312"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="15,5,227,112"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="262,398,322,475"/>
+</map>

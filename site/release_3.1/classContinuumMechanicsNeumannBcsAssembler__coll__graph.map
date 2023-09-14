@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractFeAssemblerInterface.html" title="{AbstractFeAssemblerInterface\&lt; true, false \&gt;\n|# mVectorToAssemble\l# mMatrixToAssemble\l# mAssembleMatrix\l# mAssembleVector\l# mZeroMatrixBeforeAssembly\l# mZeroVectorBeforeAssembly\l# mOwnershipRangeLo\l# mOwnershipRangeHi\l|+ AbstractFeAssemblerInterface()\l+ SetMatrixToAssemble()\l+ SetVectorToAssemble()\l+ Assemble()\l+ AssembleMatrix()\l+ AssembleVector()\l+ ~AbstractFeAssemblerInterface()\l# DoAssemble()\l}" alt="" coords="521,665,801,985"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{boost::noncopyable\n||}" alt="" coords="595,328,728,410"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="628,6,673,89"/>
+<area shape="rect" href="$classAbstractFeAssemblerInterface.html" title="{AbstractFeAssemblerInterface\&lt; CAN_ASSEMBLE_VECTOR, CAN_ASSEMBLE_MATRIX \&gt;\n|# mVectorToAssemble\l# mMatrixToAssemble\l# mAssembleMatrix\l# mAssembleVector\l# mZeroMatrixBeforeAssembly\l# mZeroVectorBeforeAssembly\l# mOwnershipRangeLo\l# mOwnershipRangeHi\l|+ AbstractFeAssemblerInterface()\l+ SetMatrixToAssemble()\l+ SetVectorToAssemble()\l+ Assemble()\l+ AssembleMatrix()\l+ AssembleVector()\l+ ~AbstractFeAssemblerInterface()\l# DoAssemble()\l}" alt="" coords="752,209,1320,529"/>
+<area shape="rect" href="$classMat.html" title="{Mat\n||}" alt="" coords="319,6,361,89"/>
+<area shape="rect" href="$classPetscInt.html" title="{PetscInt\n||}" alt="" coords="133,6,203,89"/>
+<area shape="rect" href="$classVec.html" title="{Vec\n||}" alt="" coords="1251,6,1293,89"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{noncopyable\n||}" alt="" coords="989,6,1083,89"/>
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; DIM&#45;1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="1840,741,2067,909"/>
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; ELEMENT_DIM \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l+ GaussianQuadratureRule()\l+ GaussianQuadratureRule()\l+ GaussianQuadratureRule()\l}" alt="" coords="1620,260,1905,478"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="2013,6,2085,89"/>
+</map>

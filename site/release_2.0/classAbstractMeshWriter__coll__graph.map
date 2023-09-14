@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classOutputFileHandler.html" title="{OutputFileHandler\n|&#45; mDirectory\l|+ OutputFileHandler()\l+ GetOutputDirectoryFullPath()\l+ SetArchiveDirectory()\l+ OpenOutputFile()\l+ OpenOutputFile()\l+ GetChasteTestOutputDirectory()\l&#45; MakeFoldersAndReturnFullPath()\l&#45; AddTrailingSlash()\l}" alt="" coords="132,144,353,318"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="996,194,1068,268"/>
+</map>

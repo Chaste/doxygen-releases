@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structmemorypool.html" title="{memorypool\n|+ firstblock\l+ nowblock\l+ nextitem\l+ deaditemstack\l+ pathblock\l+ pathitem\l+ alignbytes\l+ itembytes\l+ itemsperblock\l+ itemsfirstblock\l+ items\l+ maxitems\l+ unallocateditems\l+ pathitemsleft\l|}" alt="" coords="179,257,315,589"/>
+<area shape="rect" id="node24" href="$structotri.html" title="{otri\n|+ tri\l+ orient\l|}" alt="" coords="495,369,561,477"/>
+<area shape="rect" id="node12" href="$structbadtriang.html" title="{badtriang\n|+ poortri\l+ key\l+ triangorg\l+ triangdest\l+ triangapex\l+ nexttriang\l|}" alt="" coords="1148,331,1244,514"/>
+<area shape="rect" id="node17" href="$structflipstacker.html" title="{flipstacker\n|+ flippedtri\l+ prevflip\l|}" alt="" coords="887,369,969,477"/>
+</map>

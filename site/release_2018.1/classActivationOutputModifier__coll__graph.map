@@ -1,0 +1,5 @@
+<map id="ActivationOutputModifier" name="ActivationOutputModifier">
+<area shape="rect" id="node2" href="$classAbstractOutputModifier.html" title="{AbstractOutputModifier\n||+ AbstractOutputModifier()\l+ ~AbstractOutputModifier()\l+ InitialiseAtStart()\l+ FinaliseAtEnd()\l+ ProcessSolutionAtTimeStep()\l# AbstractOutputModifier()\l&#45; serialize()\l}" alt="" coords="117,147,323,312"/>
+<area shape="rect" id="node3" href="$classdouble.html" title="{double\n||}" alt="" coords="19,5,79,83"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="527,191,600,268"/>
+</map>

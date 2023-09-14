@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classDummyModifier.html" title="{DummyModifier\n||+ DummyModifier()\l+ Calc()\l}" alt="" coords="5,170,139,272"/>
+<area shape="rect" href="$classFactorModifier.html" title="{FactorModifier\n|&#45; mFactor\l|+ FactorModifier()\l+ Calc()\l}" alt="" coords="163,170,285,272"/>
+<area shape="rect" href="$classFixedModifier.html" title="{FixedModifier\n|&#45; mValue\l|+ FixedModifier()\l+ Calc()\l}" alt="" coords="309,170,429,272"/>
+<area shape="rect" href="$classTimeModifier.html" title="{TimeModifier\n||+ TimeModifier()\l+ Calc()\l}" alt="" coords="453,170,568,272"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,131"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{boost::noncopyable\n||}" alt="" coords="240,24,373,112"/>
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="613,24,672,112"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="1035,24,1080,112"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1151,24,1223,112"/>
+</map>

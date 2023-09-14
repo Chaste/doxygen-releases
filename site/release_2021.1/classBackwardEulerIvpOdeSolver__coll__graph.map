@@ -1,0 +1,8 @@
+<map id="BackwardEulerIvpOdeSolver" name="BackwardEulerIvpOdeSolver">
+<area shape="rect" id="node2" href="$classAbstractOneStepIvpOdeSolver.html" title="{AbstractOneStepIvpOdeSolver\n||+ Solve()\l+ Solve()\l+ ~AbstractOneStepIvpOdeSolver()\l# InternalSolve()\l# CalculateNextYValue()\l&#45; serialize()\l}" alt="" coords="250,461,480,612"/>
+<area shape="rect" id="node3" href="$classAbstractIvpOdeSolver.html" title="{AbstractIvpOdeSolver\n||+ Solve()\l+ Solve()\l+ SolveAndUpdateStateVariable()\l+ StoppingEventOccurred()\l+ GetStoppingTime()\l+ AbstractIvpOdeSolver()\l+ ~AbstractIvpOdeSolver()\l&#45; serialize()\l}" alt="" coords="241,175,460,355"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="192,5,404,112"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="56,20,116,97"/>
+<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="464,20,511,97"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="561,498,636,575"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractIvpOdeSolver.html" title="{AbstractIvpOdeSolver\n|# mStoppingEventOccurred\l# mStoppingTime\l|+ Solve()\l+ Solve()\l+ SolveAndUpdateStateVariable()\l+ StoppingEventOccurred()\l+ GetStoppingTime()\l+ AbstractIvpOdeSolver()\l+ ~AbstractIvpOdeSolver()\l&#45; serialize()\l}" alt="" coords="17,172,233,391"/>
+<area shape="rect" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="20,6,231,123"/>
+</map>

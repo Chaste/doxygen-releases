@@ -1,0 +1,7 @@
+<map id="ColumnDataWriter" name="ColumnDataWriter">
+<area shape="rect" id="node2" href="$classAbstractDataWriter.html" title="{AbstractDataWriter\n||+ DefineFixedDimension()\l+ DefineUnlimitedDimension()\l+ DefineVariable()\l+ EndDefineMode()\l+ AdvanceAlongUnlimitedDimension()\l+ PutVariable()\l+ Close()\l+ ~AbstractDataWriter()\l}" alt="" coords="5,197,248,377"/>
+<area shape="rect" id="node4" href="$classOutputFileHandler.html" title="{OutputFileHandler\n||+ OutputFileHandler()\l+ OutputFileHandler()\l+ GetOutputDirectoryFullPath()\l+ GetRelativePath()\l+ SetArchiveDirectory()\l+ OpenOutputFile()\l+ OpenOutputFile()\l+ CopyFileTo()\l+ FindFile()\l+ GetChasteTestOutputDirectory()\l&#45; CommonConstructor()\l&#45; MakeFoldersAndReturnFullPath()\l&#45; AddTrailingSlash()\l}" alt="" coords="707,160,929,413"/>
+<area shape="rect" id="node8" href="$structDataWriterVariable.html" title="{DataWriterVariable\n||}" alt="" coords="954,248,1085,325"/>
+<area shape="rect" id="node7" href="$classbool.html" title="{bool\n||}" alt="" coords="1082,5,1128,83"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1671,248,1744,325"/>
+</map>

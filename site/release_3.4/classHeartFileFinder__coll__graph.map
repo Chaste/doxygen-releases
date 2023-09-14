@@ -1,0 +1,4 @@
+<map id="HeartFileFinder" name="HeartFileFinder">
+<area shape="rect" id="node2" href="$classFileFinder.html" title="{FileFinder\n||+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ ~FileFinder()\l+ SetPath()\l+ SetPath()\l+ IsPathSet()\l+ Exists()\l+ IsFile()\land 13 more...\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l&#45; PrivateRemove()\l}" alt="" coords="52,147,285,459"/>
+<area shape="rect" id="node5" href="$classbool.html" title="{bool\n||}" alt="" coords="314,5,360,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="Hdf5DataWriter" name="Hdf5DataWriter">
+<area shape="rect" id="node2" href="$classAbstractHdf5Access.html" title="{AbstractHdf5Access\n|# mBaseName\l# mDatasetName\l# mDirectory\l# mIsDataComplete\l# mUnlimitedDimensionName\l# mUnlimitedDimensionUnit\l# mIsUnlimitedDimensionSet\l# mIncompleteNodeIndices\l# mFileId\l# mUnlimitedDatasetId\l# mVariablesDatasetId\l# mDatasetDims\l# DATASET_DIMS\l|+ AbstractHdf5Access()\l+ AbstractHdf5Access()\l+ ~AbstractHdf5Access()\l+ IsDataComplete()\l+ GetIncompleteNodeMap()\l+ GetUnlimitedDimensionName()\l+ GetUnlimitedDimensionUnit()\l# DoesDatasetExist()\l# SetUnlimitedDatasetId()\l# SetMainDatasetRawChunkCache()\l}" alt="" coords="7,6,245,391"/>
+</map>

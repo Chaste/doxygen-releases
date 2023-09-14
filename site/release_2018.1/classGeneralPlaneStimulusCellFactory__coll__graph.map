@@ -1,0 +1,4 @@
+<map id="GeneralPlaneStimulusCellFactory&lt; CELL, ELEMENT_DIM, SPACE_DIM &gt;" name="GeneralPlaneStimulusCellFactory&lt; CELL, ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classPlaneStimulusCellFactory.html" title="{PlaneStimulusCellFactory\l\&lt; CELL, ELEMENT_DIM, SPACE_DIM \&gt;\n||+ PlaneStimulusCellFactory()\l+ CreateCardiacCellForTissueNode()\l}" alt="" coords="499,480,767,587"/>
+<area shape="rect" id="node3" href="$classAbstractCardiacCellFactory.html" title="{AbstractCardiacCellFactory\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ CreateCardiacCellForNode()\l+ CreateCardiacCellForTissueNode()\l+ FinaliseCellCreation()\l+ FillInCellularTransmural\lAreas()\l+ GetNumberOfCells()\l+ AbstractCardiacCellFactory()\l+ ~AbstractCardiacCellFactory()\l+ SetMesh()\l+ GetMesh()\l+ SetHeartGeometryInformation()\l+ GetHeartGeometryInformation()\l}" alt="" coords="333,163,571,416"/>
+</map>

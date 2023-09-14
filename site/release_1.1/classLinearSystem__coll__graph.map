@@ -1,0 +1,2 @@
+<area shape="rect" href="$classPCBlockDiagonal.html" title="{PCBlockDiagonal\n|+ mPCContext\l+ mPetscPCObject\l|+ PCBlockDiagonal()\l+ ~PCBlockDiagonal()\l&#45; PCBlockDiagonalCreate()\l&#45; PCBlockDiagonalSetUp()\l}" alt="" coords="216,373,405,525">
+<area shape="rect" href="$structPCBlockDiagonal_1_1PCBlockDiagonalContext.html" title="{PCBlockDiagonal::PCBlockDiagonalContext\n|+ A11_matrix_subblock\l+ A22_matrix_subblock\l+ PC_amg_A11\l+ PC_amg_A22\l|}" alt="" coords="164,175,457,308">

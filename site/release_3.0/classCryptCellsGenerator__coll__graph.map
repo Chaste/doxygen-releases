@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classCellsGenerator.html" title="{CellsGenerator\&lt; CELL_CYCLE_MODEL, 2 \&gt;\n||+ GenerateBasic()\l+ GenerateBasicRandom()\l+ GenerateGivenLocationIndices()\l}" alt="" coords="13,197,293,323"/>
+<area shape="rect" href="$classCellsGenerator.html" title="{CellsGenerator\&lt; CELL_CYCLE_MODEL, DIM \&gt;\n||+ GenerateBasic()\l+ GenerateBasicRandom()\l+ GenerateGivenLocationIndices()\l}" alt="" coords="5,5,301,131"/>
+</map>

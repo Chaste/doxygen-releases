@@ -1,0 +1,5 @@
+<map id="MultiStimulus" name="MultiStimulus">
+<area shape="rect" id="node3" href="$classS1S2Stimulus.html" title="{S1S2Stimulus\n|&#45; mS2Index\l&#45; mNumS2FrequencyValues\l|+ S1S2Stimulus()\l+ GetStimulus()\l+ SetS2ExperimentPeriodIndex()\l+ GetNumS2FrequencyValues()\l&#45; serialize()\l&#45; S1S2Stimulus()\l}" alt="" coords="5,360,219,525"/>
+<area shape="rect" id="node4" href="$classSteadyStateRestitutionStimulus.html" title="{SteadyStateRestitutionStimulus\n||+ SteadyStateRestitutionStimulus()\l&#45; serialize()\l&#45; SteadyStateRestitutionStimulus()\l}" alt="" coords="243,389,471,496"/>
+<area shape="rect" id="node2" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="135,6,333,127"/>
+</map>

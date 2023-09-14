@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractCellMutationState.html" title="{AbstractCellMutationState\n|&#45; mColour\l|+ AbstractCellMutationState()\l+ ~AbstractCellMutationState()\l+ GetColour()\l&#45; serialize()\l&#45; AbstractCellMutationState()\l}" alt="" coords="141,475,344,627"/>
+<area shape="rect" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n|&#45; mCellCount\l|+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="57,187,228,424"/>
+<area shape="rect" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,123"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="240,23,312,105"/>
+</map>

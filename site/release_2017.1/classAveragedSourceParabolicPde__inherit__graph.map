@@ -1,0 +1,5 @@
+<map id="AveragedSourceParabolicPde&lt; DIM &gt;" name="AveragedSourceParabolicPde&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractLinearParabolicPde.html" title="{AbstractLinearParabolicPde\l\&lt; DIM, DIM \&gt;\n||+ AbstractLinearParabolicPde()\l+ ~AbstractLinearParabolicPde()\l+ ComputeDuDtCoefficientFunction()\l+ ComputeSourceTerm()\l+ ComputeSourceTermAtNode()\l+ ComputeDiffusionTerm()\l&#45; serialize()\l}" alt="" coords="5,419,244,599"/>
+<area shape="rect" id="node3" href="$classAbstractLinearPde.html" title="{AbstractLinearPde\&lt;\l ELEMENT_DIM, SPACE_DIM \&gt;\n||+ AbstractLinearPde()\l+ ~AbstractLinearPde()\l&#45; serialize()\l}" alt="" coords="41,5,259,127"/>
+<area shape="rect" id="node4" href="$classAbstractLinearParabolicPde.html" title="{AbstractLinearParabolicPde\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ AbstractLinearParabolicPde()\l+ ~AbstractLinearParabolicPde()\l+ ComputeDuDtCoefficientFunction()\l+ ComputeSourceTerm()\l+ ComputeSourceTermAtNode()\l+ ComputeDiffusionTerm()\l&#45; serialize()\l}" alt="" coords="141,176,380,356"/>
+</map>

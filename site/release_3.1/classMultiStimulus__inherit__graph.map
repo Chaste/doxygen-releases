@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classDynamicRestitutionStimulus.html" title="{DynamicRestitutionStimulus\n||+ DynamicRestitutionStimulus()\l&#45; serialize()\l&#45; DynamicRestitutionStimulus()\l}" alt="" coords="5,424,213,541"/>
+<area shape="rect" href="$classS1S2Stimulus.html" title="{S1S2Stimulus\n|&#45; mS2Index\l&#45; mNumS2FrequencyValues\l|+ S1S2Stimulus()\l+ GetStimulus()\l+ SetS2ExperimentPeriodIndex()\l+ GetNumS2FrequencyValues()\l&#45; serialize()\l&#45; S1S2Stimulus()\l}" alt="" coords="237,389,448,576"/>
+<area shape="rect" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="125,6,325,140"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="ObjectCommunicator&lt; CLASS &gt;" name="ObjectCommunicator&lt; CLASS &gt;">
+<area shape="rect" id="node2" href="$classObjectCommunicator.html" title="{ObjectCommunicator\l\&lt; std::vector\&lt; std::\lpair\&lt; CellPtr, Node\&lt;\l DIM \&gt; * \&gt; \&gt; \&gt;\n|&#45; mRecvBuffer\l&#45; mSendBuffer\l&#45; mSendString\l&#45; mRecvBufferLength\l&#45; mSendBufferLength\l&#45; mMpiRequest\l&#45; mIsWriting\l|+ ObjectCommunicator()\l+ SendObject()\l+ ISendObject()\l+ RecvObject()\l+ IRecvObject()\l+ GetRecvObject()\l+ SendRecvObject()\l}" alt="" coords="4,369,168,666"/>
+</map>

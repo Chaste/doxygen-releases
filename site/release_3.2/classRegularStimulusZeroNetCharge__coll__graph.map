@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classRegularStimulus.html" title="{RegularStimulus\n|# mMagnitudeOfStimulus\l# mDuration\l# mPeriod\l# mStartTime\l# mStopTime\l|+ RegularStimulus()\l+ GetStimulus()\l+ GetPeriod()\l+ GetMagnitude()\l+ GetDuration()\l+ GetStartTime()\l+ SetMagnitude()\l+ SetPeriod()\l+ SetDuration()\l+ SetStartTime()\l+ SetStopTime()\l&#45; serialize()\l}" alt="" coords="95,294,265,663"/>
+<area shape="rect" id="node4" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="5,6,203,151"/>
+<area shape="rect" id="node6" href="$classdouble.html" title="{double\n||}" alt="" coords="227,34,288,123"/>
+</map>

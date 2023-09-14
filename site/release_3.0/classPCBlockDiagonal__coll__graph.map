@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$structPCBlockDiagonal_1_1PCBlockDiagonalContext.html" title="{PCBlockDiagonal::PCBlockDiagonalContext\n|+ A11_matrix_subblock\l+ A22_matrix_subblock\l+ PC_amg_A11\l+ PC_amg_A22\l+ x1_subvector\l+ x2_subvector\l+ y1_subvector\l+ y2_subvector\l+ A11_scatter_ctx\l+ A22_scatter_ctx\l|}" alt="" coords="141,216,416,472"/>
+<area shape="rect" href="$classVec.html" title="{Vec\n||}" alt="" coords="432,5,475,93"/>
+</map>

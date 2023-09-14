@@ -1,0 +1,3 @@
+<map id="FileComparison" name="FileComparison">
+<area shape="rect" id="node2" href="$classAbstractFileComparison.html" title="{AbstractFileComparison\n|# mFilename1\l# mFilename2\l# mpFile1\l# mpFile2\l# mLineNum\l# mCalledCollectively\l# mSuppressOutput\l|+ AbstractFileComparison()\l+ AbstractFileComparison()\l+ ~AbstractFileComparison()\l# ResetFiles()\l# SkipHeaderLines()\l&#45; Setup()\l}" alt="" coords="17,6,207,245"/>
+</map>

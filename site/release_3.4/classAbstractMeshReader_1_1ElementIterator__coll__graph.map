@@ -1,0 +1,6 @@
+<map id="AbstractMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;::ElementIterator" name="AbstractMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;::ElementIterator">
+<area shape="rect" id="node4" href="$structElementData.html" title="{ElementData\n||}" alt="" coords="339,228,437,305"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="114,5,173,83"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="425,5,499,83"/>
+<area shape="rect" id="node8" href="$classAbstractMeshReader.html" title="{AbstractMeshReader\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ ~AbstractMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetNumCableElements()\l+ GetNumElementAttributes()\l+ GetNumFaceAttributes()\l+ GetNumCableElementAttributes()\l+ GetNodeAttributes()\l+ GetNumEdges()\land 25 more...\l}" alt="" coords="604,147,833,386"/>
+</map>

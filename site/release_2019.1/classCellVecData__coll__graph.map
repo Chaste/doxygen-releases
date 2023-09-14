@@ -1,0 +1,6 @@
+<map id="CellVecData" name="CellVecData">
+<area shape="rect" id="node2" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n||+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="109,175,279,384"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,217,112"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="241,20,315,97"/>
+<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="488,241,535,318"/>
+</map>

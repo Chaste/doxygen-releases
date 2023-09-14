@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractDataWriter.html" title="AbstractDataWriter" alt="" coords="5,5,136,35"/>
+<area shape="rect" href="$classColumnDataWriter.html" title="ColumnDataWriter" alt="" coords="184,5,309,35"/>
+<area shape="rect" href="$classParallelColumnDataWriter.html" title="ParallelColumnDataWriter" alt="" coords="357,5,525,35"/>
+</map>

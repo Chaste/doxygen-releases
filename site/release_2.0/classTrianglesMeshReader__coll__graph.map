@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractMeshReader.html" title="{AbstractMeshReader\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ ~AbstractMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetNumElementAttributes()\l+ GetNumFaceAttributes()\l+ GetNumEdges()\l+ GetNextNode()\l+ Reset()\l+ GetNextElementData()\l+ GetNextFaceData()\l+ GetNextEdgeData()\l+ GetNode()\l+ GetElementData()\l+ GetFaceData()\l+ GetEdgeData()\l+ GetMeshFileBaseName()\l+ IsFileFormatBinary()\l}" alt="" coords="5,6,349,318"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="951,125,996,200"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1235,125,1307,200"/>
+</map>

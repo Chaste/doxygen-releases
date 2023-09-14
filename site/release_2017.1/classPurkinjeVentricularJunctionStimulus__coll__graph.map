@@ -1,0 +1,7 @@
+<map id="PurkinjeVentricularJunctionStimulus" name="PurkinjeVentricularJunctionStimulus">
+<area shape="rect" id="node2" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="5,277,205,399"/>
+<area shape="rect" id="node3" href="$classAbstractCardiacCellInterface.html" title="{AbstractCardiacCellInterface\n||+ AbstractCardiacCellInterface()\l+ ~AbstractCardiacCellInterface()\l+ SetTimestep()\l+ GetNumberOfStateVariables()\l+ GetNumberOfParameters()\l+ GetStdVecStateVariables()\l+ rGetStateVariableNames()\l+ SetStateVariables()\l+ SetStateVariable()\l+ SetStateVariable()\land 28 more...\l&#45; serialize()\l}" alt="" coords="455,219,673,457"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="222,13,282,90"/>
+<area shape="rect" id="node7" href="$classbool.html" title="{bool\n||}" alt="" coords="929,13,975,90"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="736,13,811,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CellCycleTimesGenerator" name="CellCycleTimesGenerator">
+<area shape="rect" id="node2" href="$classSerializableSingleton.html" title="{SerializableSingleton\l\&lt; CellCycleTimesGenerator \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="5,316,201,437"/>
+<area shape="rect" id="node4" href="$classSerializableSingleton.html" title="{SerializableSingleton\l\&lt; SINGLETON_CLASS \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="120,132,303,253"/>
+<area shape="rect" id="node6" href="$classdouble.html" title="{double\n||}" alt="" coords="400,338,460,415"/>
+<area shape="rect" id="node7" href="$classbool.html" title="{bool\n||}" alt="" coords="485,338,532,415"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="606,338,681,415"/>
+</map>

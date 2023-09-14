@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classAbstractFileComparison.html" title="{AbstractFileComparison\n|# mFilename1\l# mFilename2\l# mpFile1\l# mpFile2\l# mLineNum\l# mCalledCollectively\l# mSuppressOutput\l|+ AbstractFileComparison()\l+ AbstractFileComparison()\l+ ~AbstractFileComparison()\l# ResetFiles()\l# SkipHeaderLines()\l&#45; Setup()\l}" alt="" coords="111,182,303,477"/>
+<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="107,6,155,95"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="349,6,427,95"/>
+</map>

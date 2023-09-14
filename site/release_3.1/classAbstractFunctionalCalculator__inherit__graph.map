@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$classPseudoEcgCalculator.html" title="{PseudoEcgCalculator\&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM \&gt;\n|&#45; mpDataReader\l&#45; mNumberOfNodes\l&#45; mNumTimeSteps\l&#45; mrMesh\l&#45; mProbeElectrode\l&#45; mDiffusionCoefficient\l&#45; mVariableName\l|+ PseudoEcgCalculator()\l+ ~PseudoEcgCalculator()\l+ SetDiffusionCoefficient()\l+ WritePseudoEcg()\l&#45; GetIntegrand()\l&#45; ComputePseudoEcgAtOneTimeStep()\l&#45; ShouldSkipThisElement()\l}" alt="" coords="27,207,483,492"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractOdeSystem.html" title="{AbstractOdeSystem\n|# mNumberOfStateVariables\l# mStateVariables\l# mParameters\l# mpSystemInfo\l# mUseAnalyticJacobian\l|+ AbstractOdeSystem()\l+ ~AbstractOdeSystem()\l+ EvaluateYDerivatives()\l+ GetNumberOfStateVariables()\l+ GetNumberOfParameters()\l+ GetParameter()\l+ SetParameter()\l+ rGetParameterNames()\l+ rGetParameterUnits()\l+ SetInitialConditions()\l+ SetInitialConditionsComponent()\l+ GetInitialConditions()\l+ SetStateVariables()\l+ SetStateVariable()\l+ rGetStateVariables()\l+ rGetVariableNames()\l+ rGetVariableUnits()\l+ CalculateStoppingEvent()\l+ CalculateRootFunction()\l+ GetUseAnalyticJacobian()\l+ GetStateVariableNumberByName()\l+ GetStateVariableValueByNumber()\l+ GetStateVariableUnitsByNumber()\l+ GetSystemInformation()\l# DumpState()\l&#45; serialize()\l}" alt="" coords="328,161,563,641"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="461,6,507,81"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="659,6,731,81"/>
+</map>

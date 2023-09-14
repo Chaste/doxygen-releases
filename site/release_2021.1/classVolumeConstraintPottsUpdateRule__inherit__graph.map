@@ -1,0 +1,5 @@
+<map id="VolumeConstraintPottsUpdateRule&lt; DIM &gt;" name="VolumeConstraintPottsUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractPottsUpdateRule.html" title="{AbstractPottsUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractPottsUpdateRule()\l+ ~AbstractPottsUpdateRule()\l+ EvaluateHamiltonianContribution()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="17,359,249,509"/>
+<area shape="rect" id="node3" href="$classAbstractUpdateRule.html" title="{AbstractUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractUpdateRule()\l+ ~AbstractUpdateRule()\l+ OutputUpdateRuleInfo()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="24,160,241,311"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="27,5,239,112"/>
+</map>

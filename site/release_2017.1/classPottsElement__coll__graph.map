@@ -1,0 +1,7 @@
+<map id="PottsElement&lt; DIM &gt;" name="PottsElement&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classMutableElement.html" title="{MutableElement\&lt; DIM,\l DIM \&gt;\n||+ MutableElement()\l+ MutableElement()\l+ ~MutableElement()\l+ RegisterWithNodes()\l+ MarkAsDeleted()\l+ ResetIndex()\l+ UpdateNode()\l+ DeleteNode()\l+ AddNode()\l+ GetNodeLocalIndex()\l+ IsElementOnBoundary()\l&#45; serialize()\l}" alt="" coords="213,808,386,1061"/>
+<area shape="rect" id="node3" href="$classAbstractElement.html" title="{AbstractElement\&lt; ELEMENT\l_DIM, SPACE_DIM \&gt;\n||+ AbstractElement()\l+ AbstractElement()\l+ ~AbstractElement()\l+ UpdateNode()\l+ ReplaceNode()\l+ MarkAsDeleted()\l+ RegisterWithNodes()\l+ GetNodeLocation()\l+ GetNodeLocation()\l+ GetNodeGlobalIndex()\land 14 more...\l# ConstructElementAttributes()\l}" alt="" coords="170,189,373,443"/>
+<area shape="rect" id="node8" href="$classMutableElement.html" title="{MutableElement\&lt; ELEMENT\l_DIM, SPACE_DIM \&gt;\n||+ MutableElement()\l+ MutableElement()\l+ ~MutableElement()\l+ RegisterWithNodes()\l+ MarkAsDeleted()\l+ ResetIndex()\l+ UpdateNode()\l+ DeleteNode()\l+ AddNode()\l+ GetNodeLocalIndex()\l+ IsElementOnBoundary()\l&#45; serialize()\l}" alt="" coords="293,492,484,745"/>
+<area shape="rect" id="node5" href="$classbool.html" title="{bool\n||}" alt="" coords="188,20,235,97"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="465,20,539,97"/>
+</map>

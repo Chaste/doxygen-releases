@@ -1,0 +1,4 @@
+<map id="RegularStimulus" name="RegularStimulus">
+<area shape="rect" id="node3" href="$classRegularStimulusZeroNetCharge.html" title="{RegularStimulusZeroNetCharge\n||+ RegularStimulusZeroNetCharge()\l+ GetStimulus()\l&#45; serialize()\l}" alt="" coords="5,520,232,627"/>
+<area shape="rect" id="node2" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="19,5,219,127"/>
+</map>

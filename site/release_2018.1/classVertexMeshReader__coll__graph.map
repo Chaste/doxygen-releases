@@ -1,0 +1,5 @@
+<map id="VertexMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="VertexMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractMeshReader.html" title="{AbstractMeshReader\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ ~AbstractMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetNumCableElements()\l+ GetNumElementAttributes()\l+ GetNumFaceAttributes()\l+ GetNumCableElementAttributes()\l+ GetNodeAttributes()\l+ GetNumEdges()\land 25 more...\l}" alt="" coords="5,6,235,245"/>
+<area shape="rect" id="node4" href="$classbool.html" title="{bool\n||}" alt="" coords="397,87,443,164"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="665,87,739,164"/>
+</map>

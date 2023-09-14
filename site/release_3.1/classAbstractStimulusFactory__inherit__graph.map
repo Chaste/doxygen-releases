@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractStimulusFactory.html" title="{AbstractStimulusFactory\&lt; DIM \&gt;\n|# mpMesh\l# mGroundedRegions\l|+ CreateStimulusForNode()\l+ GetNumberOfCells()\l+ SetCompatibleExtracellularStimulus()\l+ AbstractStimulusFactory()\l+ ~AbstractStimulusFactory()\l+ SetMesh()\l+ GetMesh()\l+ GetRegionsToBeGrounded()\l}" alt="" coords="65,292,316,511"/>
+<area shape="rect" href="$classElectrodesStimulusFactory.html" title="{ElectrodesStimulusFactory\&lt; DIM \&gt;\n|# mrElectrodePairs\l# mrMagnitudes\l# mrDurations\l# mrPeriods\l# mrStarts\l# mrEnds\l# mMagnitudesElectrode1\l# mMagnitudesElectrode2\l# mGroundSecondElectrode\l|+ ElectrodesStimulusFactory()\l+ CreateStimulusForNode()\l+ ~ElectrodesStimulusFactory()\l+ SetCompatibleExtracellularStimulus()\l+ GroundSecondElectrode()\l# CheckForElectrodesIntersection()\l# ComputeElectrodeTotalFlux()\l}" alt="" coords="65,564,316,884"/>
+<area shape="rect" href="$classZeroNetChargeElectrodes.html" title="{ZeroNetChargeElectrodes\&lt; DIM \&gt;\n||+ ZeroNetChargeElectrodes()\l+ CreateStimulusForNode()\l+ ~ZeroNetChargeElectrodes()\l}" alt="" coords="80,936,301,1054"/>
+</map>

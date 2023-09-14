@@ -1,0 +1,25 @@
+var classElectrodes =
+[
+    [ "Electrodes", "classElectrodes.html#ad489803292925c173e03b05ceda86ca3", null ],
+    [ "Electrodes", "classElectrodes.html#a14f7f670f54152b40b518b042696094f", null ],
+    [ "ComputeElectrodesAreasAndCheckEquality", "classElectrodes.html#a4b8be71572724fadbe2ad58b2c93f12c", null ],
+    [ "GetBoundaryConditionsContainer", "classElectrodes.html#ac9bd287ecdf1952735194c94faaaed22", null ],
+    [ "GetSwitchOffTime", "classElectrodes.html#a4ba388ad562e01780ed284d82457d8fd", null ],
+    [ "GetSwitchOnTime", "classElectrodes.html#a07a07d964eab161b69da0260ac6a9635", null ],
+    [ "HasGroundedElectrode", "classElectrodes.html#a1da780426ad44be64d38b0fb15a76a5f", null ],
+    [ "load", "classElectrodes.html#ac3b8ab8c258cac3b0d6f7772334685f0", null ],
+    [ "save", "classElectrodes.html#aa5b5c67fc7b2558d05ec111d33832713", null ],
+    [ "SwitchOff", "classElectrodes.html#a558d1fb9b6d010cdb14c9444581cff5a", null ],
+    [ "SwitchOn", "classElectrodes.html#a0ed44416621780c10e2f95f5f0057a6f", null ],
+    [ "boost::serialization::access", "classElectrodes.html#ac98d07dd8f7b70e16ccb9a01abf56b9c", null ],
+    [ "TestBidomainWithBathProblem", "classElectrodes.html#a8d5e1b36a0925988ad6c5abc99189f25", null ],
+    [ "TestElectrodes", "classElectrodes.html#aca11292ecb003d816de4f8e077016859", null ],
+    [ "mAreActive", "classElectrodes.html#a89ee04f4d83dd6fe08cd79ca3088ae05", null ],
+    [ "mEndTime", "classElectrodes.html#ace002b21f2730738b9079f873a5e9305", null ],
+    [ "mGroundSecondElectrode", "classElectrodes.html#afdf49e5e950a3d429ed8499bbd031f5d", null ],
+    [ "mLeftElectrodeArea", "classElectrodes.html#a7f52aab501c71ec054ab3d21ef487615", null ],
+    [ "mpBoundaryConditionsContainer", "classElectrodes.html#ac5355e8213a54b26b744dbb0ac4cee67", null ],
+    [ "mpMesh", "classElectrodes.html#ade343105929e054ce695d6d46308ad27", null ],
+    [ "mRightElectrodeArea", "classElectrodes.html#ac61ff315342566962e5e0119d357d6d5", null ],
+    [ "mStartTime", "classElectrodes.html#a5acf53392a5d88011699db66d4b57f15", null ]
+];

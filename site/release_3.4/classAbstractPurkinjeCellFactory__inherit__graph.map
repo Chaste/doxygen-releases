@@ -1,0 +1,3 @@
+<map id="AbstractPurkinjeCellFactory&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractPurkinjeCellFactory&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractCardiacCellFactory.html" title="{AbstractCardiacCellFactory\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n|# mpZeroStimulus\l# mpSolver\l&#45; mpMesh\l&#45; mpHeartGeometryInformation\l|+ CreateCardiacCellForNode()\l+ CreateCardiacCellForTissueNode()\l+ FinaliseCellCreation()\l+ FillInCellularTransmural\lAreas()\l+ GetNumberOfCells()\l+ AbstractCardiacCellFactory()\l+ ~AbstractCardiacCellFactory()\l+ SetMesh()\l+ GetMesh()\l+ SetHeartGeometryInformation()\l+ GetHeartGeometryInformation()\l}" alt="" coords="5,6,243,303"/>
+</map>

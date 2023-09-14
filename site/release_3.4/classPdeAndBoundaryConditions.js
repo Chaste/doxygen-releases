@@ -1,0 +1,25 @@
+var classPdeAndBoundaryConditions =
+[
+    [ "PdeAndBoundaryConditions", "classPdeAndBoundaryConditions.html#a6bf0c01ff5e50521d1d6cb2091388573", null ],
+    [ "~PdeAndBoundaryConditions", "classPdeAndBoundaryConditions.html#a0c11b26d07d4fed213b53170153232cb", null ],
+    [ "DestroySolution", "classPdeAndBoundaryConditions.html#a63fa4c3d34eb4547b644e2c138726dfa", null ],
+    [ "GetBoundaryCondition", "classPdeAndBoundaryConditions.html#a7362f555b3b244abdb4c4b2ca901fc67", null ],
+    [ "GetPde", "classPdeAndBoundaryConditions.html#a5f0bcaf8af173ae329991d6d24f72404", null ],
+    [ "GetSolution", "classPdeAndBoundaryConditions.html#a13ab4b101c060e41d2d408c6b7786349", null ],
+    [ "GetSolution", "classPdeAndBoundaryConditions.html#adb5913f6a59b477c06d767e2ba3716e6", null ],
+    [ "HasAveragedSourcePde", "classPdeAndBoundaryConditions.html#a9e91542400671722baf86a6a6f3941d6", null ],
+    [ "IsNeumannBoundaryCondition", "classPdeAndBoundaryConditions.html#a81e4ebfabdfb99566eb907bebd8d5b93", null ],
+    [ "rGetDependentVariableName", "classPdeAndBoundaryConditions.html#a34f6077aa37dd4f28141039f10bd8196", null ],
+    [ "serialize", "classPdeAndBoundaryConditions.html#ae8c0bcb002470a33c5d8338b2775b5e8", null ],
+    [ "SetDependentVariableName", "classPdeAndBoundaryConditions.html#a71b20060d43587e4ed66510fc6fc4ac0", null ],
+    [ "SetSolution", "classPdeAndBoundaryConditions.html#a5199b21a69cd54c8dc5633c0c3cbc67e", null ],
+    [ "SetUpSourceTermsForAveragedSourcePde", "classPdeAndBoundaryConditions.html#a6adedf5e18c56cc63d60293ffa0425d3", null ],
+    [ "boost::serialization::access", "classPdeAndBoundaryConditions.html#ac98d07dd8f7b70e16ccb9a01abf56b9c", null ],
+    [ "TestPdeAndBoundaryConditions", "classPdeAndBoundaryConditions.html#a94c3e4781150ea8b898ed2b3fb98cb7b", null ],
+    [ "mDeleteMemberPointersInDestructor", "classPdeAndBoundaryConditions.html#a14aae75bc93c20fd6042faeea62b254d", null ],
+    [ "mDependentVariableName", "classPdeAndBoundaryConditions.html#a1793cacb40e5e4f551e8ed2665fab2b3", null ],
+    [ "mIsNeumannBoundaryCondition", "classPdeAndBoundaryConditions.html#ac5a69d542bf4addfc41adee6841871e1", null ],
+    [ "mpBoundaryCondition", "classPdeAndBoundaryConditions.html#ab6dca655eb0ef1833749aa67551b7bf0", null ],
+    [ "mpPde", "classPdeAndBoundaryConditions.html#a3f5b3c5d4e87d6a5a1720c548a416c63", null ],
+    [ "mSolution", "classPdeAndBoundaryConditions.html#a67fbce2c222fcf4f974314723c57db94", null ]
+];

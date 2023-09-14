@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classFileFinder.html" title="{FileFinder\n|&#45; mAbsPath\l&#45; msFaking\l&#45; msFakeWhat\l&#45; msFakePath\l|+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ SetPath()\l+ IsPathSet()\l+ SetPath()\l+ Exists()\l+ IsFile()\l+ IsDir()\l+ IsEmpty()\l+ GetAbsolutePath()\l+ IsNewerThan()\l+ GetLeafName()\l+ GetLeafNameNoExtension()\l+ GetExtension()\l+ GetParent()\l+ GetRelativePath()\l+ CopyTo()\l+ Remove()\l+ FindMatches()\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l}" alt="" coords="100,155,335,715"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="348,7,393,90"/>
+</map>

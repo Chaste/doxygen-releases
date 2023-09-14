@@ -1,0 +1,8 @@
+<map id="PdeAndBoundaryConditions&lt; DIM &gt;" name="PdeAndBoundaryConditions&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractBoundaryCondition.html" title="{AbstractBoundaryCondition\l\&lt; DIM \&gt;\n||+ GetValue()\l+ AbstractBoundaryCondition()\l+ ~AbstractBoundaryCondition()\l&#45; serialize()\l}" alt="" coords="5,337,213,473"/>
+<area shape="rect" id="node3" href="$classAbstractBoundaryCondition.html" title="{AbstractBoundaryCondition\l\&lt; SPACE_DIM \&gt;\n||+ GetValue()\l+ AbstractBoundaryCondition()\l+ ~AbstractBoundaryCondition()\l&#45; serialize()\l}" alt="" coords="5,49,213,185"/>
+<area shape="rect" id="node5" href="$classbool.html" title="{bool\n||}" alt="" coords="450,367,496,444"/>
+<area shape="rect" id="node6" href="$classAbstractLinearEllipticPde.html" title="{AbstractLinearEllipticPde\l\&lt; DIM, DIM \&gt;\n||+ AbstractLinearEllipticPde()\l+ ~AbstractLinearEllipticPde()\l+ ComputeConstantInUSourceTerm()\l+ ComputeLinearInUCoeffInSourceTerm()\l+ ComputeDiffusionTerm()\l+ ComputeConstantInUSource\lTermAtNode()\l+ ComputeLinearInUCoeffInSource\lTermAtNode()\l&#45; serialize()\l}" alt="" coords="557,293,821,517"/>
+<area shape="rect" id="node7" href="$classAbstractLinearEllipticPde.html" title="{AbstractLinearEllipticPde\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ AbstractLinearEllipticPde()\l+ ~AbstractLinearEllipticPde()\l+ ComputeConstantInUSourceTerm()\l+ ComputeLinearInUCoeffInSourceTerm()\l+ ComputeDiffusionTerm()\l+ ComputeConstantInUSource\lTermAtNode()\l+ ComputeLinearInUCoeffInSource\lTermAtNode()\l&#45; serialize()\l}" alt="" coords="557,5,821,229"/>
+<area shape="rect" id="node8" href="$classVec.html" title="{Vec\n||}" alt="" coords="847,367,892,444"/>
+</map>

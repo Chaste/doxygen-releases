@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; DIM \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="5,288,221,456"/>
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; 1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="245,288,443,456"/>
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; ELEMENT_DIM&#45;1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="467,288,763,456"/>
+<area shape="rect" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; DIM&#45;1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="787,288,1013,456"/>
+</map>

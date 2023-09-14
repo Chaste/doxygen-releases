@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$CellMLToSharedLibraryConverter_8cpp_source.html" title="heart/src/odes/CellMLToSharedLibraryConverter.cpp" alt="" coords="5,84,331,111"/>
+<area shape="rect" href="$FileFinder_8cpp_source.html" title="global/src/FileFinder.cpp" alt="" coords="355,84,517,111"/>
+<area shape="rect" href="$PetscSetupAndFinalize_8hpp_source.html" title="global/src/fortests/PetscSetupAndFinalize.hpp" alt="" coords="541,84,832,111"/>
+<area shape="rect" href="$AbstractPerElementWriter_8hpp_source.html" title="mesh/src/utilities/AbstractPerElementWriter.hpp" alt="" coords="536,162,837,188"/>
+</map>

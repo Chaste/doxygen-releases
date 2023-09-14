@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="5,319,64,407"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="885,5,931,93"/>
+<area shape="rect" href="$classFileFinder.html" title="{FileFinder\n|&#45; mAbsPath\l&#45; msFaking\l&#45; msFakeWhat\l&#45; msFakePath\l|+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ SetPath()\l+ SetPath()\l+ Exists()\l+ IsFile()\l+ IsDir()\l+ GetAbsolutePath()\l+ IsNewerThan()\l+ GetLeafName()\l+ GetParent()\l+ IsAbsolutePath()\l+ FakePath()\l+ StopFaking()\l}" alt="" coords="1160,160,1299,565"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1619,319,1691,407"/>
+</map>

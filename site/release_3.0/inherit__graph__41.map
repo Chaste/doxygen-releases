@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractStimulusFunction.html" title="AbstractStimulusFunction" alt="" coords="5,139,176,168"/>
+<area shape="rect" href="$classMultiStimulus.html" title="MultiStimulus" alt="" coords="233,59,332,88"/>
+<area shape="rect" href="$classRegularStimulus.html" title="RegularStimulus" alt="" coords="225,112,340,141"/>
+<area shape="rect" href="$classSimpleStimulus.html" title="SimpleStimulus" alt="" coords="227,165,339,195"/>
+<area shape="rect" href="$classZeroStimulus.html" title="ZeroStimulus" alt="" coords="235,219,331,248"/>
+<area shape="rect" href="$classDynamicRestitutionStimulus.html" title="DynamicRestitutionStimulus" alt="" coords="399,5,583,35"/>
+<area shape="rect" href="$classS1S2Stimulus.html" title="S1S2Stimulus" alt="" coords="439,59,543,88"/>
+<area shape="rect" href="$classRegularStimulusZeroNetCharge.html" title="RegularStimulusZeroNetCharge" alt="" coords="389,112,592,141"/>
+</map>

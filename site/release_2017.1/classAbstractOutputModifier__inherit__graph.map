@@ -1,0 +1,4 @@
+<map id="AbstractOutputModifier" name="AbstractOutputModifier">
+<area shape="rect" id="node2" href="$classActivationOutputModifier.html" title="{ActivationOutputModifier\n|&#45; mThreshold\l&#45; mLocalSize\l&#45; mFirstActivitationTimes\l&#45; mFirstRecoveryTimes\l&#45; mSecondActivitationTimes\l&#45; mSecondRecoveryTimes\l|+ ActivationOutputModifier()\l+ InitialiseAtStart()\l+ FinaliseAtEnd()\l+ ProcessSolutionAtTimeStep()\l&#45; serialize()\l&#45; ActivationOutputModifier()\l}" alt="" coords="5,233,212,457"/>
+<area shape="rect" id="node3" href="$classSingleTraceOutputModifier.html" title="{SingleTraceOutputModifier\n|&#45; mGlobalIndex\l&#45; mLocalIndex\l&#45; mFileStream\l|+ SingleTraceOutputModifier()\l+ InitialiseAtStart()\l+ FinaliseAtEnd()\l+ ProcessSolutionAtTimeStep()\l&#45; serialize()\l&#45; SingleTraceOutputModifier()\l}" alt="" coords="236,255,443,435"/>
+</map>

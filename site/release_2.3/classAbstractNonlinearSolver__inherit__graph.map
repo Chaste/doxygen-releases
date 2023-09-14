@@ -1,0 +1,2 @@
+<area shape="rect" href="$classSimpleNewtonNonlinearSolver.html" title="{SimpleNewtonNonlinearSolver\n|&#45; mLinearSolverRelativeTolerance\l&#45; mTolerance\l&#45; mWriteStats\l&#45; mTestDampingValues\l|+ SimpleNewtonNonlinearSolver()\l+ ~SimpleNewtonNonlinearSolver()\l+ Solve()\l+ SetTolerance()\l+ SetWriteStats()\l}" alt="" coords="5,155,256,358">
+<area shape="rect" href="$classSimplePetscNonlinearSolver.html" title="{SimplePetscNonlinearSolver\n||+ Solve()\l}" alt="" coords="280,215,480,298">

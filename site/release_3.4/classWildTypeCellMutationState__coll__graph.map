@@ -1,0 +1,6 @@
+<map id="WildTypeCellMutationState" name="WildTypeCellMutationState">
+<area shape="rect" id="node2" href="$classAbstractCellMutationState.html" title="{AbstractCellMutationState\n||+ AbstractCellMutationState()\l+ ~AbstractCellMutationState()\l+ GetColour()\l&#45; serialize()\l&#45; AbstractCellMutationState()\l}" alt="" coords="143,437,345,573"/>
+<area shape="rect" id="node3" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n||+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="59,177,229,386"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,112"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="240,20,313,97"/>
+</map>

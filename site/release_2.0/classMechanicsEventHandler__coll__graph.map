@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classGenericEventHandler.html" title="{GenericEventHandler\&lt; 7, MechanicsEventHandler \&gt;\n|&#45; mCpuTime\l&#45; mHasBegun\l&#45; mEnabled\l&#45; mInitialised\l&#45; mInUse\l|+ Reset()\l+ BeginEvent()\l+ EndEvent()\l+ GetElapsedTime()\l+ Report()\l+ Headings()\l+ Enable()\l+ Disable()\l+ IsEnabled()\l&#45; MilliSleep()\l&#45; GetCpuTime()\l&#45; ConvertTicksToMilliseconds()\l&#45; ConvertTicksToSeconds()\l&#45; CheckVectorSizes()\l}" alt="" coords="275,551,597,863"/>
+<area shape="rect" href="$classGenericEventHandler.html" title="{GenericEventHandler\&lt; NUM_EVENTS, CONCRETE \&gt;\n|&#45; mCpuTime\l&#45; mHasBegun\l&#45; mEnabled\l&#45; mInitialised\l&#45; mInUse\l|+ Reset()\l+ BeginEvent()\l+ EndEvent()\l+ GetElapsedTime()\l+ Report()\l+ Headings()\l+ Enable()\l+ Disable()\l+ IsEnabled()\l&#45; MilliSleep()\l&#45; GetCpuTime()\l&#45; ConvertTicksToMilliseconds()\l&#45; ConvertTicksToSeconds()\l&#45; CheckVectorSizes()\l}" alt="" coords="156,175,492,487"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="456,7,501,81"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AbstractCaUpdateRule&lt; DIM &gt;" name="AbstractCaUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="node4" href="$classDiffusionCaUpdateRule.html" title="{DiffusionCaUpdateRule\l\&lt; DIM \&gt;\n|&#45; mDiffusionParameter\l|+ DiffusionCaUpdateRule()\l+ ~DiffusionCaUpdateRule()\l+ EvaluateProbability()\l+ GetDiffusionParameter()\l+ SetDiffusionParameter()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="5,557,223,737"/>
+<area shape="rect" id="node2" href="$classAbstractUpdateRule.html" title="{AbstractUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractUpdateRule()\l+ ~AbstractUpdateRule()\l+ OutputUpdateRuleInfo()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="5,160,223,311"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="8,5,220,112"/>
+</map>

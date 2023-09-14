@@ -1,0 +1,4 @@
+<area shape="rect" href="$classDummyModifier.html" title="{DummyModifier\n||+ DummyModifier()\l+ Calc()\l}" alt="" coords="5,170,152,272">
+<area shape="rect" href="$classFactorModifier.html" title="{FactorModifier\n|&#45; mFactor\l|+ FactorModifier()\l+ Calc()\l}" alt="" coords="176,170,312,272">
+<area shape="rect" href="$classFixedModifier.html" title="{FixedModifier\n|&#45; mValue\l|+ FixedModifier()\l+ Calc()\l}" alt="" coords="336,170,464,272">
+<area shape="rect" href="$classTimeModifier.html" title="{TimeModifier\n||+ TimeModifier()\l+ Calc()\l}" alt="" coords="488,170,616,272">

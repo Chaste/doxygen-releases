@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$classBoxCollection.html" title="{BoxCollection\&lt; SPACE_DIM \&gt;\n|&#45; mBoxes\l&#45; mDomainSize\l&#45; mBoxWidth\l&#45; mNumBoxesEachDirection\l&#45; mLocalBoxes\l&#45; mFudge\l|+ BoxCollection()\l+ CalculateContainingBox()\l+ CalculateContainingBox()\l+ rGetBox()\l+ GetNumBoxes()\l+ SetupLocalBoxesHalfOnly()\l+ SetupAllLocalBoxes()\l+ GetLocalBoxes()\l+ CalculateNodePairs()\l}" alt="" coords="5,377,208,681"/>
+</map>

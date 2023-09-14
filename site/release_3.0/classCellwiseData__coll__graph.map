@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; CellwiseData\&lt; DIM \&gt; \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="5,336,293,461"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{boost::noncopyable\n||}" alt="" coords="115,5,248,93"/>
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; SINGLETON_CLASS \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="165,144,456,269"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="693,355,739,443"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="875,355,947,443"/>
+</map>

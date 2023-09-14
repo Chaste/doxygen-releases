@@ -1,0 +1,4 @@
+<map id="ExecutableSupport" name="ExecutableSupport">
+<area shape="rect" id="node3" href="$classFileFinder.html" title="{FileFinder\n||+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ ~FileFinder()\l+ SetPath()\l+ SetPath()\l+ IsPathSet()\l+ Exists()\l+ IsFile()\land 14 more...\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l&#45; PrivateRemove()\l}" alt="" coords="104,147,337,459"/>
+<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="366,5,412,83"/>
+</map>

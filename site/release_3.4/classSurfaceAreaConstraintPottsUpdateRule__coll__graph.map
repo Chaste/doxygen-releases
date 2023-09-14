@@ -1,0 +1,5 @@
+<map id="SurfaceAreaConstraintPottsUpdateRule&lt; DIM &gt;" name="SurfaceAreaConstraintPottsUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractPottsUpdateRule.html" title="{AbstractPottsUpdateRule\l\&lt; DIM \&gt;\n||+ AbstractPottsUpdateRule()\l+ ~AbstractPottsUpdateRule()\l+ EvaluateHamiltonianContribution()\l+ OutputUpdateRuleInfo()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="5,163,237,328"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="15,5,227,112"/>
+<area shape="rect" id="node4" href="$classdouble.html" title="{double\n||}" alt="" coords="262,207,321,284"/>
+</map>

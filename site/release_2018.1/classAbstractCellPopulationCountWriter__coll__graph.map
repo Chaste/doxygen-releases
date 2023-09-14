@@ -1,0 +1,4 @@
+<map id="AbstractCellPopulationCountWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractCellPopulationCountWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractCellBasedWriter.html" title="{AbstractCellBasedWriter\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ AbstractCellBasedWriter()\l+ ~AbstractCellBasedWriter()\l+ CloseFile()\l+ OpenOutputFile()\l+ OpenOutputFileForAppend()\l+ WriteTimeStamp()\l+ WriteNewline()\l+ SetFileName()\l+ GetFileName()\l&#45; serialize()\l}" alt="" coords="155,176,381,400"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,112"/>
+</map>

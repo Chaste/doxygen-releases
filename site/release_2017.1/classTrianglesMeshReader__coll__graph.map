@@ -1,0 +1,5 @@
+<map id="TrianglesMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="TrianglesMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractMeshReader.html" title="{AbstractMeshReader\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ ~AbstractMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetNumCableElements()\l+ GetNumElementAttributes()\l+ GetNumFaceAttributes()\l+ GetNumCableElementAttributes()\l+ GetNodeAttributes()\l+ GetNumEdges()\land 25 more...\l}" alt="" coords="5,5,235,244"/>
+<area shape="rect" id="node8" href="$classbool.html" title="{bool\n||}" alt="" coords="1106,86,1153,163"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1293,86,1368,163"/>
+</map>

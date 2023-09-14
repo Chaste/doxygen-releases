@@ -1,0 +1,6 @@
+<area shape="rect" href="$classApcOneHitCellMutationState.html" title="{ApcOneHitCellMutationState\n||+ ApcOneHitCellMutationState()\l&#45; serialize()\l}" alt="" coords="5,656,232,758">
+<area shape="rect" href="$classApcTwoHitCellMutationState.html" title="{ApcTwoHitCellMutationState\n||+ ApcTwoHitCellMutationState()\l&#45; serialize()\l}" alt="" coords="256,656,480,758">
+<area shape="rect" href="$classBetaCateninOneHitCellMutationState.html" title="{BetaCateninOneHitCellMutationState\n||+ BetaCateninOneHitCellMutationState()\l&#45; serialize()\l}" alt="" coords="504,656,787,758">
+<area shape="rect" href="$classWildTypeCellMutationState.html" title="{WildTypeCellMutationState\n||+ WildTypeCellMutationState()\l&#45; serialize()\l}" alt="" coords="811,656,1024,758">
+<area shape="rect" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n|&#45; mCellCount\l|+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="413,171,600,408">
+<area shape="rect" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="393,6,620,123">

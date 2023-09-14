@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; RandomNumberGenerator \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="5,336,320,461"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{boost::noncopyable\n||}" alt="" coords="128,5,261,93"/>
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; SINGLETON_CLASS \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="179,144,469,269"/>
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="344,355,403,443"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="552,355,597,443"/>
+</map>

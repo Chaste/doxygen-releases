@@ -1,0 +1,4 @@
+<map id="S1S2Stimulus" name="S1S2Stimulus">
+<area shape="rect" id="node2" href="$classMultiStimulus.html" title="{MultiStimulus\n|# mStimuli\l|+ ~MultiStimulus()\l+ AddStimulus()\l+ GetStimulus()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="47,176,176,312"/>
+<area shape="rect" id="node3" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="12,6,211,127"/>
+</map>

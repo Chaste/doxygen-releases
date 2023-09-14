@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractCardiacCellFactory.html" title="AbstractCardiacCellFactory\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;" alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$classAbstractPurkinjeCellFactory.html" title="AbstractPurkinjeCellFactory\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;" alt="" coords="301,5,527,47"/>
+<area shape="rect" id="node3" href="$classPlaneStimulusCellFactory.html" title="PlaneStimulusCellFactory\l\&lt; CELL, ELEMENT_DIM, SPACE_DIM \&gt;" alt="" coords="280,71,548,112"/>
+<area shape="rect" id="node4" href="$classGeneralPlaneStimulusCellFactory.html" title="GeneralPlaneStimulusCell\lFactory\&lt; CELL, ELEMENT\l_DIM, SPACE_DIM \&gt;" alt="" coords="596,63,779,119"/>
+</map>

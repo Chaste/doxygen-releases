@@ -1,0 +1,5 @@
+<map id="SimulationTime" name="SimulationTime">
+<area shape="rect" id="node2" href="$classSerializableSingleton.html" title="{SerializableSingleton\l\&lt; SimulationTime \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="5,316,188,437"/>
+<area shape="rect" id="node4" href="$classSerializableSingleton.html" title="{SerializableSingleton\l\&lt; SINGLETON_CLASS \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="113,132,296,253"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="212,338,272,415"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="CellCycleModelOdeSolver&lt; CELL_CYCLE_MODEL, BackwardEulerIvpOdeSolver &gt;" name="CellCycleModelOdeSolver&lt; CELL_CYCLE_MODEL, BackwardEulerIvpOdeSolver &gt;">
+<area shape="rect" id="node2" href="$classAbstractCellCycleModelOdeSolver.html" title="{AbstractCellCycleModelOde\lSolver\n|# mpOdeSolver\l# mSizeOfOdeSystem\l|+ AbstractCellCycleModelOde\lSolver()\l+ ~AbstractCellCycleModelOde\lSolver()\l+ IsSetUp()\l+ Reset()\l+ SolveAndUpdateStateVariable()\l+ Initialise()\l+ StoppingEventOccurred()\l+ GetStoppingTime()\l+ SetSizeOfOdeSystem()\l+ GetSizeOfOdeSystem()\l+ CheckForStoppingEvents()\l+ SetMaxSteps()\l+ SetTolerances()\l+ IsAdaptive()\l&#45; serialize()\l}" alt="" coords="5,5,224,347"/>
+</map>

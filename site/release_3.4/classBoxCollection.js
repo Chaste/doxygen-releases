@@ -1,0 +1,27 @@
+var classBoxCollection =
+[
+    [ "BoxCollection", "classBoxCollection.html#a6f1a3797a65a82104251c84e7d1006f7", null ],
+    [ "CalculateContainingBox", "classBoxCollection.html#a7aa8a1ff1e39bcd6d8fe51e869b2eb2c", null ],
+    [ "CalculateContainingBox", "classBoxCollection.html#aca36112ed8a4874e67322252a0c36560", null ],
+    [ "CalculateNodePairs", "classBoxCollection.html#a28adc3139a1c6b87671fc1ce9300d858", null ],
+    [ "EmptyBoxes", "classBoxCollection.html#a424f668d6e21ee302d0084aae030be7c", null ],
+    [ "GetGridIndices", "classBoxCollection.html#ab2c90ec6665d46091071e54115567a4e", null ],
+    [ "GetLinearIndex", "classBoxCollection.html#a29f6679d5bcb7cd6d6215e1a27a9e1a7", null ],
+    [ "GetLocalBoxes", "classBoxCollection.html#a8eb33edd9ebb918a335c8479cd82b0e7", null ],
+    [ "GetNumBoxes", "classBoxCollection.html#a4bdccb88d0462c32c88aae0122bb0b81", null ],
+    [ "IsBoxInDomain", "classBoxCollection.html#a94dfa77ebf09a9dc0e11c917fc15f3d2", null ],
+    [ "IsIndexPenultimate", "classBoxCollection.html#accdf8fcb328c7471c807f6adae125700", null ],
+    [ "rGetBox", "classBoxCollection.html#ae05eb4eb66407d12985b69aedf1ad5e5", null ],
+    [ "rGetDomainSize", "classBoxCollection.html#a71c4292a13cfdbb22a0d71bd18083110", null ],
+    [ "SetupAllLocalBoxes", "classBoxCollection.html#aaa274377512613c8055e723b074bee9b", null ],
+    [ "SetupLocalBoxes", "classBoxCollection.html#a97830d88f921192a8aa527421c98a3c6", null ],
+    [ "SetupLocalBoxesHalfOnly", "classBoxCollection.html#adc0eba03e7c17c3eee0a48c1543a274a", null ],
+    [ "TestBoxCollection", "classBoxCollection.html#a600a7fcd2fef3a9c696bac6d2d587b04", null ],
+    [ "mBoxes", "classBoxCollection.html#a9a83126cd330486ce4b7edf6937037b2", null ],
+    [ "mBoxWidth", "classBoxCollection.html#a82bbf2dece7e48e89ff99a2483e316a8", null ],
+    [ "mDomainSize", "classBoxCollection.html#a809b7d7fa9890bc0aefe8a112aa6c5be", null ],
+    [ "mIsDomainPeriodic", "classBoxCollection.html#a5ae4048db80fe654f6a43727b95e43a9", null ],
+    [ "mLocalBoxes", "classBoxCollection.html#a41ac7521dfd68b54b697cf584b90f370", null ],
+    [ "mNumBoxesEachDirection", "classBoxCollection.html#a8cec1f2f571584237f23803e340b6fbf", null ],
+    [ "msFudge", "classBoxCollection.html#acee19e5158247eedeb5e84d6b4f3d2e3", null ]
+];

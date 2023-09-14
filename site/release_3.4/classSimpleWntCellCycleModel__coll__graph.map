@@ -1,0 +1,8 @@
+<map id="SimpleWntCellCycleModel" name="SimpleWntCellCycleModel">
+<area shape="rect" id="node2" href="$classAbstractSimpleCellCycleModel.html" title="{AbstractSimpleCellCycleModel\n||+ AbstractSimpleCellCycleModel()\l+ ~AbstractSimpleCellCycle\lModel()\l+ ResetForDivision()\l+ UpdateCellCyclePhase()\l+ InitialiseDaughterCell()\l+ Initialise()\l+ OutputCellCycleModelParameters()\l# SetG1Duration()\l&#45; serialize()\l}" alt="" coords="443,611,683,821"/>
+<area shape="rect" id="node3" href="$classAbstractCellCycleModel.html" title="{AbstractCellCycleModel\n||+ AbstractCellCycleModel()\l+ ~AbstractCellCycleModel()\l+ SetCell()\l+ Initialise()\l+ InitialiseDaughterCell()\l+ GetCell()\l+ SetBirthTime()\l+ SetDimension()\l+ GetDimension()\l+ GetBirthTime()\land 25 more...\l&#45; serialize()\l}" alt="" coords="467,278,657,517"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="290,5,501,112"/>
+<area shape="rect" id="node6" href="$classdouble.html" title="{double\n||}" alt="" coords="5,20,64,97"/>
+<area shape="rect" id="node9" href="$classbool.html" title="{bool\n||}" alt="" coords="903,20,949,97"/>
+<area shape="rect" id="node10" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="525,20,599,97"/>
+</map>

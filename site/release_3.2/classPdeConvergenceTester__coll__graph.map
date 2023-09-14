@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classAbstractConvergenceTester.html" title="{AbstractConvergenceTester\&lt; CELL, CARDIAC_PROBLEM, DIM, PROBLEM_DIM \&gt;\n||+ Converge()\l+ DisplayRun()\l+ ~AbstractConvergenceTester()\l+ SetInitialConvergenceParameters()\l+ UpdateConvergenceParameters()\l+ GiveUpConvergence()\l+ Abscissa()\l+ PopulateStandardResult()\l+ IsConverged()\l+ SetMeshWidth()\l}" alt="" coords="88,827,600,1085"/>
+<area shape="rect" id="node4" href="$classAbstractUntemplatedConvergenceTester.html" title="{AbstractUntemplatedConvergenceTester\n|+ OdeTimeStep\l+ PdeTimeStep\l+ MeshNum\l+ RelativeConvergenceCriterion\l+ LastDifference\l+ Apd90FirstQn\l+ Apd90ThirdQn\l+ ConductionVelocity\l+ PopulatedResult\l+ FixedResult\l+ UseAbsoluteStimulus\l+ AbsoluteStimulus\l+ SimulateFullActionPotential\l+ Converged\l+ Stimulus\l+ NeumannStimulus\l# mMeshWidth\l|+ AbstractUntemplatedConvergenceTester()\l+ Converge()\l+ ~AbstractUntemplatedConvergenceTester()\l}" alt="" coords="197,350,491,775"/>
+<area shape="rect" id="node6" href="$classdouble.html" title="{double\n||}" alt="" coords="5,6,67,95"/>
+<area shape="rect" id="node8" href="$classbool.html" title="{bool\n||}" alt="" coords="224,6,272,95"/>
+<area shape="rect" id="node12" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="537,6,615,95"/>
+</map>

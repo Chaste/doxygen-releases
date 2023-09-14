@@ -1,0 +1,7 @@
+<map id="PdeConvergenceTester&lt; CELL, CARDIAC_PROBLEM, DIM, PROBLEM_DIM &gt;" name="PdeConvergenceTester&lt; CELL, CARDIAC_PROBLEM, DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractConvergenceTester.html" title="{AbstractConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;\n||+ Converge()\l+ DisplayRun()\l+ ~AbstractConvergenceTester()\l+ SetInitialConvergenceParameters()\l+ UpdateConvergenceParameters()\l+ GiveUpConvergence()\l+ Abscissa()\l+ PopulateStandardResult()\l+ IsConverged()\l+ SetMeshWidth()\l}" alt="" coords="231,497,467,735"/>
+<area shape="rect" id="node3" href="$classAbstractUntemplatedConvergenceTester.html" title="{AbstractUntemplatedConvergence\lTester\n||+ AbstractUntemplatedConvergence\lTester()\l+ Converge()\l+ ~AbstractUntemplatedConvergence\lTester()\l}" alt="" coords="228,294,471,445"/>
+<area shape="rect" id="node4" href="$classdouble.html" title="{double\n||}" alt="" coords="5,5,64,83"/>
+<area shape="rect" id="node5" href="$classbool.html" title="{bool\n||}" alt="" coords="225,5,271,83"/>
+<area shape="rect" id="node7" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="549,5,623,83"/>
+</map>

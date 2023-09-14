@@ -1,0 +1,7 @@
+<map id="Hdf5DataReader" name="Hdf5DataReader">
+<area shape="rect" id="node2" href="$classAbstractHdf5Access.html" title="{AbstractHdf5Access\n||+ AbstractHdf5Access()\l+ AbstractHdf5Access()\l+ ~AbstractHdf5Access()\l+ IsDataComplete()\l+ GetIncompleteNodeMap()\l+ GetUnlimitedDimensionName()\l+ GetUnlimitedDimensionUnit()\l# DoesDatasetExist()\l# SetUnlimitedDatasetId()\l# SetMainDatasetRawChunkCache()\l}" alt="" coords="567,553,805,762"/>
+<area shape="rect" id="node4" href="$classhsize__t.html" title="{hsize_t\n||}" alt="" coords="5,264,69,341"/>
+<area shape="rect" id="node6" href="$classbool.html" title="{bool\n||}" alt="" coords="711,5,757,83"/>
+<area shape="rect" id="node9" href="$classFileFinder.html" title="{FileFinder\n||+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ ~FileFinder()\l+ SetPath()\l+ SetPath()\l+ IsPathSet()\l+ Exists()\l+ IsFile()\land 14 more...\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l&#45; PrivateRemove()\l}" alt="" coords="452,147,685,459"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1089,264,1163,341"/>
+</map>

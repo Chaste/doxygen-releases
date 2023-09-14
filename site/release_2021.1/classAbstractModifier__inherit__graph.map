@@ -1,0 +1,6 @@
+<map id="AbstractModifier" name="AbstractModifier">
+<area shape="rect" id="node2" href="$classDummyModifier.html" title="{DummyModifier\n||+ DummyModifier()\l+ ~DummyModifier()\l+ Calc()\l&#45; serialize()\l}" alt="" coords="5,182,148,303"/>
+<area shape="rect" id="node3" href="$classFactorModifier.html" title="{FactorModifier\n|&#45; mFactor\l|+ FactorModifier()\l+ ~FactorModifier()\l+ Calc()\l&#45; serialize()\l}" alt="" coords="173,182,306,303"/>
+<area shape="rect" id="node4" href="$classFixedModifier.html" title="{FixedModifier\n|&#45; mValue\l|+ FixedModifier()\l+ ~FixedModifier()\l+ Calc()\l&#45; serialize()\l&#45; FixedModifier()\l}" alt="" coords="330,175,458,311"/>
+<area shape="rect" id="node5" href="$classTimeModifier.html" title="{TimeModifier\n||+ TimeModifier()\l+ ~TimeModifier()\l+ Calc()\l&#45; serialize()\l}" alt="" coords="482,182,607,303"/>
+</map>

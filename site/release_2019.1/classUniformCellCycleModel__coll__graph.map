@@ -1,0 +1,8 @@
+<map id="UniformCellCycleModel" name="UniformCellCycleModel">
+<area shape="rect" id="node2" href="$classAbstractSimpleCellCycleModel.html" title="{AbstractSimpleCellCycleModel\n||+ AbstractSimpleCellCycleModel()\l+ ~AbstractSimpleCellCycle\lModel()\l+ ReadyToDivide()\l+ ResetForDivision()\l+ InitialiseDaughterCell()\l+ Initialise()\l+ SetCellCycleDuration()\l+ GetCellCycleDuration()\l+ OutputCellCycleModelParameters()\l# AbstractSimpleCellCycleModel()\l&#45; serialize()\l}" alt="" coords="643,520,883,759"/>
+<area shape="rect" id="node3" href="$classAbstractCellCycleModel.html" title="{AbstractCellCycleModel\n||+ AbstractCellCycleModel()\l+ ~AbstractCellCycleModel()\l+ SetCell()\l+ Initialise()\l+ InitialiseDaughterCell()\l+ GetCell()\l+ SetBirthTime()\l+ SetDimension()\l+ GetDimension()\l+ GetBirthTime()\land 9 more...\l# AbstractCellCycleModel()\l&#45; serialize()\l&#45; operator=()\l}" alt="" coords="381,175,572,443"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,217,112"/>
+<area shape="rect" id="node5" href="$classdouble.html" title="{double\n||}" alt="" coords="733,20,793,97"/>
+<area shape="rect" id="node7" href="$classbool.html" title="{bool\n||}" alt="" coords="396,20,443,97"/>
+<area shape="rect" id="node8" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="511,20,586,97"/>
+</map>

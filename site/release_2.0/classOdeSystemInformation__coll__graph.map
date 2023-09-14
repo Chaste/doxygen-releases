@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractOdeSystemInformation.html" title="{AbstractOdeSystemInformation\n|# mVariableNames\l# mVariableUnits\l# mParameterNames\l# mParameterUnits\l# mInitialConditions\l# mInitialised\l|+ AbstractOdeSystemInformation()\l+ ~AbstractOdeSystemInformation()\l+ SetInitialConditions()\l+ SetInitialConditionsComponent()\l+ GetInitialConditions()\l+ rGetVariableNames()\l+ rGetVariableUnits()\l+ GetStateVariableNumberByName()\l+ GetStateVariableUnitsByNumber()\l+ rGetParameterNames()\l+ rGetParameterUnits()\l# Initialise()\l}" alt="" coords="101,187,336,485"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="339,7,384,81"/>
+</map>

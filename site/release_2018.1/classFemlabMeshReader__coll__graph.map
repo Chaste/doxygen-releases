@@ -1,0 +1,6 @@
+<map id="FemlabMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="FemlabMeshReader&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractCachedMeshReader.html" title="{AbstractCachedMeshReader\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ AbstractCachedMeshReader()\l+ ~AbstractCachedMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetMaxNodeIndex()\l+ GetMinNodeIndex()\l+ GetNextNode()\l+ Reset()\l+ GetNextElementData()\l+ GetNextFaceData()\l# GetRawDataFromFile()\l}" alt="" coords="588,368,815,621"/>
+<area shape="rect" id="node3" href="$classAbstractMeshReader.html" title="{AbstractMeshReader\l\&lt; ELEMENT_DIM, SPACE_DIM \&gt;\n||+ ~AbstractMeshReader()\l+ GetNumElements()\l+ GetNumNodes()\l+ GetNumFaces()\l+ GetNumCableElements()\l+ GetNumElementAttributes()\l+ GetNumFaceAttributes()\l+ GetNumCableElementAttributes()\l+ GetNodeAttributes()\l+ GetNumEdges()\land 25 more...\l}" alt="" coords="5,6,235,245"/>
+<area shape="rect" id="node7" href="$classbool.html" title="{bool\n||}" alt="" coords="735,87,781,164"/>
+<area shape="rect" id="node9" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="1139,87,1212,164"/>
+</map>

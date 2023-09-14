@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$CardiacNewtonSolver_8hpp_source.html" title="heart/src/odes/CardiacNewtonSolver.hpp" alt="" coords="5,83,261,112"/>
+<area shape="rect" href="$Electrodes_8cpp_source.html" title="heart/src/problem/Electrodes.cpp" alt="" coords="309,83,523,112"/>
+<area shape="rect" href="$ElectrodesStimulusFactory_8cpp_source.html" title="heart/src/stimulus/tissue_electrodes/ElectrodesStimulusFactory.cpp" alt="" coords="547,83,963,112"/>
+<area shape="rect" href="$ZeroNetChargeElectrodes_8cpp_source.html" title="heart/src/stimulus/tissue_electrodes/ZeroNetChargeElectrodes.cpp" alt="" coords="1011,83,1419,112"/>
+</map>

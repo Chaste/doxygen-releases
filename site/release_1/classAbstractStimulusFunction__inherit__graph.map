@@ -1,0 +1,4 @@
+<area shape="rect" href="$classMultiStimulus.html" title="{MultiStimulus\n|&#45; mStimuli\l|+ AddStimulus()\l+ GetStimulus()\l}" alt="" coords="5,180,120,268">
+<area shape="rect" href="$classRegularStimulus.html" title="{RegularStimulus\n|&#45; mMagnitudeOfStimulus\l&#45; mDuration\l&#45; mPeriod\l&#45; mStartTime\l&#45; mStopTime\l|+ RegularStimulus()\l+ ~RegularStimulus()\l+ GetStimulus()\l}" alt="" coords="144,144,309,304">
+<area shape="rect" href="$classSimpleStimulus.html" title="{SimpleStimulus\n|&#45; mMagnitudeOfStimulus\l&#45; mDuration\l&#45; mTimeOfStimulus\l|+ SimpleStimulus()\l+ ~SimpleStimulus()\l+ GetStimulus()\l}" alt="" coords="333,158,499,289">
+<area shape="rect" href="$classZeroStimulus.html" title="{ZeroStimulus\n||+ ZeroStimulus()\l+ ~ZeroStimulus()\l+ GetStimulus()\l}" alt="" coords="523,172,648,276">

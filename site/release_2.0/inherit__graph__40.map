@@ -1,0 +1,46 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractContractionModel.html" title="AbstractContractionModel" alt="" coords="7,66,177,90"/>
+<area shape="rect" href="$classAbstractAlgebraicContractionModel.html" title="AbstractAlgebraicContractionModel" alt="" coords="264,30,488,54"/>
+<area shape="rect" href="$classAbstractOdeBasedContractionModel.html" title="AbstractOdeBasedContractionModel" alt="" coords="260,102,492,126"/>
+<area shape="rect" href="$classNonPhysiologicalContractionModel.html" title="NonPhysiologicalContractionModel" alt="" coords="628,6,849,30"/>
+<area shape="rect" href="$classKerchoffs2003ContractionModel.html" title="Kerchoffs2003ContractionModel" alt="" coords="636,54,841,78"/>
+<area shape="rect" href="$classNash2004ContractionModel.html" title="Nash2004ContractionModel" alt="" coords="649,102,828,126"/>
+<area shape="rect" href="$classNhsContractionModel.html" title="NhsContractionModel" alt="" coords="667,150,811,174"/>
+<area shape="rect" href="$classNhsModelWithBackwardSolver.html" title="NhsModelWithBackwardSolver" alt="" coords="993,150,1193,174"/>
+<area shape="rect" href="$classAbstractOdeSystem.html" title="AbstractOdeSystem" alt="" coords="23,798,161,822"/>
+<area shape="rect" href="$classAbstractCardiacCell.html" title="AbstractCardiacCell" alt="" coords="308,702,444,726"/>
+<area shape="rect" href="$classAbstractOdeSystemWithAnalyticJacobian.html" title="AbstractOdeSystemWithAnalyticJacobian" alt="" coords="244,750,508,774"/>
+<area shape="rect" href="$classCombinedOdeSystem.html" title="CombinedOdeSystem" alt="" coords="303,798,449,822"/>
+<area shape="rect" href="$classMirams2010WntOdeSystem.html" title="Mirams2010WntOdeSystem" alt="" coords="284,846,468,870"/>
+<area shape="rect" href="$classVanLeeuwen2009WntSwatCellCycleOdeSystem.html" title="VanLeeuwen2009WntSwatCellCycleOdeSystem" alt="" coords="227,894,525,918"/>
+<area shape="rect" href="$classWntCellCycleOdeSystem.html" title="WntCellCycleOdeSystem" alt="" coords="292,942,460,966"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; SIZE \&gt;" alt="" coords="600,198,877,222"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; 1 \&gt;" alt="" coords="612,246,865,270"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; 12 \&gt;" alt="" coords="608,294,869,318"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; 15 \&gt;" alt="" coords="608,342,869,366"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; 3 \&gt;" alt="" coords="612,390,865,414"/>
+<area shape="rect" href="$classAbstractBackwardEulerCardiacCell.html" title="AbstractBackwardEulerCardiacCell\&lt; 7 \&gt;" alt="" coords="612,438,865,462"/>
+<area shape="rect" href="$classCellluo__rudy__1991FromCellML.html" title="Cellluo_rudy_1991FromCellML" alt="" coords="640,486,837,510"/>
+<area shape="rect" href="$classCellluo__rudy__1991FromCellMLOpt.html" title="Cellluo_rudy_1991FromCellMLOpt" alt="" coords="631,534,847,558"/>
+<area shape="rect" href="$classCellShannon2004FromCellML.html" title="CellShannon2004FromCellML" alt="" coords="643,582,835,606"/>
+<area shape="rect" href="$classCML__noble__varghese__kohl__noble__1998__basic.html" title="CML_noble_varghese_kohl_noble_1998_basic" alt="" coords="595,630,883,654"/>
+<area shape="rect" href="$classCML__noble__varghese__kohl__noble__1998__basic__pe__lut.html" title="CML_noble_varghese_kohl_noble_1998_basic_pe_lut" alt="" coords="573,678,904,702"/>
+<area shape="rect" href="$classDiFrancescoNoble1985OdeSystem.html" title="DiFrancescoNoble1985OdeSystem" alt="" coords="627,726,851,750"/>
+<area shape="rect" href="$classFaberRudy2000Version3.html" title="FaberRudy2000Version3" alt="" coords="657,774,820,798"/>
+<area shape="rect" href="$classFaberRudy2000Version3Optimised.html" title="FaberRudy2000Version3Optimised" alt="" coords="628,822,849,846"/>
+<area shape="rect" href="$classFakeBathCell.html" title="FakeBathCell" alt="" coords="689,870,788,894"/>
+<area shape="rect" href="$classFitzHughNagumo1961OdeSystem.html" title="FitzHughNagumo1961OdeSystem" alt="" coords="629,918,848,942"/>
+<area shape="rect" href="$classFoxModel2002Modified.html" title="FoxModel2002Modified" alt="" coords="661,966,816,990"/>
+<area shape="rect" href="$classHodgkinHuxleySquidAxon1952OriginalOdeSystem.html" title="HodgkinHuxleySquidAxon1952OriginalOdeSystem" alt="" coords="583,1014,895,1038"/>
+<area shape="rect" href="$classLuoRudyIModel1991OdeSystem.html" title="LuoRudyIModel1991OdeSystem" alt="" coords="635,1062,843,1086"/>
+<area shape="rect" href="$classMahajan2008OdeSystem.html" title="Mahajan2008OdeSystem" alt="" coords="655,1110,823,1134"/>
+<area shape="rect" href="$classMaleckar2009OdeSystem.html" title="Maleckar2009OdeSystem" alt="" coords="653,1158,824,1182"/>
+<area shape="rect" href="$classTenTusscher2006OdeSystem.html" title="TenTusscher2006OdeSystem" alt="" coords="643,1206,835,1230"/>
+<area shape="rect" href="$classBackwardEulerLuoRudyIModel1991.html" title="BackwardEulerLuoRudyIModel1991" alt="" coords="980,198,1207,222"/>
+<area shape="rect" href="$classCML__luo__rudy__1991__pe__lut__be.html" title="CML_luo_rudy_1991_pe_lut_be" alt="" coords="992,246,1195,270"/>
+<area shape="rect" href="$classBackwardEulerNobleVargheseKohlNoble1998.html" title="BackwardEulerNobleVargheseKohlNoble1998" alt="" coords="952,294,1235,318"/>
+<area shape="rect" href="$classBackwardEulerMahajanModel2008.html" title="BackwardEulerMahajanModel2008" alt="" coords="984,342,1203,366"/>
+<area shape="rect" href="$classBackwardEulerFoxModel2002Modified.html" title="BackwardEulerFoxModel2002Modified" alt="" coords="972,390,1215,414"/>
+<area shape="rect" href="$classBackwardEulerTenTusscher2006.html" title="BackwardEulerTenTusscher2006" alt="" coords="989,438,1197,462"/>
+<area shape="rect" href="$classTysonNovak2001OdeSystem.html" title="TysonNovak2001OdeSystem" alt="" coords="644,1254,833,1278"/>
+</map>

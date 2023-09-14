@@ -1,0 +1,6 @@
+<map id="GaussianQuadratureRule&lt; ELEMENT_DIM &gt;" name="GaussianQuadratureRule&lt; ELEMENT_DIM &gt;">
+<area shape="rect" id="node2" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\l\&lt; DIM \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="5,277,193,443"/>
+<area shape="rect" id="node3" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\&lt; 1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="217,285,416,435"/>
+<area shape="rect" id="node4" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\l\&lt; ELEMENT_DIM&#45;1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="440,277,628,443"/>
+<area shape="rect" id="node5" href="$classGaussianQuadratureRule.html" title="{GaussianQuadratureRule\l\&lt; DIM&#45;1 \&gt;\n|&#45; mNumQuadPoints\l&#45; mPoints\l&#45; mWeights\l|+ GaussianQuadratureRule()\l+ rGetQuadPoint()\l+ GetWeight()\l+ GetNumQuadPoints()\l}" alt="" coords="652,277,840,443"/>
+</map>

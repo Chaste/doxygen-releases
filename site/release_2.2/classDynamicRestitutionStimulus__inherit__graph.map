@@ -1,0 +1,2 @@
+<area shape="rect" href="$classMultiStimulus.html" title="{MultiStimulus\n|# mStimuli\l|+ ~MultiStimulus()\l+ AddStimulus()\l+ GetStimulus()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="45,189,189,341">
+<area shape="rect" href="$classAbstractStimulusFunction.html" title="{AbstractStimulusFunction\n||+ GetStimulus()\l+ ~AbstractStimulusFunction()\l+ Clear()\l&#45; serialize()\l}" alt="" coords="8,7,227,140">

@@ -1,0 +1,5 @@
+<map id="CellMLLoader" name="CellMLLoader">
+<area shape="rect" id="node2" href="$classOutputFileHandler.html" title="{OutputFileHandler\n||+ OutputFileHandler()\l+ OutputFileHandler()\l+ GetOutputDirectoryFullPath()\l+ GetRelativePath()\l+ SetArchiveDirectory()\l+ OpenOutputFile()\l+ OpenOutputFile()\l+ CopyFileTo()\l+ FindFile()\l+ GetChasteTestOutputDirectory()\l&#45; CommonConstructor()\l&#45; MakeFoldersAndReturnFullPath()\l&#45; AddTrailingSlash()\l}" alt="" coords="9,176,231,429"/>
+<area shape="rect" id="node7" href="$classFileFinder.html" title="{FileFinder\n||+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ FileFinder()\l+ ~FileFinder()\l+ SetPath()\l+ SetPath()\l+ IsPathSet()\l+ Exists()\l+ IsFile()\land 14 more...\l+ IsAbsolutePath()\l+ ReplaceSpacesWithUnderscores()\l+ ReplaceUnderscoresWithSpaces()\l+ FakePath()\l+ StopFaking()\l&#45; PrivateRemove()\l}" alt="" coords="265,147,498,459"/>
+<area shape="rect" id="node9" href="$classbool.html" title="{bool\n||}" alt="" coords="576,5,622,83"/>
+</map>

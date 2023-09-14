@@ -1,0 +1,5 @@
+<map id="DifferentiatedCellProliferativeType" name="DifferentiatedCellProliferativeType">
+<area shape="rect" id="node2" href="$classAbstractCellProliferativeType.html" title="{AbstractCellProliferativeType\n|&#45; mColour\l|+ AbstractCellProliferativeType()\l+ ~AbstractCellProliferativeType()\l+ GetColour()\l&#45; serialize()\l&#45; AbstractCellProliferativeType()\l}" alt="" coords="16,417,236,553"/>
+<area shape="rect" id="node3" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n|&#45; mCellCount\l|+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="41,160,211,369"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="20,5,232,112"/>
+</map>

@@ -1,0 +1,4 @@
+var structboost_1_1serialization_1_1version_3_01AbstractChasteRegion_3_01SPACE__DIM_01_4_01_4 =
+[
+    [ "CHASTE_VERSION_CONTENT", "structboost_1_1serialization_1_1version_3_01AbstractChasteRegion_3_01SPACE__DIM_01_4_01_4.html#ac6e2a69119989e08e2c4dc249ec01004", null ]
+];

@@ -1,0 +1,3 @@
+<map id="AbstractDataReader" name="AbstractDataReader">
+<area shape="rect" id="node2" href="$classColumnDataReader.html" title="{ColumnDataReader\n|&#45; mVariablesToColumns\l&#45; mVariablesToUnits\l&#45; mNumFixedDimensions\l&#45; mHasUnlimitedDimension\l&#45; mNumVariables\l&#45; mInfoFilename\l&#45; mDataFilename\l&#45; mAncillaryFilename\l&#45; mValues\l&#45; mFieldWidth\l|+ ColumnDataReader()\l+ ColumnDataReader()\l+ GetValues()\l+ GetValues()\l+ GetUnlimitedDimensionValues()\l+ HasValues()\l+ GetFieldWidth()\l&#45; PushColumnEntryFromLine()\l&#45; ReadColumnFromFile()\l&#45; ReadValueFromFile()\l&#45; CheckFiles()\l}" alt="" coords="5,161,224,517"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractCellCycleModel.html" title="{AbstractCellCycleModel\n|# mpCell\l# mBirthTime\l# mCurrentCellCyclePhase\l# mG1Duration\l# mReadyToDivide\l# mDimension\l|+ AbstractCellCycleModel()\l+ ~AbstractCellCycleModel()\l+ SetCell()\l+ Initialise()\l+ InitialiseDaughterCell()\l+ GetCell()\l+ SetBirthTime()\l+ SetDimension()\l+ GetDimension()\l+ GetBirthTime()\l+ GetAge()\l+ ReadyToDivide()\l+ UpdateCellCyclePhase()\l+ ResetForDivision()\l+ CreateCellCycleModel()\l+ GetCurrentCellCyclePhase()\l+ GetG1Duration()\l+ GetSDuration()\l+ GetG2Duration()\l+ GetMDuration()\l+ GetAverageTransitCellCycleTime()\l+ GetAverageStemCellCycleTime()\l+ CanCellTerminallyDifferentiate()\l&#45; serialize()\l&#45; operator=()\l}" alt="" coords="303,884,535,1364"/>
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="16,7,75,82"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="761,7,807,82"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="145,7,217,82"/>
+</map>

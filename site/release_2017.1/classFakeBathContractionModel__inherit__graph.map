@@ -1,0 +1,4 @@
+<map id="FakeBathContractionModel" name="FakeBathContractionModel">
+<area shape="rect" id="node2" href="$classAbstractAlgebraicContractionModel.html" title="{AbstractAlgebraicContraction\lModel\n|# mTime\l|+ AbstractAlgebraicContraction\lModel()\l+ RunDoNotUpdate()\l+ RunAndUpdate()\l+ GetNextActiveTension()\l+ UpdateStateVariables()\l}" alt="" coords="5,292,209,457"/>
+<area shape="rect" id="node3" href="$classAbstractContractionModel.html" title="{AbstractContractionModel\n||+ AbstractContractionModel()\l+ ~AbstractContractionModel()\l+ IsStretchDependent()\l+ IsStretchRateDependent()\l+ SetInputParameters()\l+ SetStretchAndStretchRate()\l+ SetStretch()\l+ RunDoNotUpdate()\l+ RunAndUpdate()\l+ UpdateStateVariables()\l+ GetActiveTension()\l+ GetNextActiveTension()\l}" alt="" coords="7,5,208,244"/>
+</map>

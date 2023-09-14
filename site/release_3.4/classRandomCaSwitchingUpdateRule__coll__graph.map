@@ -1,0 +1,5 @@
+<map id="RandomCaSwitchingUpdateRule&lt; DIM &gt;" name="RandomCaSwitchingUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="node2" href="$classAbstractCaSwitchingUpdateRule.html" title="{AbstractCaSwitchingUpdate\lRule\&lt; DIM \&gt;\n||+ AbstractCaSwitchingUpdateRule()\l+ ~AbstractCaSwitchingUpdateRule()\l+ EvaluateSwitchingProbability()\l+ OutputUpdateRuleInfo()\l+ OutputSwitchingUpdateRule\lParameters()\l&#45; serialize()\l}" alt="" coords="5,163,248,343"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="21,5,232,112"/>
+<area shape="rect" id="node4" href="$classdouble.html" title="{double\n||}" alt="" coords="273,215,332,292"/>
+</map>

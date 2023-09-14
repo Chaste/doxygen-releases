@@ -1,0 +1,4 @@
+<map id="ColumnDataWriter" name="ColumnDataWriter">
+<area shape="rect" id="node3" href="$classParallelColumnDataWriter.html" title="{ParallelColumnDataWriter\n|&#45; mIsParallel\l&#45; mConcentrated\l&#45; mToMaster\l|+ ParallelColumnDataWriter()\l+ ~ParallelColumnDataWriter()\l+ PutVector()\l+ PutVectorStripe()\l+ PutVariable()\l+ EndDefineMode()\l+ AdvanceAlongUnlimitedDimension()\l+ Close()\l}" alt="" coords="12,787,255,997"/>
+<area shape="rect" id="node2" href="$classAbstractDataWriter.html" title="{AbstractDataWriter\n||+ DefineFixedDimension()\l+ DefineUnlimitedDimension()\l+ DefineVariable()\l+ EndDefineMode()\l+ AdvanceAlongUnlimitedDimension()\l+ PutVariable()\l+ Close()\l+ ~AbstractDataWriter()\l}" alt="" coords="12,6,255,186"/>
+</map>

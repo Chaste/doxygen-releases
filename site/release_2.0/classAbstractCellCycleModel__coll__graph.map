@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classTissueCell.html" title="{TissueCell\n|# mCellProliferativeType\l# mpMutationState\l# mpCellCycleModel\l# mAncestor\l# mCellId\l# mDeathTime\l# mStartOfApoptosisTime\l# mUndergoingApoptosis\l# mIsDead\l# mIsLogged\l# mMaxCellId\l&#45; mCanDivide\l|+ TissueCell()\l+ ~TissueCell()\l+ TissueCell()\l+ operator=()\l+ SetBirthTime()\l+ SetCellCycleModel()\l+ GetCellCycleModel()\l+ InitialiseCellCycleModel()\l+ GetAge()\l+ GetBirthTime()\l+ GetStartOfApoptosisTime()\l+ GetCellProliferativeType()\l+ SetCellProliferativeType()\l+ GetMutationState()\l+ SetMutationState()\l+ ReadyToDivide()\l+ Divide()\l+ StartApoptosis()\l+ Kill()\l+ HasApoptosisBegun()\l+ GetTimeUntilDeath()\l+ IsDead()\l+ SetLogged()\l+ IsLogged()\l+ SetAncestor()\l+ GetAncestor()\l+ GetCellId()\l+ ResetMaxCellId()\l# CommonCopy()\l&#45; serialize()\l}" alt="" coords="493,704,685,1339"/>
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="120,7,179,81"/>
+<area shape="rect" href="$classbool.html" title="{bool\n||}" alt="" coords="587,7,632,81"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="747,7,819,81"/>
+</map>

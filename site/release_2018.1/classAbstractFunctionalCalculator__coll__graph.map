@@ -1,0 +1,6 @@
+<map id="AbstractFunctionalCalculator&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;" name="AbstractFunctionalCalculator&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="node2" href="$classReplicatableVector.html" title="{ReplicatableVector\n||+ ReplicatableVector()\l+ ReplicatableVector()\l+ ReplicatableVector()\l+ ~ReplicatableVector()\l+ GetSize()\l+ Resize()\l+ operator[]()\l+ Replicate()\l+ ReplicatePetscVector()\l&#45; RemovePetscContext()\l}" alt="" coords="99,147,268,357"/>
+<area shape="rect" id="node3" href="$classdouble.html" title="{double\n||}" alt="" coords="5,5,64,83"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="200,5,273,83"/>
+<area shape="rect" id="node6" href="$classVec.html" title="{Vec\n||}" alt="" coords="299,5,344,83"/>
+</map>

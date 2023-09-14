@@ -1,0 +1,9 @@
+<map id="FixedDurationGenerationBasedCellCycleModel" name="FixedDurationGenerationBasedCellCycleModel">
+<area shape="rect" id="node2" href="$classAbstractSimpleGenerationBasedCellCycleModel.html" title="{AbstractSimpleGeneration\lBasedCellCycleModel\n||+ AbstractSimpleGeneration\lBasedCellCycleModel()\l+ ~AbstractSimpleGeneration\lBasedCellCycleModel()\l+ ResetForDivision()\l+ InitialiseDaughterCell()\l+ SetGeneration()\l+ GetGeneration()\l+ SetMaxTransitGenerations()\l+ GetMaxTransitGenerations()\l+ OutputCellCycleModelParameters()\l&#45; serialize()\l}" alt="" coords="945,856,1185,1109"/>
+<area shape="rect" id="node3" href="$classAbstractSimpleCellCycleModel.html" title="{AbstractSimpleCellCycleModel\n||+ AbstractSimpleCellCycleModel()\l+ ~AbstractSimpleCellCycle\lModel()\l+ ResetForDivision()\l+ UpdateCellCyclePhase()\l+ InitialiseDaughterCell()\l+ Initialise()\l+ OutputCellCycleModelParameters()\l# SetG1Duration()\l&#45; serialize()\l}" alt="" coords="553,595,793,805"/>
+<area shape="rect" id="node4" href="$classAbstractCellCycleModel.html" title="{AbstractCellCycleModel\n||+ AbstractCellCycleModel()\l+ ~AbstractCellCycleModel()\l+ SetCell()\l+ Initialise()\l+ InitialiseDaughterCell()\l+ GetCell()\l+ SetBirthTime()\l+ SetDimension()\l+ GetDimension()\l+ GetBirthTime()\land 25 more...\l&#45; serialize()\l}" alt="" coords="479,278,669,517"/>
+<area shape="rect" id="node5" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,112"/>
+<area shape="rect" id="node7" href="$classdouble.html" title="{double\n||}" alt="" coords="359,20,419,97"/>
+<area shape="rect" id="node10" href="$classbool.html" title="{bool\n||}" alt="" coords="810,20,856,97"/>
+<area shape="rect" id="node11" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="992,20,1065,97"/>
+</map>

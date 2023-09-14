@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractCellMutationState.html" title="{AbstractCellMutationState\n|&#45; mCellCount\l&#45; mColour\l|+ AbstractCellMutationState()\l+ ~AbstractCellMutationState()\l+ IsType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l+ GetColour()\l&#45; serialize()\l&#45; AbstractCellMutationState()\l}" alt="" coords="5,160,205,389"/>
+<area shape="rect" href="$classunsigned.html" title="{unsigned\n||}" alt="" coords="69,7,141,81"/>
+</map>

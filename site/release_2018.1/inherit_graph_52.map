@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractUntemplatedConvergenceTester.html" title="AbstractUntemplatedConvergence\lTester" alt="" coords="6,133,229,174"/>
+<area shape="rect" id="node2" href="$classAbstractConvergenceTester.html" title="AbstractConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;" alt="" coords="277,125,491,181"/>
+<area shape="rect" id="node3" href="$classOdeConvergenceTester.html" title="OdeConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;" alt="" coords="539,5,752,61"/>
+<area shape="rect" id="node4" href="$classOdePdeConvergenceTester.html" title="OdePdeConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;" alt="" coords="539,85,752,141"/>
+<area shape="rect" id="node5" href="$classPdeConvergenceTester.html" title="PdeConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;" alt="" coords="539,165,752,221"/>
+<area shape="rect" id="node6" href="$classSpaceConvergenceTester.html" title="SpaceConvergenceTester\l\&lt; CELL, CARDIAC_PROBLEM,\l DIM, PROBLEM_DIM \&gt;" alt="" coords="539,245,752,301"/>
+</map>

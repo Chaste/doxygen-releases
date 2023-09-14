@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classAbstractPottsUpdateRule.html" title="{AbstractPottsUpdateRule\&lt; DIM \&gt;\n||+ AbstractPottsUpdateRule()\l+ ~AbstractPottsUpdateRule()\l+ EvaluateHamiltonianContribution()\l+ OutputUpdateRuleInfo()\l+ OutputUpdateRuleParameters()\l&#45; serialize()\l}" alt="" coords="5,185,237,367"/>
+<area shape="rect" id="node4" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="12,6,231,133"/>
+<area shape="rect" id="node6" href="$classdouble.html" title="{double\n||}" alt="" coords="261,231,323,321"/>
+</map>

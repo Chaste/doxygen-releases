@@ -1,0 +1,3 @@
+<area shape="rect" href="$classChasteCuboid.html" title="{ChasteCuboid\&lt; SPACE_DIM \&gt;\n|&#45; mLowerCorner\l&#45; mUpperCorner\l|+ ChasteCuboid()\l+ DoesContain()\l+ rGetUpperCorner()\l+ rGetLowerCorner()\l+ GetWidth()\l}" alt="" coords="5,172,219,340">
+<area shape="rect" href="$classChasteEllipsoid.html" title="{ChasteEllipsoid\&lt; SPACE_DIM \&gt;\n|&#45; mCentre\l&#45; mRadii\l|+ ChasteEllipsoid()\l+ DoesContain()\l+ rGetCentre()\l+ rGetRadii()\l}" alt="" coords="243,180,461,332">
+<area shape="rect" href="$classChasteNodesList.html" title="{ChasteNodesList\&lt; SPACE_DIM \&gt;\n|&#45; mListOfNodes\l|+ ChasteNodesList()\l+ DoesContain()\l}" alt="" coords="485,206,717,307">

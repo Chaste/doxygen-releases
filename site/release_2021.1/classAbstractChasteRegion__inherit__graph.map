@@ -1,0 +1,5 @@
+<map id="AbstractChasteRegion&lt; SPACE_DIM &gt;" name="AbstractChasteRegion&lt; SPACE_DIM &gt;">
+<area shape="rect" id="node2" href="$classChasteCuboid.html" title="{ChasteCuboid\&lt; SPACE\l_DIM \&gt;\n|&#45; mLowerCorner\l&#45; mUpperCorner\l|+ ChasteCuboid()\l+ DoesContain()\l+ rGetUpperCorner()\l+ rGetLowerCorner()\l+ GetWidth()\l+ GetLongestAxis()\l&#45; serialize()\l}" alt="" coords="5,204,168,399"/>
+<area shape="rect" id="node3" href="$classChasteEllipsoid.html" title="{ChasteEllipsoid\&lt; SPACE\l_DIM \&gt;\n|&#45; mCentre\l&#45; mRadii\l|+ ChasteEllipsoid()\l+ DoesContain()\l+ rGetCentre()\l+ rGetRadii()\l&#45; serialize()\l}" alt="" coords="192,219,363,384"/>
+<area shape="rect" id="node4" href="$classChasteNodesList.html" title="{ChasteNodesList\&lt; SPACE\l_DIM \&gt;\n|&#45; mListOfNodes\l&#45; mOwnNodes\l|+ ChasteNodesList()\l+ ~ChasteNodesList()\l+ rGetNodesList()\l+ DoesContain()\l+ GetSize()\l&#45; serialize()\l}" alt="" coords="387,211,568,391"/>
+</map>

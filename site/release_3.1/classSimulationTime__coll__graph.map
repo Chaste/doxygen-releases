@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; SimulationTime \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="5,323,261,440"/>
+<area shape="rect" href="$classboost_1_1noncopyable.html" title="{noncopyable\n||}" alt="" coords="119,7,212,89"/>
+<area shape="rect" href="$classSerializableSingleton.html" title="{SerializableSingleton\&lt; SINGLETON_CLASS \&gt;\n||+ GetSerializationWrapper()\l&#45; save()\l&#45; load()\l}" alt="" coords="149,141,443,259"/>
+<area shape="rect" href="$classdouble.html" title="{double\n||}" alt="" coords="285,340,344,423"/>
+</map>

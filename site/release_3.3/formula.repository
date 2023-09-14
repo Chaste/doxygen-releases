@@ -1,0 +1,17 @@
+\form#0:$du/dt = g(V) + h(V)*u$
+\form#1:$u_n = ( u_{n-1} + g(V_n)*dt ) / ( 1 - h(V_n)*dt )$
+\form#2:$U_n - U_{n-1} = dt*F(U_n, V_n)$
+\form#3:$U_n$
+\form#4:$\displaystyle p(x) = \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma^2}} $
+\form#5:$dy/dt = f(y, t)$
+\form#6:$dy_1/dt = f_1(y_1, t; y_2)$
+\form#7:$dy_2/dt = f_2(y_2, t; y_1)$
+\form#8:$y = (y_1, y_2)$
+\form#9:$i$
+\form#10:\[ \mathbf{F}_{i}(t) = \sum_{j} \mu_{i,j} ( || \mathbf{r}_{i,j} || - s_{i,j}(t) ) \hat{\mathbf{r}}_{i,j}. \]
+\form#11:$\mu_{i,j}$
+\form#12:$j$
+\form#13:$s_{i,j}(t)$
+\form#14:$t$
+\form#15:$\mathbf{r}_{i,j}$
+\form#16:$\hat{}$

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractChasteRegion.html" title="AbstractChasteRegion\l\&lt; SPACE_DIM \&gt;" alt="" coords="5,71,160,112"/>
+<area shape="rect" id="node2" href="$classChasteCuboid.html" title="ChasteCuboid\&lt; SPACE\l_DIM \&gt;" alt="" coords="217,5,380,47"/>
+<area shape="rect" id="node3" href="$classChasteEllipsoid.html" title="ChasteEllipsoid\&lt; SPACE\l_DIM \&gt;" alt="" coords="213,71,384,112"/>
+<area shape="rect" id="node4" href="$classChasteNodesList.html" title="ChasteNodesList\&lt; SPACE\l_DIM \&gt;" alt="" coords="208,136,389,177"/>
+</map>

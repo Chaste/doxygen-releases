@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAbstractStimulusFunction.html" title="AbstractStimulusFunction" alt="" coords="6,148,178,175"/>
+<area shape="rect" id="node2" href="$classMultiStimulus.html" title="MultiStimulus" alt="" coords="267,31,368,57"/>
+<area shape="rect" id="node5" href="$classPurkinjeVentricularJunctionStimulus.html" title="PurkinjeVentricularJunction\lStimulus" alt="" coords="227,82,407,123"/>
+<area shape="rect" id="node6" href="$classRegularStimulus.html" title="RegularStimulus" alt="" coords="258,148,377,175"/>
+<area shape="rect" id="node8" href="$classSimpleStimulus.html" title="SimpleStimulus" alt="" coords="261,199,374,225"/>
+<area shape="rect" id="node9" href="$classZeroStimulus.html" title="ZeroStimulus" alt="" coords="268,249,367,276"/>
+<area shape="rect" id="node3" href="$classS1S2Stimulus.html" title="S1S2Stimulus" alt="" coords="507,5,613,32"/>
+<area shape="rect" id="node4" href="$classSteadyStateRestitutionStimulus.html" title="SteadyStateRestitutionStimulus" alt="" coords="456,56,664,83"/>
+<area shape="rect" id="node7" href="$classRegularStimulusZeroNetCharge.html" title="RegularStimulusZeroNetCharge" alt="" coords="457,148,663,175"/>
+</map>

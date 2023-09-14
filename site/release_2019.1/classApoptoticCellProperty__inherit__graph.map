@@ -1,0 +1,4 @@
+<map id="ApoptoticCellProperty" name="ApoptoticCellProperty">
+<area shape="rect" id="node2" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n|&#45; mCellCount\l|+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="26,160,197,369"/>
+<area shape="rect" id="node3" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,217,112"/>
+</map>

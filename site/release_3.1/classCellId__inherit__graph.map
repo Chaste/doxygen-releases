@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAbstractCellProperty.html" title="{AbstractCellProperty\n|&#45; mCellCount\l|+ AbstractCellProperty()\l+ ~AbstractCellProperty()\l+ IsType()\l+ IsSubType()\l+ IsSame()\l+ IsSame()\l+ IncrementCellCount()\l+ DecrementCellCount()\l+ GetCellCount()\l&#45; serialize()\l}" alt="" coords="25,171,196,408"/>
+<area shape="rect" href="$classIdentifiable.html" title="{Identifiable\n||+ ~Identifiable()\l+ GetIdentifier()\l&#45; TidyTemplatedExportIdentifier()\l}" alt="" coords="5,5,216,123"/>
+</map>
