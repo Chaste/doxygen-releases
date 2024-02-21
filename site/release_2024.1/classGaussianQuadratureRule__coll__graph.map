@@ -1,0 +1,25 @@
+<map id="GaussianQuadratureRule&lt; ELEMENT_DIM &gt;" name="GaussianQuadratureRule&lt; ELEMENT_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,1049,327,1189"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="31,914,104,979"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,979,81,1002,92,1024,115,1049,111,1052,88,1027,76,1004,69,980"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,907,309,987"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,987,226,1033,221,1033,219,987"/>
+<area shape="rect" id="Node000004" href="$classChastePoint.html" title=" " alt="" coords="29,569,197,829"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="100,829,106,856,116,881,125,894,121,897,112,884,100,858,95,830"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="59,133,236,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,198,199,222,226,310,231,347,232,382,222,456,199,546,197,555,192,553,194,545,216,455,227,382,226,347,221,311,194,224,180,201"/>
+<area shape="rect" id="Node000007" href="$classChastePoint.html" title=" " alt="" coords="5,261,153,507"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="132,200,122,224,114,247,109,245,117,222,127,198"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="113,5,182,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="150,85,150,133,145,133,145,85"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="68,520,70,545,74,569,69,570,65,546,62,521"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="313,667,435,732"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="322,743,271,792,248,822,230,854,222,880,220,907,215,906,217,879,225,852,243,819,267,789,318,739"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="346,914,503,979"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="386,745,421,913,416,915,381,746"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="363,351,385,417"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="377,417,377,650,371,650,371,417"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="389,982,320,1041,317,1037,386,978"/>
+<area shape="rect" id="Node000011" href="$classdouble.html" title=" " alt="" coords="505,667,563,732"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="536,732,525,804,514,845,496,884,482,904,477,900,492,881,509,843,520,803,530,732"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="VonMisesVertexBasedDivisionRule&lt; SPACE_DIM &gt;" name="VonMisesVertexBasedDivisionRule&lt; SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,476,327,725"/>
+<area shape="rect" id="Node000002" href="$classAbstractVertexBasedDivisionRule.html" title=" " alt="" coords="6,160,239,399"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,411,178,475,172,477,155,413"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,125,125,160,120,160,120,125"/>
+<area shape="rect" id="Node000004" href="$classdouble.html" title=" " alt="" coords="264,247,323,312"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,313,248,461,243,459,282,312"/>
+</map>

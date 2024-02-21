@@ -1,0 +1,7 @@
+<map id="ImmersedBoundaryLinearMembraneForce&lt; DIM &gt;" name="ImmersedBoundaryLinearMembraneForce&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,605,283,1064"/>
+<area shape="rect" id="Node000002" href="$classAbstractImmersedBoundaryForce.html" title=" " alt="" coords="26,159,262,557"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,571,147,605,141,605,141,571"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="27,5,261,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,124,147,158,141,158,141,124"/>
+</map>

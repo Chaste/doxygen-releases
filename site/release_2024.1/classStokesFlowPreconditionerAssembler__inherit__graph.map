@@ -1,0 +1,14 @@
+<map id="StokesFlowPreconditionerAssembler&lt; DIM &gt;" name="StokesFlowPreconditionerAssembler&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,1984,254,2148"/>
+<area shape="rect" id="Node000002" href="$classStokesFlowAssembler.html" title=" " alt="" coords="18,1636,249,1935"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,1948,136,1984,131,1984,131,1948"/>
+<area shape="rect" id="Node000003" href="$classAbstractContinuumMechanicsAssembler.html" title=" " alt="" coords="13,1104,254,1587"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,1601,136,1636,131,1636,131,1601"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="5,120,251,495"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,509,135,1104,129,1104,126,509"/>
+<area shape="rect" id="Node000006" href="$classAbstractContinuumMechanicsAssembler.html" title=" " alt="" coords="149,544,408,1041"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="193,507,204,543,199,545,188,509"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="57,5,199,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="131,84,131,119,125,119,125,84"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="212,1055,199,1104,194,1103,207,1054"/>
+</map>

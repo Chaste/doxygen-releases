@@ -1,0 +1,11 @@
+<map id="MutableElement&lt; 1, SPACE_DIM &gt;" name="MutableElement&lt; 1, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="154,877,318,1177"/>
+<area shape="rect" id="Node000004" href="$classImmersedBoundaryElement_3_011_00_01SPACE__DIM_01_4.html" title=" " alt="" coords="5,1227,227,1507"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,1192,168,1227,163,1226,176,1190"/>
+<area shape="rect" id="Node000005" href="$classVertexElement_3_011_00_01SPACE__DIM_01_4.html" title=" " alt="" coords="251,1297,464,1437"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="297,1190,335,1295,330,1297,292,1191"/>
+<area shape="rect" id="Node000002" href="$classAbstractElement.html" title=" " alt="" coords="127,448,345,828"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,842,239,877,233,877,233,842"/>
+<area shape="rect" id="Node000003" href="$classAbstractElement.html" title=" " alt="" coords="127,5,345,385"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,399,239,448,233,448,233,399"/>
+</map>

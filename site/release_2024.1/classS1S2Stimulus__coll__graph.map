@@ -1,0 +1,17 @@
+<map id="S1S2Stimulus" name="S1S2Stimulus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,701,314,867"/>
+<area shape="rect" id="Node000002" href="$classMultiStimulus.html" title=" " alt="" coords="65,479,205,624"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,637,179,700,174,702,156,638"/>
+<area shape="rect" id="Node000003" href="$classAbstractStimulusFunction.html" title=" " alt="" coords="5,291,221,416"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,430,129,478,124,479,119,430"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="246,306,463,401"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="304,403,219,479,215,475,301,399"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="175,133,385,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,213,331,290,326,292,294,215"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="409,141,530,206"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="444,219,387,307,382,304,439,216"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="458,5,481,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="472,71,472,124,467,124,467,71"/>
+<area shape="rect" id="Node000008" href="$classunsigned.html" title=" " alt="" coords="229,519,302,584"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="259,585,230,686,225,685,254,583"/>
+</map>

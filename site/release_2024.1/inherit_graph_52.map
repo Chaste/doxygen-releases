@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classAbstractStimulusFactory.html" title=" " alt="" coords="5,5,185,45"/>
+<area shape="rect" id="Node000001" href="$classElectrodesStimulusFactory.html" title=" " alt="" coords="233,5,428,45"/>
+<area shape="poly" id="edge342_Node000000_Node000001" title=" " alt="" coords="200,23,233,23,233,28,200,28"/>
+<area shape="rect" id="Node000002" href="$classZeroNetChargeElectrodes.html" title=" " alt="" coords="476,5,665,45"/>
+<area shape="poly" id="edge343_Node000001_Node000002" title=" " alt="" coords="442,23,476,23,476,28,442,28"/>
+</map>

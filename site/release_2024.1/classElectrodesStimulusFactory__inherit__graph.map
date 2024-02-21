@@ -1,0 +1,9 @@
+<map id="ElectrodesStimulusFactory&lt; DIM &gt;" name="ElectrodesStimulusFactory&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,627,249,1001"/>
+<area shape="rect" id="Node000004" href="$classZeroNetChargeElectrodes.html" title=" " alt="" coords="19,1051,236,1171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,1015,130,1051,125,1051,125,1015"/>
+<area shape="rect" id="Node000002" href="$classAbstractStimulusFactory.html" title=" " alt="" coords="23,323,231,577"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,591,130,627,125,627,125,591"/>
+<area shape="rect" id="Node000003" href="$classAbstractStimulusFactory.html" title=" " alt="" coords="17,5,237,260"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,274,130,322,125,322,125,274"/>
+</map>

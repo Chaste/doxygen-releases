@@ -1,0 +1,15 @@
+<map id="AbstractCellProliferativeType" name="AbstractCellProliferativeType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="369,452,572,641"/>
+<area shape="rect" id="Node000004" href="$classDefaultCellProliferativeType.html" title=" " alt="" coords="5,689,203,789"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="358,609,200,692,197,687,356,605"/>
+<area shape="rect" id="Node000005" href="$classDifferentiatedCellProliferativeType.html" title=" " alt="" coords="227,689,466,789"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="404,655,381,690,376,687,400,652"/>
+<area shape="rect" id="Node000006" href="$classStemCellProliferativeType.html" title=" " alt="" coords="491,697,699,782"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="542,652,570,695,565,698,537,655"/>
+<area shape="rect" id="Node000007" href="$classTransitCellProliferativeType.html" title=" " alt="" coords="723,689,915,789"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="585,608,731,687,728,692,583,612"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellProperty.html" title=" " alt="" coords="379,159,563,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,418,473,452,468,452,468,418"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="353,5,588,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,125,473,158,468,158,468,125"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="DifferentialAdhesionPottsUpdateRule&lt; DIM &gt;" name="DifferentialAdhesionPottsUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,996,264,1497"/>
+<area shape="rect" id="Node000002" href="$classAdhesionPottsUpdateRule.html" title=" " alt="" coords="5,575,269,948"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,962,140,996,135,996,135,962"/>
+<area shape="rect" id="Node000003" href="$classAbstractPottsUpdateRule.html" title=" " alt="" coords="9,367,265,527"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,540,140,574,135,574,135,540"/>
+<area shape="rect" id="Node000004" href="$classAbstractUpdateRule.html" title=" " alt="" coords="21,159,254,319"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="140,332,140,366,135,366,135,332"/>
+<area shape="rect" id="Node000005" href="$classIdentifiable.html" title=" " alt="" coords="20,5,255,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="140,124,140,158,135,158,135,124"/>
+</map>

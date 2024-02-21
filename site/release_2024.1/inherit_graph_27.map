@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classAbstractElement.html" title=" " alt="" coords="5,213,212,253"/>
+<area shape="rect" id="Node000001" href="$classMutableElement.html" title=" " alt="" coords="287,59,461,99"/>
+<area shape="poly" id="edge255_Node000000_Node000001" title=" " alt="" coords="155,203,337,97,340,102,158,208"/>
+<area shape="rect" id="Node000003" href="$classAbstractTetrahedralElement.html" title=" " alt="" coords="260,213,488,253"/>
+<area shape="poly" id="edge257_Node000000_Node000003" title=" " alt="" coords="226,230,260,230,260,235,226,235"/>
+<area shape="rect" id="Node000010" href="$classMutableElement.html" title=" " alt="" coords="271,554,477,594"/>
+<area shape="poly" id="edge264_Node000000_Node000010" title=" " alt="" coords="136,262,359,552,355,555,132,266"/>
+<area shape="rect" id="Node000002" href="$classPottsElement.html" title=" " alt="" coords="578,5,743,31"/>
+<area shape="poly" id="edge256_Node000001_Node000002" title=" " alt="" coords="474,54,535,41,596,28,597,33,537,46,475,59"/>
+<area shape="rect" id="Node000004" href="$classBoundaryElement.html" title=" " alt="" coords="553,55,768,95"/>
+<area shape="poly" id="edge258_Node000003_Node000004" title=" " alt="" coords="403,201,461,152,497,127,535,105,564,93,566,98,537,110,500,131,465,156,407,205"/>
+<area shape="rect" id="Node000005" href="$classBoundaryElement.html" title=" " alt="" coords="571,119,750,159"/>
+<area shape="poly" id="edge259_Node000003_Node000005" title=" " alt="" coords="436,205,535,169,576,157,577,162,537,174,437,210"/>
+<area shape="rect" id="Node000006" href="$classElement.html" title=" " alt="" coords="583,183,739,223"/>
+<area shape="poly" id="edge260_Node000003_Node000006" title=" " alt="" coords="502,217,582,209,583,214,502,222"/>
+<area shape="rect" id="Node000007" href="$classElement.html" title=" " alt="" coords="577,248,744,273"/>
+<area shape="poly" id="edge261_Node000003_Node000007" title=" " alt="" coords="502,242,578,250,577,255,501,248"/>
+<area shape="rect" id="Node000008" href="$classBoundaryElement.html" title=" " alt="" coords="553,298,768,338"/>
+<area shape="poly" id="edge262_Node000003_Node000008" title=" " alt="" coords="449,254,537,282,584,295,582,301,535,287,447,259"/>
+<area shape="rect" id="Node000009" href="$classElement.html" title=" " alt="" coords="566,362,755,402"/>
+<area shape="poly" id="edge263_Node000003_Node000009" title=" " alt="" coords="409,259,466,305,501,328,537,348,567,359,565,364,535,352,498,332,463,309,405,264"/>
+<area shape="rect" id="Node000011" href="$classImmersedBoundaryElement.html" title=" " alt="" coords="536,426,785,466"/>
+<area shape="poly" id="edge265_Node000010_Node000011" title=" " alt="" coords="414,544,470,509,535,476,569,464,570,469,537,480,472,513,416,548"/>
+<area shape="rect" id="Node000012" href="$classImmersedBoundaryElement.html" title=" " alt="" coords="540,490,781,530"/>
+<area shape="poly" id="edge266_Node000010_Node000012" title=" " alt="" coords="477,548,570,527,571,533,478,554"/>
+<area shape="rect" id="Node000013" href="$classVertexElement.html" title=" " alt="" coords="563,554,758,594"/>
+<area shape="poly" id="edge267_Node000010_Node000013" title=" " alt="" coords="491,571,563,571,563,577,491,577"/>
+<area shape="rect" id="Node000014" href="$classVertexElement.html" title=" " alt="" coords="563,618,758,658"/>
+<area shape="poly" id="edge268_Node000010_Node000014" title=" " alt="" coords="478,594,571,615,570,621,477,600"/>
+<area shape="rect" id="Node000015" href="$classImmersedBoundaryElement.html" title=" " alt="" coords="547,682,775,722"/>
+<area shape="poly" id="edge269_Node000010_Node000015" title=" " alt="" coords="416,600,472,635,537,668,570,679,569,684,535,672,470,639,414,604"/>
+<area shape="rect" id="Node000016" href="$classVertexElement.html" title=" " alt="" coords="563,746,758,786"/>
+<area shape="poly" id="edge270_Node000010_Node000016" title=" " alt="" coords="400,603,458,669,496,703,537,732,564,744,562,749,535,736,492,707,454,673,396,607"/>
+</map>

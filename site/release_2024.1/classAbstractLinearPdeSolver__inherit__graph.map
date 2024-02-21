@@ -1,0 +1,63 @@
+<map id="AbstractLinearPdeSolver&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;" name="AbstractLinearPdeSolver&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1651,120,1886,375"/>
+<area shape="rect" id="Node000003" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="1473,1075,1699,1645"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1775,389,1778,574,1778,777,1770,951,1763,1012,1752,1048,1743,1058,1732,1062,1722,1065,1712,1073,1701,1086,1697,1082,1708,1069,1719,1060,1730,1057,1740,1054,1748,1045,1758,1011,1765,950,1773,777,1773,574,1770,389"/>
+<area shape="rect" id="Node000008" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="365,1075,591,1645"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1638,264,1455,288,1247,322,1147,344,1057,369,983,396,930,426,857,491,792,566,735,647,684,732,640,820,603,908,571,994,545,1076,540,1074,566,992,598,906,636,818,680,729,730,644,788,562,854,488,927,422,981,391,1055,363,1145,339,1246,317,1454,282,1637,259"/>
+<area shape="rect" id="Node000013" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="808,1075,1033,1645"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="1639,265,1540,283,1431,315,1377,336,1323,361,1273,391,1226,426,1152,495,1096,559,1053,622,1021,686,996,755,975,831,930,1018,919,1076,914,1075,925,1017,970,830,991,754,1016,684,1049,619,1092,556,1149,491,1223,422,1270,387,1321,356,1374,331,1430,310,1539,278,1638,259"/>
+<area shape="rect" id="Node000019" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="1723,1075,1956,1645"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="1789,388,1790,398,1815,750,1832,1075,1827,1075,1810,751,1785,399,1784,389"/>
+<area shape="rect" id="Node000020" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="2005,1310,2241,1410"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="1820,387,1830,423,1850,509,1863,583,1878,710,1896,836,1913,908,1939,992,1967,1057,2010,1143,2099,1309,2094,1311,2005,1145,1962,1059,1934,994,1908,910,1891,837,1872,711,1858,584,1845,511,1825,425,1815,389"/>
+<area shape="rect" id="Node000024" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="1237,424,1463,993"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="1646,387,1465,585,1461,582,1642,383"/>
+<area shape="rect" id="Node000026" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="1949,651,2183,766"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="1898,365,1923,397,1963,462,1998,530,2049,650,2044,652,1994,532,1959,465,1918,400,1893,368"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1698,5,1839,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1771,84,1771,120,1766,120,1766,84"/>
+<area shape="rect" id="Node000004" href="$classAbstractBidomainSolver.html" title=" " alt="" coords="1279,2225,1549,2674"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1470,1634,1442,1699,1419,1833,1406,1970,1401,2103,1403,2224,1397,2224,1396,2103,1401,1970,1413,1832,1437,1698,1465,1632"/>
+<area shape="rect" id="Node000005" href="$classAbstractBidomainSolver.html" title=" " alt="" coords="1451,1703,1721,2153"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1589,1659,1589,1703,1583,1703,1583,1659"/>
+<area shape="rect" id="Node000007" href="$classMonodomainPurkinjeSolver.html" title=" " alt="" coords="1745,1768,2014,2088"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="1707,1638,1712,1648,1779,1767,1775,1769,1708,1651,1703,1641"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="1510,2166,1491,2225,1486,2223,1505,2165"/>
+<area shape="rect" id="Node000006" href="$classBidomainSolver.html" title=" " alt="" coords="1573,2325,1797,2574"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1634,2165,1664,2324,1659,2325,1628,2166"/>
+<area shape="rect" id="Node000009" href="$classAbstractExtendedBidomainSolver.html" title=" " alt="" coords="325,2220,567,2679"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="476,1658,462,2196,461,2220,456,2220,457,2196,471,1658"/>
+<area shape="rect" id="Node000011" href="$classAbstractExtendedBidomainSolver.html" title=" " alt="" coords="5,2220,247,2679"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="355,1444,293,1494,231,1554,175,1623,152,1661,132,1700,110,1763,93,1828,82,1896,76,1963,75,2097,85,2220,80,2220,70,2097,70,1963,77,1895,88,1827,105,1761,128,1698,147,1658,171,1620,227,1551,290,1490,352,1440"/>
+<area shape="rect" id="Node000012" href="$classAbstractExtendedBidomainSolver.html" title=" " alt="" coords="142,1699,403,2157"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="373,1658,358,1700,353,1698,368,1657"/>
+<area shape="rect" id="Node000010" href="$classExtendedBidomainSolver.html" title=" " alt="" coords="325,2731,567,2945"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="449,2693,449,2730,443,2730,443,2693"/>
+<area shape="poly" id="edge13_Node000012_Node000009" title=" " alt="" coords="270,2170,277,2195,298,2249,327,2300,323,2303,294,2251,271,2197,265,2172"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="154,2171,151,2182,142,2220,137,2219,146,2181,149,2170"/>
+<area shape="rect" id="Node000014" href="$classSimpleLinearParabolicSolver.html" title=" " alt="" coords="758,2379,982,2519"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="855,1659,850,1699,840,1827,839,1928,850,2157,866,2379,860,2379,845,2157,834,1928,834,1827,845,1698,850,1658"/>
+<area shape="rect" id="Node000016" href="$classMonodomainSolver.html" title=" " alt="" coords="1107,1781,1377,2075"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="1043,1571,1161,1779,1156,1782,1038,1573"/>
+<area shape="rect" id="Node000017" href="$classOperatorSplittingMonodomainSolver.html" title=" " alt="" coords="515,1773,785,2083"/>
+<area shape="poly" id="edge19_Node000013_Node000017" title=" " alt="" coords="804,1610,726,1774,721,1772,800,1608"/>
+<area shape="rect" id="Node000018" href="$classSimpleLinearParabolicSolver.html" title=" " alt="" coords="859,1858,1083,1998"/>
+<area shape="poly" id="edge20_Node000013_Node000018" title=" " alt="" coords="950,1658,968,1857,962,1858,945,1659"/>
+<area shape="rect" id="Node000015" href="$classCellBasedParabolicPdeSolver.html" title=" " alt="" coords="745,2748,995,2928"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="873,2533,873,2748,867,2748,867,2533"/>
+<area shape="poly" id="edge21_Node000018_Node000014" title=" " alt="" coords="958,2012,886,2380,881,2379,953,2011"/>
+<area shape="rect" id="Node000021" href="$classSimpleLinearEllipticSolver.html" title=" " alt="" coords="2133,2369,2343,2529"/>
+<area shape="poly" id="edge24_Node000020_Node000021" title=" " alt="" coords="2161,1421,2191,1477,2223,1546,2252,1621,2274,1698,2289,1790,2297,1885,2298,1980,2295,2072,2278,2240,2257,2370,2252,2369,2273,2240,2290,2072,2293,1980,2292,1885,2284,1791,2269,1699,2247,1622,2218,1548,2186,1480,2156,1423"/>
+<area shape="rect" id="Node000023" href="$classSimpleLinearEllipticSolver.html" title=" " alt="" coords="2039,1848,2259,2008"/>
+<area shape="poly" id="edge26_Node000020_Node000023" title=" " alt="" coords="2129,1424,2148,1847,2142,1848,2123,1424"/>
+<area shape="rect" id="Node000022" href="$classCellBasedEllipticPdeSolver.html" title=" " alt="" coords="2113,2728,2363,2948"/>
+<area shape="poly" id="edge25_Node000021_Node000022" title=" " alt="" coords="2241,2543,2241,2728,2235,2728,2235,2543"/>
+<area shape="poly" id="edge27_Node000023_Node000021" title=" " alt="" coords="2161,2021,2186,2196,2222,2368,2216,2369,2181,2196,2156,2022"/>
+<area shape="poly" id="edge30_Node000024_Node000003" title=" " alt="" coords="1351,1005,1376,1045,1385,1053,1395,1057,1416,1058,1438,1058,1450,1061,1462,1069,1475,1080,1471,1084,1459,1073,1448,1066,1438,1063,1415,1063,1393,1062,1382,1058,1372,1048,1347,1007"/>
+<area shape="poly" id="edge31_Node000024_Node000008" title=" " alt="" coords="1227,785,1022,914,907,992,797,1073,690,1161,593,1250,589,1246,687,1157,794,1069,904,987,1019,910,1224,781"/>
+<area shape="poly" id="edge32_Node000024_Node000013" title=" " alt="" coords="1232,893,1036,1190,1031,1187,1228,890"/>
+<area shape="poly" id="edge33_Node000024_Node000019" title=" " alt="" coords="1473,893,1547,975,1588,1012,1631,1044,1652,1053,1671,1055,1691,1057,1712,1069,1724,1081,1721,1084,1708,1073,1689,1062,1671,1060,1651,1058,1629,1049,1584,1016,1543,978,1469,896"/>
+<area shape="rect" id="Node000025" href="$classLinearParabolicPdeSystemWithCoupledOdeSystemSolver.html" title=" " alt="" coords="1198,1071,1449,1649"/>
+<area shape="poly" id="edge29_Node000024_Node000025" title=" " alt="" coords="1340,1007,1338,1071,1333,1071,1335,1007"/>
+<area shape="poly" id="edge35_Node000026_Node000020" title=" " alt="" coords="2075,780,2122,1310,2116,1310,2070,780"/>
+</map>

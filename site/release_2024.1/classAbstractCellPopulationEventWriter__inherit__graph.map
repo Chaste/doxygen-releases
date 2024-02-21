@@ -1,0 +1,11 @@
+<map id="AbstractCellPopulationEventWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractCellPopulationEventWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="108,487,368,741"/>
+<area shape="rect" id="Node000004" href="$classCellDivisionLocationsWriter.html" title=" " alt="" coords="5,789,225,1029"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,755,168,790,163,788,177,753"/>
+<area shape="rect" id="Node000005" href="$classCellRemovalLocationsWriter.html" title=" " alt="" coords="250,789,474,1029"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="299,753,314,788,309,790,294,755"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellBasedWriter.html" title=" " alt="" coords="128,159,348,439"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,452,241,486,235,486,235,452"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="121,5,355,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,125,241,158,235,158,235,125"/>
+</map>

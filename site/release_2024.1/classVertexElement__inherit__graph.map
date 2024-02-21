@@ -1,0 +1,11 @@
+<map id="VertexElement&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="VertexElement&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="124,804,337,1084"/>
+<area shape="rect" id="Node000004" href="$classVertexElement.html" title=" " alt="" coords="5,1161,219,1441"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,1098,161,1162,156,1160,177,1097"/>
+<area shape="rect" id="Node000005" href="$classVertexElement.html" title=" " alt="" coords="243,1161,456,1441"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="318,1096,323,1107,337,1161,331,1162,317,1109,313,1098"/>
+<area shape="rect" id="Node000002" href="$classMutableElement.html" title=" " alt="" coords="132,435,329,755"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,769,233,804,228,804,228,769"/>
+<area shape="rect" id="Node000003" href="$classAbstractElement.html" title=" " alt="" coords="121,5,340,385"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="233,399,233,435,228,435,228,399"/>
+</map>

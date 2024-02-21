@@ -1,0 +1,9 @@
+<map id="CommandLineArgumentsMocker" name="CommandLineArgumentsMocker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,148,291,233"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,70,34,97,48,122,61,136,57,139,44,126,29,99,22,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,191,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,71,163,132,158,132,158,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,5,285,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="246,72,237,99,224,125,217,137,212,134,220,123,232,97,241,70"/>
+</map>

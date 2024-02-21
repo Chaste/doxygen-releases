@@ -1,0 +1,19 @@
+<map id="AbstractVanLeeuwen2009WntSwatCellCycleModel" name="AbstractVanLeeuwen2009WntSwatCellCycleModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,1937,403,2291"/>
+<area shape="rect" id="Node000008" href="$classVanLeeuwen2009WntSwatCellCycleModelHypothesisOne.html" title=" " alt="" coords="5,2339,263,2548"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="196,2305,181,2339,176,2337,191,2303"/>
+<area shape="rect" id="Node000009" href="$classVanLeeuwen2009WntSwatCellCycleModelHypothesisTwo.html" title=" " alt="" coords="287,2339,544,2548"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="358,2302,373,2337,368,2340,353,2305"/>
+<area shape="rect" id="Node000002" href="$classAbstractWntOdeBasedCellCycleModel.html" title=" " alt="" coords="145,1496,403,1889"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,1904,277,1937,271,1937,271,1904"/>
+<area shape="rect" id="Node000003" href="$classAbstractOdeBasedPhaseBasedCellCycleModel.html" title=" " alt="" coords="145,1144,403,1448"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="277,1462,277,1496,271,1496,271,1462"/>
+<area shape="rect" id="Node000004" href="$classAbstractPhaseBasedCellCycleModel.html" title=" " alt="" coords="31,592,264,1096"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,1109,234,1143,229,1144,219,1110"/>
+<area shape="rect" id="Node000005" href="$classAbstractCellCycleModel.html" title=" " alt="" coords="45,159,250,544"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="150,558,150,592,145,592,145,558"/>
+<area shape="rect" id="Node000006" href="$classIdentifiable.html" title=" " alt="" coords="30,5,265,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="150,124,150,159,145,159,145,124"/>
+<area shape="rect" id="Node000007" href="$classCellCycleModelOdeHandler.html" title=" " alt="" coords="288,614,516,1074"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="336,1088,320,1144,314,1143,330,1087"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="AveragedSourceEllipticPde&lt; DIM &gt;" name="AveragedSourceEllipticPde&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,1041,253,1371"/>
+<area shape="rect" id="Node000006" href="$classVolumeDependentAveragedSourceEllipticPde.html" title=" " alt="" coords="5,1420,259,1555"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="135,1385,135,1420,129,1420,129,1385"/>
+<area shape="rect" id="Node000002" href="$classAbstractLinearEllipticPde.html" title=" " alt="" coords="12,713,252,992"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,1006,135,1041,129,1041,129,1006"/>
+<area shape="rect" id="Node000003" href="$classAbstractLinearPde.html" title=" " alt="" coords="22,203,231,323"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,337,133,713,128,713,125,337"/>
+<area shape="rect" id="Node000005" href="$classAbstractLinearEllipticPde.html" title=" " alt="" coords="148,372,388,651"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="170,333,191,370,186,373,165,336"/>
+<area shape="rect" id="Node000004" href="$classAbstractLinearPde.html" title=" " alt="" coords="22,5,231,125"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,139,129,203,124,203,124,139"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="210,664,190,714,185,712,205,662"/>
+</map>

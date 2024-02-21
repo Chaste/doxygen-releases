@@ -1,0 +1,16 @@
+<map id="AbstractBidomainSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractBidomainSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,1689,387,2139"/>
+<area shape="rect" id="Node000006" href="$classBidomainSolver.html" title=" " alt="" coords="5,2301,229,2551"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="192,2153,153,2302,147,2300,187,2151"/>
+<area shape="rect" id="Node000007" href="$classAbstractBidomainSolver.html" title=" " alt="" coords="253,2201,523,2651"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="318,2151,331,2200,326,2202,313,2153"/>
+<area shape="rect" id="Node000002" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="139,1071,365,1640"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,1654,255,1689,249,1689,249,1654"/>
+<area shape="rect" id="Node000003" href="$classAbstractLinearPdeSolver.html" title=" " alt="" coords="129,120,364,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,389,253,1071,248,1071,245,389"/>
+<area shape="rect" id="Node000005" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="267,424,493,993"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="290,387,300,423,295,424,285,389"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,5,317,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,84,249,120,244,120,244,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="324,1007,311,1071,306,1070,318,1006"/>
+</map>

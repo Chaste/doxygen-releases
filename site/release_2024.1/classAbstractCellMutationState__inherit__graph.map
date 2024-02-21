@@ -1,0 +1,15 @@
+<map id="AbstractCellMutationState" name="AbstractCellMutationState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="382,452,603,597"/>
+<area shape="rect" id="Node000004" href="$classApcOneHitCellMutationState.html" title=" " alt="" coords="5,660,231,745"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="371,586,208,662,206,657,368,581"/>
+<area shape="rect" id="Node000005" href="$classApcTwoHitCellMutationState.html" title=" " alt="" coords="254,660,478,745"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="435,610,398,661,394,658,431,607"/>
+<area shape="rect" id="Node000006" href="$classBetaCateninOneHitCellMutationState.html" title=" " alt="" coords="502,645,739,760"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="555,607,582,643,577,646,551,611"/>
+<area shape="rect" id="Node000007" href="$classWildTypeCellMutationState.html" title=" " alt="" coords="764,660,979,745"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="617,580,752,643,783,657,781,662,750,648,615,585"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellProperty.html" title=" " alt="" coords="401,159,585,404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,417,495,452,490,452,490,417"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="375,5,610,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,125,495,158,490,158,490,125"/>
+</map>

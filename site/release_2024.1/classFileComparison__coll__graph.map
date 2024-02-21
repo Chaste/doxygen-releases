@@ -1,0 +1,31 @@
+<map id="FileComparison" name="FileComparison">
+<area shape="rect" id="Node000001" title=" " alt="" coords="367,892,597,1097"/>
+<area shape="rect" id="Node000002" href="$classAbstractFileComparison.html" title=" " alt="" coords="379,649,585,815"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,828,485,892,479,892,479,828"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="191,507,269,572"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,570,330,623,367,651,364,655,327,627,263,574"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="107,699,286,765"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="211,573,201,597,194,640,194,683,189,683,189,640,195,595,206,571"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="165,364,295,444"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,458,233,507,227,507,227,458"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="373,507,471,572"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,571,439,625,442,633,437,635,434,626,423,573"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="353,364,491,444"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="425,458,425,507,419,507,419,458"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="355,235,489,315"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="425,328,425,364,419,364,419,328"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="341,120,503,185"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="425,199,425,235,419,235,419,199"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="373,5,471,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="425,85,425,120,419,120,419,85"/>
+<area shape="rect" id="Node000010" href="$classunsigned.html" title=" " alt="" coords="495,507,568,572"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="526,573,510,634,505,632,521,571"/>
+<area shape="rect" id="Node000011" href="$classbool.html" title=" " alt="" coords="710,507,753,572"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="754,550,779,568,799,595,803,611,799,626,764,701,717,771,664,834,611,889,607,886,660,831,713,768,759,699,794,624,798,611,794,597,775,572,751,554"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="711,557,652,598,595,641,592,637,648,594,708,552"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="226,763,272,813,326,866,356,892,353,896,323,870,268,816,223,767"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="5,507,127,572"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="75,584,90,624,120,664,155,697,152,701,116,668,85,627,70,586"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="55,371,77,437"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="69,437,69,490,63,490,63,437"/>
+</map>

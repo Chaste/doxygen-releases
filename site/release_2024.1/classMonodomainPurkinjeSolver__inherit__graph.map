@@ -1,0 +1,12 @@
+<map id="MonodomainPurkinjeSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="MonodomainPurkinjeSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1689,275,2009"/>
+<area shape="rect" id="Node000002" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="27,1071,253,1640"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,1654,143,1689,137,1689,137,1654"/>
+<area shape="rect" id="Node000003" href="$classAbstractLinearPdeSolver.html" title=" " alt="" coords="17,120,252,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,389,141,1071,136,1071,133,389"/>
+<area shape="rect" id="Node000005" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="155,424,381,993"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="178,387,188,423,183,424,173,389"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="64,5,205,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="137,84,137,120,132,120,132,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="212,1007,199,1071,194,1070,206,1006"/>
+</map>

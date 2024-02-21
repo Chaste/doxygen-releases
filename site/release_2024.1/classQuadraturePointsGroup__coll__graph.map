@@ -1,0 +1,15 @@
+<map id="QuadraturePointsGroup&lt; DIM &gt;" name="QuadraturePointsGroup&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,433,369,613"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="103,276,256,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,355,216,417,211,419,190,357"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,133,183,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,198,151,260,146,263,110,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,5,129,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,85,97,133,91,133,91,85"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="207,133,328,199"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="247,212,223,253,208,277,203,274,218,251,242,210"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="256,5,279,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="270,71,270,117,265,117,265,71"/>
+<area shape="rect" id="Node000007" href="$classunsigned.html" title=" " alt="" coords="280,283,353,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="309,350,286,419,281,417,304,348"/>
+</map>

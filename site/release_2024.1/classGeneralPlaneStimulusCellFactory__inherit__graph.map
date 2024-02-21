@@ -1,0 +1,7 @@
+<map id="GeneralPlaneStimulusCellFactory&lt; CELL, ELEMENT_DIM, SPACE_DIM &gt;" name="GeneralPlaneStimulusCellFactory&lt; CELL, ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,585,233,695"/>
+<area shape="rect" id="Node000002" href="$classPlaneStimulusCellFactory.html" title=" " alt="" coords="5,423,264,537"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,551,137,585,132,585,132,551"/>
+<area shape="rect" id="Node000003" href="$classAbstractCardiacCellFactory.html" title=" " alt="" coords="15,5,254,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,389,137,422,132,422,132,389"/>
+</map>

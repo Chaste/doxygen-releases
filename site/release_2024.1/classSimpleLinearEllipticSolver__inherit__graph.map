@@ -1,0 +1,31 @@
+<map id="SimpleLinearEllipticSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="SimpleLinearEllipticSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,2187,533,2347"/>
+<area shape="rect" id="Node000012" href="$classSimpleLinearEllipticSolver.html" title=" " alt="" coords="318,2409,528,2569"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="426,2360,426,2409,420,2409,420,2360"/>
+<area shape="rect" id="Node000002" href="$classAbstractAssemblerSolverHybrid.html" title=" " alt="" coords="210,1953,455,2137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,2149,393,2186,388,2188,373,2151"/>
+<area shape="rect" id="Node000003" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="52,1315,311,1643"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,1657,153,1711,156,1767,164,1822,180,1875,201,1915,229,1952,225,1955,196,1918,175,1877,159,1823,150,1767,148,1711,149,1656"/>
+<area shape="rect" id="Node000008" href="$classAbstractAssemblerSolverHybrid.html" title=" " alt="" coords="190,1692,478,1876"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="272,1654,290,1691,286,1693,267,1656"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeAssemblerCommon.html" title=" " alt="" coords="22,544,288,817"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="60,831,36,895,15,986,8,1059,15,1131,36,1222,52,1268,73,1313,68,1316,47,1270,31,1223,10,1132,3,1059,10,985,31,894,55,829"/>
+<area shape="rect" id="Node000007" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="46,895,368,1223"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="178,831,187,894,182,895,173,831"/>
+<area shape="rect" id="Node000005" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="32,120,278,495"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="158,509,158,544,152,544,152,509"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="215,5,356,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="267,84,249,121,244,118,262,82"/>
+<area shape="rect" id="Node000010" href="$classAbstractLinearPdeSolver.html" title=" " alt="" coords="302,180,536,435"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="310,82,358,178,353,181,305,84"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="199,1237,194,1315,189,1314,194,1236"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="336,1890,335,1953,330,1953,330,1890"/>
+<area shape="rect" id="Node000009" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="397,1009,633,1109"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="518,1122,518,1477,518,2047,514,2084,505,2121,476,2188,471,2186,500,2119,509,2083,512,2047,512,1477,512,1122"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="407,449,402,532,402,625,407,722,420,817,434,869,452,920,491,1007,486,1010,447,922,428,871,415,818,402,723,396,625,397,532,401,448"/>
+<area shape="rect" id="Node000011" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="430,623,664,738"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="469,447,530,622,525,624,464,448"/>
+<area shape="poly" id="edge13_Node000009_Node000011" title=" " alt="" coords="544,752,522,1009,516,1008,538,751"/>
+<area shape="rect" id="Node000013" href="$classCellBasedEllipticPdeSolver.html" title=" " alt="" coords="298,2619,548,2839"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="426,2583,426,2619,420,2619,420,2583"/>
+</map>

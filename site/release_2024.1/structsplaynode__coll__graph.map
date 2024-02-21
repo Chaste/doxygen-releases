@@ -1,0 +1,12 @@
+<map id="splaynode" name="splaynode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,261,173,327"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="174,279,191,283,199,294,197,301,190,305,187,301,193,298,194,294,188,287,173,285"/>
+<area shape="rect" id="Node000002" href="$structotri.html" title=" " alt="" coords="63,133,99,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,199,81,218,85,236,90,246,85,248,80,238,75,219,75,199"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,80,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="53,70,64,109,67,117,62,119,59,110,48,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,5,135,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="113,72,98,118,93,117,108,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="159,133,206,199"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="172,200,153,247,148,245,167,198"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="PCBlockDiagonal::PCBlockDiagonalContext" name="PCBlockDiagonal::PCBlockDiagonalContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,177,370,257"/>
+<area shape="rect" id="Node000002" href="$classMat.html" title=" " alt="" coords="5,5,44,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,71,27,113,34,134,45,151,64,165,93,176,168,196,166,201,91,182,61,169,41,155,29,136,22,114,19,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="196,5,227,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,71,206,111,209,132,215,152,221,163,216,165,210,154,204,133,201,111,203,71"/>
+<area shape="rect" id="Node000004" href="$classVec.html" title=" " alt="" coords="325,5,362,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,72,331,112,316,154,312,164,307,162,312,152,326,110,335,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="435,5,518,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="476,72,465,114,455,136,441,155,416,176,387,192,384,187,413,172,437,152,451,133,460,112,471,70"/>
+</map>

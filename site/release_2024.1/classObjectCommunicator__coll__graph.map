@@ -1,0 +1,25 @@
+<map id="ObjectCommunicator&lt; CLASS &gt;" name="ObjectCommunicator&lt; CLASS &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="361,419,538,619"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,148,85,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,215,23,244,12,276,9,310,12,325,20,340,50,377,86,408,127,435,171,456,261,487,345,505,344,510,259,492,169,461,124,439,83,413,46,381,15,343,7,327,4,310,7,275,19,242,34,213"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="123,276,275,341"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="84,212,119,250,136,264,133,268,116,254,80,215"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,340,288,393,349,441,346,445,285,397,228,343"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="150,148,271,213"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="204,227,203,238,201,276,196,276,197,237,199,227"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="299,276,477,341"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="263,220,304,250,339,274,337,278,301,254,260,224"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,13,222,78"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="213,78,213,131,208,131,208,78"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="388,341,388,367,392,394,394,403,389,404,387,395,383,368,383,341"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="394,148,473,213"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="424,215,408,261,403,259,419,213"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="368,5,499,85"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="436,99,436,148,431,148,431,99"/>
+<area shape="rect" id="Node000009" href="$classunsigned.html" title=" " alt="" coords="502,276,575,341"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="527,343,516,366,499,405,494,402,511,364,522,340"/>
+<area shape="rect" id="Node000010" href="$classMPI__Request.html" title=" " alt="" coords="631,276,729,341"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="677,342,668,370,653,396,607,440,554,475,551,470,604,436,649,393,663,368,672,341"/>
+<area shape="rect" id="Node000011" href="$classbool.html" title=" " alt="" coords="789,276,832,341"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="805,343,792,371,773,397,723,434,667,464,609,486,555,501,553,496,607,481,664,459,720,430,769,393,788,368,800,341"/>
+</map>
