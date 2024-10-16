@@ -1,0 +1,11 @@
+<map id="AbstractConductivityModifier&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractConductivityModifier&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,492,300,641"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="84,320,277,429"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,430,183,475,178,475,178,430"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,133,209,228"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,227,150,295,153,304,148,306,145,297,120,229"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="233,148,355,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,227,215,321,210,319,266,224"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="283,5,305,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="297,71,297,131,291,131,291,71"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="StiffnessMatrixAssembler&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="StiffnessMatrixAssembler&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="34,1649,254,1749"/>
+<area shape="rect" id="Node000002" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="15,1287,273,1600"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,1613,147,1649,141,1649,141,1613"/>
+<area shape="rect" id="Node000003" href="$classAbstractFeAssemblerCommon.html" title=" " alt="" coords="5,544,272,817"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,831,146,1286,140,1287,137,831"/>
+<area shape="rect" id="Node000006" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="161,867,482,1195"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="219,829,238,865,233,868,214,831"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="16,120,261,495"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,509,141,544,136,544,136,509"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="68,5,209,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="141,84,141,119,136,119,136,84"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="248,1209,214,1287,209,1285,243,1206"/>
+</map>

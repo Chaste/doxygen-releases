@@ -1,0 +1,11 @@
+<map id="FixedVertexBasedDivisionRule&lt; SPACE_DIM &gt;" name="FixedVertexBasedDivisionRule&lt; SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,475,345,664"/>
+<area shape="rect" id="Node000002" href="$classAbstractVertexBasedDivisionRule.html" title=" " alt="" coords="6,173,239,412"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,424,200,474,195,476,174,426"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,124,125,173,120,173,120,124"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,253,441,333"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,334,284,461,279,459,333,332"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="317,25,387,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="355,105,355,253,349,253,349,105"/>
+</map>

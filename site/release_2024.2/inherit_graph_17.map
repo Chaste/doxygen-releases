@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classAbstractConductivityTensors.html" title="Forward declaration which is going to be used for friendship." alt="" coords="5,49,233,89"/>
+<area shape="rect" id="Node000001" href="$classAxisymmetricConductivityTensors.html" title=" " alt="" coords="298,5,493,60"/>
+<area shape="poly" id="edge239_Node000000_Node000001" title=" " alt="" coords="247,49,297,43,298,48,247,55"/>
+<area shape="rect" id="Node000002" href="$classOrthotropicConductivityTensors.html" title=" " alt="" coords="281,85,509,125"/>
+<area shape="poly" id="edge240_Node000000_Node000002" title=" " alt="" coords="247,83,281,87,281,92,246,88"/>
+</map>

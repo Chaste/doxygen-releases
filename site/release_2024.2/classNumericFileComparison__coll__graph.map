@@ -1,0 +1,23 @@
+<map id="NumericFileComparison" name="NumericFileComparison">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,851,383,976"/>
+<area shape="rect" id="Node000002" href="$classAbstractFileComparison.html" title=" " alt="" coords="183,636,388,801"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,815,288,850,283,850,283,815"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="42,493,121,559"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,558,113,585,133,610,171,645,168,649,129,614,109,587,93,560"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,364,136,444"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="78,457,81,493,76,493,73,458"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="178,493,275,559"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="232,558,243,611,245,620,240,621,237,613,227,559"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="160,364,299,444"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="231,458,230,493,225,493,225,458"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="163,235,296,315"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="232,328,232,364,227,364,227,328"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="148,120,311,185"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="232,199,232,235,227,235,227,199"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="180,5,279,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="232,85,232,120,227,120,227,85"/>
+<area shape="rect" id="Node000010" href="$classunsigned.html" title=" " alt="" coords="299,493,373,559"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="330,559,314,620,309,619,325,558"/>
+<area shape="rect" id="Node000011" href="$classbool.html" title=" " alt="" coords="432,493,475,559"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="444,560,431,587,414,614,402,628,398,625,410,610,427,584,439,558"/>
+</map>

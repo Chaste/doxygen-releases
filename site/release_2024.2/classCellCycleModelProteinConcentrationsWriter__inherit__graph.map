@@ -1,0 +1,9 @@
+<map id="CellCycleModelProteinConcentrationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="CellCycleModelProteinConcentrationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,875,279,1029"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellWriter.html" title=" " alt="" coords="19,487,265,827"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,840,145,874,139,874,139,840"/>
+<area shape="rect" id="Node000003" href="$classAbstractCellBasedWriter.html" title=" " alt="" coords="32,159,252,439"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,453,145,486,139,486,139,453"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="25,5,259,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="145,125,145,158,139,158,139,125"/>
+</map>

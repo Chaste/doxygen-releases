@@ -1,0 +1,19 @@
+<map id="AbstractSimpleGenerationalCellCycleModel" name="AbstractSimpleGenerationalCellCycleModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,1496,544,1840"/>
+<area shape="rect" id="Node000006" href="$classExponentialG1GenerationalCellCycleModel.html" title=" " alt="" coords="5,1888,263,2177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="280,1847,248,1890,243,1886,276,1844"/>
+<area shape="rect" id="Node000008" href="$classFixedG1GenerationalCellCycleModel.html" title=" " alt="" coords="287,1938,544,2127"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="418,1854,418,1938,413,1938,413,1854"/>
+<area shape="rect" id="Node000009" href="$classUniformG1GenerationalCellCycleModel.html" title=" " alt="" coords="568,1928,825,2137"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="555,1844,618,1926,614,1930,550,1847"/>
+<area shape="rect" id="Node000002" href="$classAbstractSimplePhaseBasedCellCycleModel.html" title=" " alt="" coords="287,1144,544,1448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,1461,418,1496,413,1496,413,1461"/>
+<area shape="rect" id="Node000003" href="$classAbstractPhaseBasedCellCycleModel.html" title=" " alt="" coords="299,592,532,1096"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,1110,418,1144,413,1144,413,1110"/>
+<area shape="rect" id="Node000004" href="$classAbstractCellCycleModel.html" title=" " alt="" coords="313,159,518,544"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,558,418,592,413,592,413,558"/>
+<area shape="rect" id="Node000005" href="$classIdentifiable.html" title=" " alt="" coords="298,5,533,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,124,418,159,413,159,413,124"/>
+<area shape="rect" id="Node000007" href="$classFixedSequenceCellCycleModel.html" title=" " alt="" coords="5,2225,263,2471"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="137,2191,137,2225,131,2225,131,2191"/>
+</map>

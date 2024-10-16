@@ -1,0 +1,9 @@
+<map id="RegularStimulusZeroNetCharge" name="RegularStimulusZeroNetCharge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,587,316,692"/>
+<area shape="rect" id="Node000002" href="$classRegularStimulus.html" title=" " alt="" coords="121,252,266,537"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,551,196,586,191,586,191,551"/>
+<area shape="rect" id="Node000003" href="$classAbstractStimulusFunction.html" title=" " alt="" coords="5,5,221,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,144,161,251,156,253,129,145"/>
+<area shape="rect" id="Node000004" href="$classdouble.html" title=" " alt="" coords="245,35,304,101"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="269,102,235,237,230,235,264,100"/>
+</map>

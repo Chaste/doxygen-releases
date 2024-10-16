@@ -1,0 +1,9 @@
+<map id="event" name="event">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,148,131,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,52,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,70,45,97,56,123,72,144,67,147,52,125,40,98,32,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,5,135,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,71,109,131,103,131,103,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,5,223,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,72,195,99,180,126,165,143,147,158,143,154,161,139,176,122,190,97,199,70"/>
+</map>

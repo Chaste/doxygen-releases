@@ -1,0 +1,9 @@
+<map id="BetaCateninOneHitCellMutationState" name="BetaCateninOneHitCellMutationState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,645,243,760"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellMutationState.html" title=" " alt="" coords="13,452,235,597"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,611,127,645,121,645,121,611"/>
+<area shape="rect" id="Node000003" href="$classAbstractCellProperty.html" title=" " alt="" coords="32,159,216,404"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,417,127,452,121,452,121,417"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="7,5,241,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,125,127,158,121,158,121,125"/>
+</map>

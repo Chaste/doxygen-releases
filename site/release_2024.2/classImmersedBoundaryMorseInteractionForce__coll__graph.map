@@ -1,0 +1,12 @@
+<map id="ImmersedBoundaryMorseInteractionForce&lt; DIM &gt;" name="ImmersedBoundaryMorseInteractionForce&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="384,596,661,1015"/>
+<area shape="rect" id="Node000002" href="$classAbstractImmersedBoundaryForce.html" title=" " alt="" coords="267,188,503,547"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,559,460,595,454,597,443,561"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="178,119,269,226,265,230,174,123"/>
+<area shape="rect" id="Node000004" href="$classbool.html" title=" " alt="" coords="264,25,307,91"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,91,284,126,289,164,291,171,286,173,284,164,279,126,280,91"/>
+<area shape="rect" id="Node000005" href="$classdouble.html" title=" " alt="" coords="543,25,601,91"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="603,79,627,103,645,134,648,149,645,164,633,271,616,379,578,580,573,579,611,378,628,270,640,164,642,149,640,136,623,107,599,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="544,82,515,106,487,136,463,175,458,172,483,133,511,102,541,78"/>
+</map>

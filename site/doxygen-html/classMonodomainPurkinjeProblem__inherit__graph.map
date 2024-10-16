@@ -1,0 +1,9 @@
+<map id="MonodomainPurkinjeProblem&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="MonodomainPurkinjeProblem&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,944,253,1224"/>
+<area shape="rect" id="Node000002" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="5,261,259,896"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,910,135,944,129,944,129,910"/>
+<area shape="rect" id="Node000003" href="$classAbstractUntemplatedCardiacProblem.html" title=" " alt="" coords="18,119,246,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,227,135,261,129,261,129,227"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="61,5,203,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,84,135,118,129,118,129,84"/>
+</map>

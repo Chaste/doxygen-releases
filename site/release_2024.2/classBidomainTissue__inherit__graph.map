@@ -1,0 +1,12 @@
+<map id="BidomainTissue&lt; SPACE_DIM &gt;" name="BidomainTissue&lt; SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,1597,243,1821"/>
+<area shape="rect" id="Node000005" href="$classBidomainTissue.html" title=" " alt="" coords="7,1884,243,2093"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="127,1835,127,1884,122,1884,122,1835"/>
+<area shape="rect" id="Node000002" href="$classAbstractCardiacTissue.html" title=" " alt="" coords="5,865,244,1548"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,1562,127,1597,122,1597,122,1562"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,5,190,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,85,126,865,120,865,117,85"/>
+<area shape="rect" id="Node000004" href="$classAbstractCardiacTissue.html" title=" " alt="" coords="141,120,380,803"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="137,83,149,119,144,121,132,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,817,190,865,184,864,193,816"/>
+</map>

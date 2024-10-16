@@ -1,0 +1,29 @@
+<map id="CellRemovalLocationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="CellRemovalLocationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,1431,416,1671"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellPopulationEventWriter.html" title=" " alt="" coords="174,1127,434,1381"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,1395,307,1430,301,1430,301,1395"/>
+<area shape="rect" id="Node000003" href="$classAbstractCellBasedWriter.html" title=" " alt="" coords="194,817,414,1077"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,1091,307,1126,301,1126,301,1091"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="5,649,240,755"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,764,210,816,206,819,167,767"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="265,669,343,735"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="307,735,307,801,301,801,301,735"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="237,507,368,587"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,601,306,669,301,669,300,601"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="369,662,516,742"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="428,744,402,795,397,804,392,802,398,792,423,741"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="392,514,493,579"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="445,580,445,645,440,645,440,580"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="371,364,514,444"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="445,458,445,514,440,514,440,458"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="374,235,511,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="445,328,445,364,440,364,440,328"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="361,120,524,185"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="445,199,445,235,440,235,440,199"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="393,5,492,71"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="445,85,445,120,440,120,440,85"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="517,514,667,579"/>
+<area shape="poly" id="edge12_Node000007_Node000013" title=" " alt="" coords="553,591,483,663,479,660,549,588"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="581,371,603,437"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="595,437,595,497,589,497,589,437"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SurfaceAreaConstraintPottsUpdateRule&lt; DIM &gt;" name="SurfaceAreaConstraintPottsUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,575,261,893"/>
+<area shape="rect" id="Node000002" href="$classAbstractPottsUpdateRule.html" title=" " alt="" coords="5,367,261,527"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,541,136,574,131,574,131,541"/>
+<area shape="rect" id="Node000003" href="$classAbstractUpdateRule.html" title=" " alt="" coords="17,159,250,319"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,332,136,366,131,366,131,332"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="16,5,251,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,124,136,158,131,158,131,124"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="osub" name="osub">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,133,101,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,76,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,70,59,109,62,117,57,118,54,110,44,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,5,131,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,72,95,118,89,117,103,70"/>
+</map>

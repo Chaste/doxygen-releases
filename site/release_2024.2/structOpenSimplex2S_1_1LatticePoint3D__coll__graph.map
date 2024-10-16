@@ -1,0 +1,14 @@
+<map id="OpenSimplex2S::LatticePoint3D" name="OpenSimplex2S::LatticePoint3D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,163,429,248"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="175,325,396,405"/>
+<area shape="poly" id="edge4_Node000004_Node000001" title=" " alt="" coords="293,249,284,273,280,309,275,308,279,271,288,247"/>
+<area shape="rect" id="Node000002" href="$classdouble.html" title=" " alt="" coords="255,5,313,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,71,284,104,289,138,292,147,287,148,284,139,279,104,279,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="338,5,369,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,71,333,147,328,146,344,70"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="308,324,317,301,322,264,327,265,323,302,313,326"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,173,155,238"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="82,251,88,277,101,300,135,327,175,345,173,350,132,332,97,303,83,279,77,252"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="69,5,91,71"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="83,71,83,156,77,156,77,71"/>
+</map>

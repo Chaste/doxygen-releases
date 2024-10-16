@@ -1,0 +1,9 @@
+<map id="ElementAndWeights&lt; DIM &gt;" name="ElementAndWeights&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,261,192,341"/>
+<area shape="rect" id="Node000002" href="$classunsigned.html" title=" " alt="" coords="5,133,79,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,198,59,236,65,247,61,250,54,238,42,200"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="103,133,299,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,200,160,239,153,249,149,246,156,236,180,198"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="166,5,235,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,85,203,133,198,133,198,85"/>
+</map>

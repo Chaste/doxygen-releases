@@ -1,0 +1,27 @@
+var classMutableElement_3_011_00_01SPACE__DIM_01_4 =
+[
+    [ "MutableElement", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a51d73c3321ba674102317372d70b48b6", null ],
+    [ "MutableElement", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a8c4b08f37566dfc51a2648f7814f3c5f", null ],
+    [ "~MutableElement", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a50c0aa467e14183cf3901c5dd4ffa50f", null ],
+    [ "AddNode", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a465743c9839a1439b8a1b311dbbe3599", null ],
+    [ "BuildEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#aa125d85f66aa685d89e16c7a8a1aa361", null ],
+    [ "ClearEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#aa430725adac8e1304809953edc5e024f", null ],
+    [ "ContainsEdge", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#ad4bef41a06f5e38d14e79c4107440cf0", null ],
+    [ "DeleteNode", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a86458b9aeca941550ebfe867952ce46b", null ],
+    [ "GetEdge", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a00b92141e388640092896cdc38a7129d", null ],
+    [ "GetEdgeGlobalIndex", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a46e7c35b5aae118ac1d30f3c42ed5e95", null ],
+    [ "GetLocalEdgeIndex", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#aec530758187147b8d7a5c19315d1e7e2", null ],
+    [ "GetNeighbouringElementAtEdgeIndex", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#aa3a42e57a6941da4d8b45333417b07ed", null ],
+    [ "GetNodeLocalIndex", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#aeffd3c7550f9b68929d9c0dc6277d84c", null ],
+    [ "GetNumEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a90f3f0fa3858f7a9f27e433ad8d38dcf", null ],
+    [ "IsElementOnBoundary", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a47f80b146c2606ac0c8b7cab52692ad9", null ],
+    [ "MarkAsDeleted", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a4825d3f292cdfb92b4eade4998c587a5", null ],
+    [ "RebuildEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a683be25302e725f8f44119c4aa793521", null ],
+    [ "RegisterWithEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a4949ca8b134bce195644047550374e15", null ],
+    [ "RegisterWithNodes", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a48ed83ebcbe358b953f4e5773c57f2e9", null ],
+    [ "ResetIndex", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a59ed96fad1eef46bb075ca29c89d275e", null ],
+    [ "SetEdgeHelper", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a64547b99c600a796ca1e1273faded850", null ],
+    [ "UpdateNode", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a80229a89f7a71d7f2e1f8433b9b9a674", null ],
+    [ "mEdgeHelper", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a5b15c4853accc63b9036f3073e354673", null ],
+    [ "mEdges", "classMutableElement_3_011_00_01SPACE__DIM_01_4.html#a4206bbb57d5db00c3d9b0f749346f0ac", null ]
+];

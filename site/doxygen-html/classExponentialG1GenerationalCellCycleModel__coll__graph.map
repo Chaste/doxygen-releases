@@ -1,0 +1,26 @@
+<map id="ExponentialG1GenerationalCellCycleModel" name="ExponentialG1GenerationalCellCycleModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="313,1715,570,2004"/>
+<area shape="rect" id="Node000002" href="$classAbstractSimpleGenerationalCellCycleModel.html" title=" " alt="" coords="230,1341,488,1665"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,1679,411,1714,405,1715,397,1680"/>
+<area shape="rect" id="Node000003" href="$classAbstractSimplePhaseBasedCellCycleModel.html" title=" " alt="" coords="180,988,437,1292"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,1305,339,1341,334,1342,329,1306"/>
+<area shape="rect" id="Node000004" href="$classAbstractPhaseBasedCellCycleModel.html" title=" " alt="" coords="192,561,425,925"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="311,939,311,988,306,988,306,939"/>
+<area shape="rect" id="Node000005" href="$classAbstractCellCycleModel.html" title=" " alt="" coords="464,173,670,499"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,513,493,539,462,584,427,627,423,624,458,581,489,536,503,510"/>
+<area shape="rect" id="Node000006" href="$classIdentifiable.html" title=" " alt="" coords="192,5,427,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="440,116,459,133,492,172,488,175,456,137,437,120"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="451,25,590,91"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="522,91,524,149,525,157,520,157,519,150,516,91"/>
+<area shape="rect" id="Node000008" href="$classdouble.html" title=" " alt="" coords="110,25,168,91"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="161,89,182,108,222,121,293,138,364,155,389,163,403,171,431,213,442,253,442,292,436,332,429,371,427,412,433,453,454,497,463,505,473,508,484,512,493,521,514,568,531,624,544,688,553,759,561,915,559,1083,549,1252,535,1412,503,1666,497,1699,491,1698,498,1665,529,1412,544,1252,554,1083,556,915,548,759,539,689,526,626,509,570,489,524,481,516,471,513,460,509,450,500,428,455,421,412,424,371,430,331,436,292,436,254,426,215,400,175,387,168,362,160,292,143,221,126,179,113,158,93"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="111,86,76,125,60,149,48,174,19,264,12,302,8,337,10,373,17,410,48,498,73,543,105,585,142,622,180,656,176,660,138,626,101,588,69,546,43,500,12,412,5,374,3,337,6,301,14,262,43,172,55,146,72,122,107,83"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="160,89,182,108,202,118,221,123,255,124,291,123,335,132,360,147,384,154,404,156,424,160,447,171,453,175,450,180,444,176,422,165,403,161,383,159,358,152,333,137,290,129,255,130,220,128,200,123,179,113,157,93"/>
+<area shape="rect" id="Node000009" href="$classbool.html" title=" " alt="" coords="614,25,656,91"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="628,91,616,135,610,158,605,157,611,134,623,90"/>
+<area shape="rect" id="Node000010" href="$classunsigned.html" title=" " alt="" coords="790,25,864,91"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="846,90,855,119,856,150,822,331,784,483,743,614,697,734,588,979,524,1122,452,1293,438,1327,433,1325,447,1291,519,1120,583,976,692,732,737,612,779,481,816,330,851,149,850,120,841,92"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="799,93,683,216,679,212,795,89"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="227,303,390,369"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="311,369,311,545,306,545,306,369"/>
+</map>

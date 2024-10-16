@@ -1,0 +1,9 @@
+<map id="AbstractOutputModifier" name="AbstractOutputModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,263,239,448"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,135,110,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,200,75,238,77,246,72,247,69,239,66,200"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,136,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,99,73,134,68,134,68,99"/>
+<area shape="rect" id="Node000004" href="$classdouble.html" title=" " alt="" coords="161,135,220,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,201,168,248,163,246,178,199"/>
+</map>

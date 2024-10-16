@@ -1,0 +1,30 @@
+<map id="AbstractCorrectionTermAssembler&lt; ELEM_DIM, SPACE_DIM, PROBLEM_DIM &gt;" name="AbstractCorrectionTermAssembler&lt; ELEM_DIM, SPACE_DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,1673,452,1853"/>
+<area shape="rect" id="Node000008" href="$classAbstractCorrectionTermAssembler.html" title=" " alt="" coords="29,1916,291,2096"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="211,1866,204,1879,186,1917,181,1915,199,1876,207,1863"/>
+<area shape="rect" id="Node000011" href="$classAbstractCorrectionTermAssembler.html" title=" " alt="" coords="315,1916,576,2096"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="397,1864,405,1876,423,1915,418,1917,400,1879,393,1867"/>
+<area shape="rect" id="Node000002" href="$classAbstractCardiacFeVolumeIntegralAssembler.html" title=" " alt="" coords="180,1480,425,1624"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,1638,305,1673,300,1673,300,1638"/>
+<area shape="rect" id="Node000003" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="137,867,458,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,1208,305,1480,299,1480,296,1208"/>
+<area shape="rect" id="Node000007" href="$classAbstractCardiacFeVolumeIntegralAssembler.html" title=" " alt="" coords="319,1244,737,1388"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="441,1204,472,1242,468,1246,437,1207"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeAssemblerCommon.html" title=" " alt="" coords="164,544,431,817"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="300,831,300,867,295,867,295,831"/>
+<area shape="rect" id="Node000005" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="175,120,420,495"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,509,300,544,295,544,295,509"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="227,5,368,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="300,84,300,119,295,119,295,84"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="452,1400,373,1482,369,1478,448,1396"/>
+<area shape="rect" id="Node000009" href="$classBidomainCorrectionTermAssembler.html" title=" " alt="" coords="5,2352,275,2452"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="92,2109,77,2146,70,2177,68,2202,77,2259,93,2307,113,2351,108,2353,88,2309,72,2261,63,2203,65,2177,72,2145,87,2107"/>
+<area shape="rect" id="Node000010" href="$classBidomainCorrectionTermAssembler.html" title=" " alt="" coords="87,2153,356,2253"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="195,2109,208,2152,203,2153,190,2110"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="198,2267,163,2353,158,2351,193,2265"/>
+<area shape="rect" id="Node000012" href="$classMonodomainCorrectionTermAssembler.html" title=" " alt="" coords="337,2337,551,2467"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="448,2110,447,2337,442,2337,442,2110"/>
+<area shape="rect" id="Node000013" href="$classMonodomainCorrectionTermAssembler.html" title=" " alt="" coords="461,2145,723,2260"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="523,2106,552,2143,547,2147,519,2109"/>
+<area shape="poly" id="edge15_Node000013_Node000012" title=" " alt="" coords="544,2273,494,2339,490,2335,539,2270"/>
+</map>

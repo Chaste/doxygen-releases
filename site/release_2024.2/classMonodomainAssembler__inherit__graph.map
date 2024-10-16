@@ -1,0 +1,16 @@
+<map id="MonodomainAssembler&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="MonodomainAssembler&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="61,1659,281,1779"/>
+<area shape="rect" id="Node000002" href="$classAbstractCardiacFeVolumeIntegralAssembler.html" title=" " alt="" coords="49,1480,294,1609"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,1623,174,1659,169,1659,169,1623"/>
+<area shape="rect" id="Node000003" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="5,867,327,1195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,1209,173,1480,168,1480,165,1209"/>
+<area shape="rect" id="Node000007" href="$classAbstractCardiacFeVolumeIntegralAssembler.html" title=" " alt="" coords="188,1244,605,1388"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="309,1204,341,1242,337,1246,305,1207"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeAssemblerCommon.html" title=" " alt="" coords="33,544,299,817"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,831,169,867,163,867,163,831"/>
+<area shape="rect" id="Node000005" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="43,120,289,495"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="169,509,169,544,163,544,163,509"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="95,5,237,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="169,84,169,119,163,119,163,84"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="318,1400,236,1482,233,1478,314,1396"/>
+</map>

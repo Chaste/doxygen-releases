@@ -1,0 +1,17 @@
+<map id="GenericEventHandler&lt; NUM_EVENTS, CONCRETE &gt;" name="GenericEventHandler&lt; NUM_EVENTS, CONCRETE &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,389,443,909"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="64,261,221,327"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,326,192,388,187,390,156,328"/>
+<area shape="rect" id="Node000003" href="$classdouble.html" title=" " alt="" coords="5,133,64,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="42,198,48,218,58,236,70,249,66,253,54,239,43,220,37,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="162,133,283,199"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="156,210,146,224,141,242,140,261,135,261,135,241,142,221,152,207"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="249,261,391,327"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="254,209,274,236,294,259,289,263,270,239,250,212"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="211,5,234,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="225,71,225,117,220,117,220,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="323,327,323,373,317,373,317,327"/>
+<area shape="rect" id="Node000007" href="$classbool.html" title=" " alt="" coords="352,133,395,199"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="397,182,414,200,427,222,427,237,425,302,417,366,416,374,410,373,412,365,420,302,421,237,421,223,409,203,393,186"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="360,200,349,224,340,247,335,245,344,222,355,198"/>
+</map>

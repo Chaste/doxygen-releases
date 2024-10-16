@@ -1,0 +1,33 @@
+<map id="CellBasedEllipticPdeSolver&lt; DIM &gt;" name="CellBasedEllipticPdeSolver&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,2591,471,2811"/>
+<area shape="rect" id="Node000002" href="$classSimpleLinearEllipticSolver.html" title=" " alt="" coords="241,2381,450,2541"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,2555,348,2591,343,2591,343,2555"/>
+<area shape="rect" id="Node000003" href="$classAbstractAssemblerSolverHybrid.html" title=" " alt="" coords="89,1925,335,2109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,2123,200,2170,203,2220,211,2270,225,2318,242,2350,263,2380,259,2383,237,2353,220,2320,206,2271,198,2220,195,2170,196,2123"/>
+<area shape="rect" id="Node000013" href="$classSimpleLinearEllipticSolver.html" title=" " alt="" coords="235,2159,455,2319"/>
+<area shape="poly" id="edge17_Node000013_Node000003" title=" " alt="" coords="277,2120,300,2157,295,2160,272,2122"/>
+<area shape="rect" id="Node000004" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="5,1287,264,1615"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,1629,94,1682,93,1738,98,1793,109,1847,124,1886,145,1924,140,1926,119,1889,104,1849,93,1794,88,1738,89,1682,94,1628"/>
+<area shape="rect" id="Node000009" href="$classAbstractAssemblerSolverHybrid.html" title=" " alt="" coords="119,1664,407,1848"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="211,1626,227,1663,222,1665,206,1628"/>
+<area shape="rect" id="Node000005" href="$classAbstractFeAssemblerCommon.html" title=" " alt="" coords="157,544,424,817"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="151,812,134,839,120,868,103,919,91,972,85,1027,82,1082,86,1189,99,1286,94,1287,81,1189,76,1082,79,1026,86,971,98,918,115,866,129,836,147,809"/>
+<area shape="rect" id="Node000008" href="$classAbstractFeVolumeIntegralAssembler.html" title=" " alt="" coords="130,867,451,1195"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="293,831,293,867,288,867,288,831"/>
+<area shape="rect" id="Node000006" href="$classAbstractFeAssemblerInterface.html" title=" " alt="" coords="197,120,443,495"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="307,509,304,544,299,544,302,508"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="339,5,480,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="397,85,385,120,380,119,392,83"/>
+<area shape="rect" id="Node000011" href="$classAbstractLinearPdeSolver.html" title=" " alt="" coords="372,1323,607,1578"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="439,81,457,119,475,170,485,211,491,252,492,306,492,1032,492,1323,487,1323,487,1032,487,306,485,253,480,212,470,171,452,121,435,84"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="227,1209,198,1288,193,1286,222,1207"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="245,1862,232,1925,227,1924,240,1861"/>
+<area shape="rect" id="Node000010" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="367,1967,603,2067"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="493,2081,492,2193,485,2257,471,2319,456,2353,436,2383,431,2380,451,2350,465,2318,479,2256,486,2193,487,2081"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="449,2081,398,2160,394,2157,444,2078"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="491,1592,488,1967,483,1967,486,1592"/>
+<area shape="rect" id="Node000012" href="$classAbstractStaticLinearPdeSolver.html" title=" " alt="" coords="501,1699,736,1813"/>
+<area shape="poly" id="edge15_Node000012_Node000011" title=" " alt="" coords="551,1589,597,1697,592,1699,546,1592"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="586,1827,513,1968,508,1966,581,1824"/>
+<area shape="poly" id="edge16_Node000002_Node000013" title=" " alt="" coords="348,2332,348,2381,343,2381,343,2332"/>
+</map>

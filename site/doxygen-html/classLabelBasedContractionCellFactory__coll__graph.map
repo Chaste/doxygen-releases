@@ -1,0 +1,9 @@
+<map id="LabelBasedContractionCellFactory&lt; DIM &gt;" name="LabelBasedContractionCellFactory&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="131,345,335,475"/>
+<area shape="rect" id="Node000002" href="$classAbstractContractionCellFactory.html" title=" " alt="" coords="5,133,220,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,293,197,344,192,347,162,296"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,5,202,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,71,115,117,110,117,110,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="245,175,461,241"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,242,282,333,277,330,331,240"/>
+</map>

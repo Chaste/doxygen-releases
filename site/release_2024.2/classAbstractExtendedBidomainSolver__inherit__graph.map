@@ -1,0 +1,18 @@
+<map id="AbstractExtendedBidomainSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="AbstractExtendedBidomainSolver&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,1689,390,2148"/>
+<area shape="rect" id="Node000006" href="$classAbstractExtendedBidomainSolver.html" title=" " alt="" coords="5,2211,247,2669"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="157,2162,154,2173,146,2211,140,2210,149,2171,152,2161"/>
+<area shape="rect" id="Node000008" href="$classAbstractExtendedBidomainSolver.html" title=" " alt="" coords="271,2211,512,2669"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="342,2161,345,2171,354,2210,349,2211,339,2173,337,2162"/>
+<area shape="rect" id="Node000002" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="147,1071,372,1640"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,1654,262,1689,257,1689,257,1654"/>
+<area shape="rect" id="Node000003" href="$classAbstractLinearPdeSolver.html" title=" " alt="" coords="137,120,371,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,389,261,1071,255,1071,252,389"/>
+<area shape="rect" id="Node000005" href="$classAbstractDynamicLinearPdeSolver.html" title=" " alt="" coords="275,424,500,993"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="297,387,307,423,302,424,292,389"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="183,5,325,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,84,257,120,251,120,251,84"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="331,1007,318,1071,313,1070,326,1006"/>
+<area shape="rect" id="Node000007" href="$classExtendedBidomainSolver.html" title=" " alt="" coords="5,2719,247,2933"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="129,2684,129,2719,123,2719,123,2684"/>
+</map>

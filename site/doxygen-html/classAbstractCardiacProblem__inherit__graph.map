@@ -1,0 +1,27 @@
+<map id="AbstractCardiacProblem&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;" name="AbstractCardiacProblem&lt; ELEMENT_DIM, SPACE_DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="782,264,1035,899"/>
+<area shape="rect" id="Node000004" href="$classMonodomainProblem.html" title=" " alt="" coords="5,1163,215,1423"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="770,632,641,687,570,722,496,762,423,808,353,859,287,916,228,978,198,1020,173,1067,153,1116,138,1164,133,1162,148,1114,168,1065,193,1018,224,974,283,912,349,855,420,803,494,758,567,717,639,682,768,628"/>
+<area shape="rect" id="Node000005" href="$classMonodomainPurkinjeProblem.html" title=" " alt="" coords="239,1153,480,1433"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="773,690,703,750,629,820,558,896,495,978,468,1020,445,1064,406,1154,401,1152,440,1062,464,1017,490,974,554,893,626,816,699,746,769,686"/>
+<area shape="rect" id="Node000006" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="505,983,758,1603"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="783,912,755,984,750,982,778,910"/>
+<area shape="rect" id="Node000009" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="782,983,1035,1603"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="911,913,911,983,906,983,906,913"/>
+<area shape="rect" id="Node000011" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="1059,976,1313,1611"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1040,911,1065,975,1060,977,1035,912"/>
+<area shape="rect" id="Node000012" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="1337,976,1590,1611"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1048,686,1118,747,1191,816,1263,893,1327,974,1339,992,1334,995,1323,978,1259,897,1188,820,1114,751,1045,691"/>
+<area shape="rect" id="Node000013" href="$classAbstractCardiacProblem.html" title=" " alt="" coords="1614,983,1867,1603"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1049,629,1179,684,1326,760,1401,805,1474,856,1542,913,1604,974,1616,988,1612,991,1600,978,1539,917,1471,861,1398,810,1324,764,1177,688,1047,633"/>
+<area shape="rect" id="Node000002" href="$classAbstractUntemplatedCardiacProblem.html" title=" " alt="" coords="795,120,1023,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="911,229,911,264,906,264,906,229"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="838,5,979,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="911,85,911,120,906,120,906,85"/>
+<area shape="rect" id="Node000007" href="$classBidomainProblem.html" title=" " alt="" coords="507,1714,755,2329"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="634,1618,634,1714,629,1714,629,1618"/>
+<area shape="rect" id="Node000008" href="$classBidomainWithBathProblem.html" title=" " alt="" coords="519,2432,744,2572"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="634,2342,634,2432,629,2432,629,2342"/>
+<area shape="rect" id="Node000010" href="$classExtendedBidomainProblem.html" title=" " alt="" coords="780,1660,1037,2383"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="911,1617,911,1660,906,1660,906,1617"/>
+</map>

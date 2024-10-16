@@ -1,0 +1,14 @@
+<map id="ChasteEllipsoid&lt; SPACE_DIM &gt;" name="ChasteEllipsoid&lt; SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,907,209,1067"/>
+<area shape="rect" id="Node000002" href="$classAbstractChasteRegion.html" title=" " alt="" coords="5,619,199,779"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,793,120,906,115,906,106,793"/>
+<area shape="rect" id="Node000003" href="$classChastePoint.html" title=" " alt="" coords="223,569,371,829"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,824,182,894,177,891,220,821"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="175,133,352,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,199,258,261,252,384,252,438,258,506,265,552,259,553,253,507,247,438,247,384,253,261,257,199"/>
+<area shape="rect" id="Node000006" href="$classChastePoint.html" title=" " alt="" coords="344,261,492,507"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="288,198,336,264,332,267,284,201"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="229,5,298,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,85,266,133,261,133,261,85"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="368,521,349,570,344,568,363,519"/>
+</map>

@@ -1,0 +1,89 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{newunicodechar}
+  \makeatletter
+    \def\doxynewunicodechar#1#2{%
+    \@tempswafalse
+    \edef\nuc@tempa{\detokenize{#1}}%
+    \if\relax\nuc@tempa\relax
+      \nuc@emptyargerr
+    \else
+      \edef\@tempb{\expandafter\@car\nuc@tempa\@nil}%
+      \nuc@check
+      \if@tempswa
+        \@namedef{u8:\nuc@tempa}{#2}%
+      \fi
+    \fi
+  }
+  \makeatother
+  \doxynewunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \doxynewunicodechar{²}{${}^{2}$}% Superscript two
+  \doxynewunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$du/dt = g(V) + h(V)*u$
+\pagebreak
+
+$u_n = ( u_{n-1} + g(V_n)*dt ) / ( 1 - h(V_n)*dt )$
+\pagebreak
+
+$U_n - U_{n-1} = dt*F(U_n, V_n)$
+\pagebreak
+
+$U_n$
+\pagebreak
+
+$\displaystyle p(x) = x^{\alpha-1}\frac{e^{-x/\beta}}{\beta^\alpha\Gamma(\alpha)}$
+\pagebreak
+
+$\displaystyle p(x) = \lambda e^{-\lambda x}$
+\pagebreak
+
+$\displaystyle p(x) =
+  \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma^2}}
+$
+\pagebreak
+
+$dy/dt = f(y, t)$
+\pagebreak
+
+$dy_1/dt = f_1(y_1, t; y_2)$
+\pagebreak
+
+$dy_2/dt = f_2(y_2, t; y_1)$
+\pagebreak
+
+$y = (y_1, y_2)$
+\pagebreak
+
+$i$
+\pagebreak
+
+\[
+\mathbf{F}_{i}(t) = \sum_{j} \mu_{i,j} ( || \mathbf{r}_{i,j} || - s_{i,j}(t) ) \hat{\mathbf{r}}_{i,j}.
+\]
+\pagebreak
+
+$\mu_{i,j}$
+\pagebreak
+
+$j$
+\pagebreak
+
+$s_{i,j}(t)$
+\pagebreak
+
+$t$
+\pagebreak
+
+$\mathbf{r}_{i,j}$
+\pagebreak
+
+$\hat{}$
+\pagebreak
+
+\end{document}

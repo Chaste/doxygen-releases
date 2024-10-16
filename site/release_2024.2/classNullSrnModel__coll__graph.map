@@ -1,0 +1,15 @@
+<map id="NullSrnModel" name="NullSrnModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="344,548,536,713"/>
+<area shape="rect" id="Node000002" href="$classAbstractSrnModel.html" title=" " alt="" coords="344,173,536,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,512,443,548,437,548,437,512"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,118,345,249,342,253,191,122"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,25,403,91"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="348,90,374,157,369,159,343,92"/>
+<area shape="rect" id="Node000005" href="$classdouble.html" title=" " alt="" coords="427,25,485,91"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="451,91,444,135,442,157,437,156,439,134,446,91"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="575,25,649,91"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="607,92,585,151,548,210,543,208,580,148,602,90"/>
+<area shape="rect" id="Node000007" href="$classbool.html" title=" " alt="" coords="752,25,795,91"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="763,92,747,122,726,151,686,190,642,224,552,282,549,277,639,220,682,186,722,148,743,119,758,90"/>
+</map>

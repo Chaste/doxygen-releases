@@ -1,0 +1,14 @@
+<map id="DivisionBiasTrackingModifier&lt; DIM &gt;" name="DivisionBiasTrackingModifier&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,883,487,1117"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellBasedSimulationModifier.html" title=" " alt="" coords="128,521,373,820"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,832,329,882,324,883,306,834"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,124,112,194,111,279,118,369,135,458,158,520,153,522,129,459,112,370,106,279,107,194,112,124"/>
+<area shape="rect" id="Node000004" href="$classAbstractCellBasedSimulationModifier.html" title=" " alt="" coords="145,160,418,459"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="165,121,189,158,184,161,161,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="270,473,266,521,261,521,265,472"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="398,638,575,703"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="478,705,418,868,413,867,473,703"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="452,277,521,342"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="489,356,489,638,484,638,484,356"/>
+</map>

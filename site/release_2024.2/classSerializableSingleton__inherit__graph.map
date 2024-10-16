@@ -1,0 +1,21 @@
+<map id="SerializableSingleton&lt; SINGLETON_CLASS &gt;" name="SerializableSingleton&lt; SINGLETON_CLASS &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,120,641,240"/>
+<area shape="rect" id="Node000003" href="$classSerializableSingleton.html" title=" " alt="" coords="53,317,264,437"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="431,188,376,197,319,212,263,234,214,266,193,290,178,318,173,316,188,287,210,262,261,229,317,207,375,192,430,183"/>
+<area shape="rect" id="Node000005" href="$classSerializableSingleton.html" title=" " alt="" coords="313,317,527,437"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="439,252,430,265,421,290,418,317,412,317,416,289,426,263,435,249"/>
+<area shape="rect" id="Node000007" href="$classSerializableSingleton.html" title=" " alt="" coords="567,317,764,437"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="626,249,636,263,649,289,658,316,652,318,644,291,631,265,622,252"/>
+<area shape="rect" id="Node000009" href="$classSerializableSingleton.html" title=" " alt="" coords="819,317,1037,437"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="656,207,724,231,791,262,830,287,867,315,863,319,827,291,788,266,722,236,654,212"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="472,5,613,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,85,545,120,540,120,540,85"/>
+<area shape="rect" id="Node000004" href="$classCellCycleTimesGenerator.html" title=" " alt="" coords="5,587,261,932"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,451,147,587,142,586,151,451"/>
+<area shape="rect" id="Node000006" href="$classRandomNumberGenerator.html" title=" " alt="" coords="286,567,535,952"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="421,451,418,567,413,567,416,451"/>
+<area shape="rect" id="Node000008" href="$classSimulationTime.html" title=" " alt="" coords="559,555,807,964"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="671,451,676,554,671,555,666,451"/>
+<area shape="rect" id="Node000010" href="$classWntConcentration.html" title=" " alt="" coords="831,487,1084,1032"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="936,451,939,486,934,487,931,451"/>
+</map>

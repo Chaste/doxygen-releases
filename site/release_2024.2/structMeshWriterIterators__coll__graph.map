@@ -1,0 +1,15 @@
+<map id="MeshWriterIterators&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="MeshWriterIterators&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="475,133,695,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,112,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,64,125,68,211,95,299,117,460,150,459,155,297,122,209,100,123,73,111,69"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="137,5,391,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,68,477,125,475,129,339,73"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="415,5,585,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="522,69,554,118,549,121,518,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="609,5,735,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="654,72,629,111,622,121,618,118,624,108,650,69"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="759,5,1009,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="814,73,689,129,687,124,812,68"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1033,5,1223,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1034,70,1022,73,712,147,711,142,1021,68,1033,65"/>
+</map>

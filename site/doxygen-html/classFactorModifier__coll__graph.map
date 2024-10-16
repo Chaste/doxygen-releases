@@ -1,0 +1,7 @@
+<map id="FactorModifier" name="FactorModifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,193,220,319"/>
+<area shape="rect" id="Node000002" href="$classAbstractModifier.html" title=" " alt="" coords="5,5,163,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,143,130,192,125,194,108,145"/>
+<area shape="rect" id="Node000003" href="$classdouble.html" title=" " alt="" coords="187,35,245,101"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,102,179,179,174,177,202,100"/>
+</map>

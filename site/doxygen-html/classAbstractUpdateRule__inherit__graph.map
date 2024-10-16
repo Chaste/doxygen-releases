@@ -1,0 +1,25 @@
+<map id="AbstractUpdateRule&lt; DIM &gt;" name="AbstractUpdateRule&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,159,512,319"/>
+<area shape="rect" id="Node000003" href="$classAbstractCaSwitchingUpdateRule.html" title=" " alt="" coords="17,367,251,556"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,330,247,368,244,364,290,326"/>
+<area shape="rect" id="Node000005" href="$classAbstractCaUpdateRule.html" title=" " alt="" coords="279,381,512,541"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="398,332,398,381,393,381,393,332"/>
+<area shape="rect" id="Node000007" href="$classAbstractPottsUpdateRule.html" title=" " alt="" coords="825,381,1081,541"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="526,289,825,407,823,412,524,294"/>
+<area shape="rect" id="Node000002" href="$classIdentifiable.html" title=" " alt="" coords="278,5,513,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,124,398,158,393,158,393,124"/>
+<area shape="rect" id="Node000004" href="$classRandomCaSwitchingUpdateRule.html" title=" " alt="" coords="5,683,255,898"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,570,134,683,129,683,130,570"/>
+<area shape="rect" id="Node000006" href="$classDiffusionCaUpdateRule.html" title=" " alt="" coords="279,691,512,891"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="398,555,398,691,393,691,393,555"/>
+<area shape="rect" id="Node000008" href="$classAdhesionPottsUpdateRule.html" title=" " alt="" coords="537,604,801,977"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="864,553,815,606,803,619,799,616,811,602,860,550"/>
+<area shape="rect" id="Node000010" href="$classChemotaxisPottsUpdateRule.html" title=" " alt="" coords="825,711,1081,871"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="955,555,955,710,950,710,950,555"/>
+<area shape="rect" id="Node000011" href="$classSurfaceAreaConstraintPottsUpdateRule.html" title=" " alt="" coords="1105,631,1361,950"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="1046,550,1095,602,1117,629,1113,633,1091,606,1042,553"/>
+<area shape="rect" id="Node000012" href="$classVolumeConstraintPottsUpdateRule.html" title=" " alt="" coords="1385,646,1641,935"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="1095,485,1163,504,1236,529,1308,561,1374,602,1421,644,1417,648,1371,606,1305,566,1234,534,1162,509,1093,491"/>
+<area shape="rect" id="Node000009" href="$classDifferentialAdhesionPottsUpdateRule.html" title=" " alt="" coords="542,1025,795,1527"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="671,991,671,1025,666,1025,666,991"/>
+</map>

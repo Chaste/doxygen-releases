@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classAbstractUntemplatedConvergenceTester.html" title=" " alt="" coords="5,131,252,171"/>
+<area shape="rect" id="Node000001" href="$classAbstractConvergenceTester.html" title=" " alt="" coords="300,124,509,179"/>
+<area shape="poly" id="edge352_Node000000_Node000001" title=" " alt="" coords="266,149,300,149,300,154,266,154"/>
+<area shape="rect" id="Node000002" href="$classOdeConvergenceTester.html" title=" " alt="" coords="557,5,767,60"/>
+<area shape="poly" id="edge353_Node000001_Node000002" title=" " alt="" coords="465,115,556,69,583,58,585,63,558,74,467,120"/>
+<area shape="rect" id="Node000003" href="$classOdePdeConvergenceTester.html" title=" " alt="" coords="557,84,767,139"/>
+<area shape="poly" id="edge354_Node000001_Node000003" title=" " alt="" coords="523,130,557,125,558,130,523,136"/>
+<area shape="rect" id="Node000004" href="$classPdeConvergenceTester.html" title=" " alt="" coords="557,163,767,217"/>
+<area shape="poly" id="edge355_Node000001_Node000004" title=" " alt="" coords="523,166,558,172,557,177,523,172"/>
+<area shape="rect" id="Node000005" href="$classSpaceConvergenceTester.html" title=" " alt="" coords="557,241,767,296"/>
+<area shape="poly" id="edge356_Node000001_Node000005" title=" " alt="" coords="470,183,558,226,588,239,586,244,556,231,467,188"/>
+</map>

@@ -1,0 +1,41 @@
+<map id="OpenSimplex2S" name="OpenSimplex2S">
+<area shape="rect" id="Node000001" title=" " alt="" coords="758,340,929,705"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1493,5,1524,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1521,70,1530,113,1535,164,1529,217,1519,242,1505,264,1448,325,1380,375,1306,416,1229,449,1151,474,1076,493,946,515,945,510,1075,488,1150,469,1227,444,1304,411,1377,371,1444,321,1501,261,1515,239,1523,215,1529,164,1525,114,1516,72"/>
+<area shape="rect" id="Node000007" href="$structOpenSimplex2S_1_1LatticePoint2D.html" title=" " alt="" coords="1271,177,1491,263"/>
+<area shape="poly" id="edge10_Node000007_Node000002" title=" " alt="" coords="1496,72,1452,155,1442,167,1438,163,1448,152,1491,69"/>
+<area shape="rect" id="Node000008" href="$structOpenSimplex2S_1_1LatticePoint3D.html" title=" " alt="" coords="1620,177,1840,263"/>
+<area shape="poly" id="edge14_Node000008_Node000002" title=" " alt="" coords="1526,50,1668,165,1664,169,1523,54"/>
+<area shape="rect" id="Node000012" href="$structOpenSimplex2S_1_1LatticePoint4D.html" title=" " alt="" coords="949,177,1169,263"/>
+<area shape="poly" id="edge20_Node000012_Node000002" title=" " alt="" coords="1494,44,1395,60,1329,75,1264,97,1194,131,1131,170,1128,166,1192,127,1262,92,1328,70,1394,54,1493,38"/>
+<area shape="rect" id="Node000003" href="$classdouble.html" title=" " alt="" coords="1030,5,1089,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1091,59,1142,108,1166,141,1184,176,1193,200,1196,220,1194,241,1184,264,1163,300,1137,334,1076,393,1009,442,944,479,942,474,1006,437,1073,389,1133,331,1159,297,1180,261,1188,239,1191,221,1187,201,1180,178,1162,143,1138,112,1087,63"/>
+<area shape="rect" id="Node000004" href="$structOpenSimplex2S_1_1Grad2.html" title=" " alt="" coords="761,187,925,253"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="1031,66,895,179,892,175,1028,62"/>
+<area shape="rect" id="Node000005" href="$structOpenSimplex2S_1_1Grad3.html" title=" " alt="" coords="573,187,737,253"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="1030,50,964,69,888,97,801,139,723,181,720,177,799,134,886,92,963,64,1029,45"/>
+<area shape="rect" id="Node000006" href="$structOpenSimplex2S_1_1Grad4.html" title=" " alt="" coords="5,187,169,253"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="1030,44,896,55,686,79,436,120,308,147,183,180,170,184,168,179,181,175,306,142,435,115,685,74,895,50,1030,39"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="1089,36,1135,38,1193,45,1255,62,1284,76,1312,93,1329,118,1354,162,1349,164,1325,121,1308,97,1282,80,1253,67,1192,51,1135,43,1089,41"/>
+<area shape="poly" id="edge13_Node000008_Node000003" title=" " alt="" coords="1089,38,1158,44,1245,54,1327,69,1359,80,1382,93,1394,108,1396,124,1399,138,1409,151,1425,159,1447,164,1501,169,1558,171,1601,175,1605,176,1604,181,1600,180,1557,176,1501,174,1446,169,1423,164,1406,155,1394,141,1391,125,1389,110,1379,97,1357,85,1325,75,1244,59,1158,49,1089,44"/>
+<area shape="poly" id="edge21_Node000012_Node000003" title=" " alt="" coords="1062,71,1062,161,1057,161,1057,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="846,253,846,324,841,324,841,253"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="677,251,751,370,747,373,673,254"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="94,252,105,285,114,301,125,314,195,368,273,412,356,446,441,473,525,492,605,505,742,517,741,523,605,510,524,497,440,478,354,451,271,417,192,373,121,318,109,304,100,287,89,253"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="1322,265,1238,318,1085,403,944,475,942,470,1082,398,1235,314,1319,261"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="1664,265,1614,293,1559,318,1394,380,1226,431,1071,473,945,502,944,497,1070,467,1224,426,1392,375,1557,314,1611,288,1662,260"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1683,483,1905,563"/>
+<area shape="poly" id="edge16_Node000009_Node000008" title=" " alt="" coords="1727,263,1729,316,1748,395,1773,466,1768,468,1743,397,1723,316,1722,263"/>
+<area shape="poly" id="edge15_Node000008_Node000009" title=" " alt="" coords="1791,483,1784,392,1775,339,1762,287,1759,279,1764,277,1767,286,1780,338,1789,392,1796,482"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1865,187,2014,253"/>
+<area shape="poly" id="edge17_Node000009_Node000010" title=" " alt="" coords="1921,266,1815,483,1811,481,1916,264"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1928,5,1951,71"/>
+<area shape="poly" id="edge18_Node000010_Node000011" title=" " alt="" coords="1942,71,1942,171,1937,171,1937,71"/>
+<area shape="poly" id="edge19_Node000001_Node000012" title=" " alt="" coords="1031,265,941,391,936,387,1027,261"/>
+<area shape="rect" id="Node000013" href="$classunsigned.html" title=" " alt="" coords="193,187,267,253"/>
+<area shape="poly" id="edge22_Node000001_Node000013" title=" " alt="" coords="234,252,242,285,259,314,311,361,370,400,433,432,499,458,565,478,629,493,742,511,741,516,628,498,564,483,498,463,431,437,367,405,307,365,255,318,237,287,229,254"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="291,187,337,253"/>
+<area shape="poly" id="edge23_Node000001_Node000014" title=" " alt="" coords="339,249,352,261,450,330,555,390,656,440,744,479,742,484,654,445,552,395,447,334,348,265,336,253"/>
+<area shape="rect" id="Node000015" href="$structOpenSimplex2S_1_1Initializer.html" title=" " alt="" coords="362,187,549,253"/>
+<area shape="poly" id="edge24_Node000001_Node000015" title=" " alt="" coords="498,251,746,443,743,447,494,255"/>
+</map>

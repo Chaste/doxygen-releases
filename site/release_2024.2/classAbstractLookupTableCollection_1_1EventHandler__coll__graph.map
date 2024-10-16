@@ -1,0 +1,26 @@
+<map id="AbstractLookupTableCollection::EventHandler" name="AbstractLookupTableCollection::EventHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="424,1569,637,1649"/>
+<area shape="rect" id="Node000002" href="$classGenericEventHandler.html" title=" " alt="" coords="301,987,547,1507"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,1519,522,1568,517,1570,502,1521"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="44,261,201,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,328,94,431,84,502,76,581,73,666,77,754,92,840,117,923,150,987,192,1045,241,1098,291,1145,287,1149,237,1102,188,1049,145,989,112,925,86,842,72,754,68,666,70,581,78,501,89,430,111,326"/>
+<area shape="rect" id="Node000009" href="$classGenericEventHandler.html" title=" " alt="" coords="211,404,456,924"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="146,325,194,403,205,420,200,423,190,405,141,328"/>
+<area shape="rect" id="Node000004" href="$classdouble.html" title=" " alt="" coords="5,133,64,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="42,198,48,217,57,236,67,248,62,252,52,239,43,219,37,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,133,262,199"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="156,210,146,224,131,262,126,260,142,221,152,207"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="433,261,575,327"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="276,195,434,261,432,266,274,200"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="190,5,213,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,71,204,117,199,117,199,71"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="508,327,510,432,510,589,504,774,488,963,487,971,482,970,483,962,499,774,505,589,505,432,503,327"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="435,322,415,336,398,352,375,390,370,387,394,349,411,331,432,318"/>
+<area shape="rect" id="Node000008" href="$classbool.html" title=" " alt="" coords="483,133,525,199"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="527,173,560,191,576,205,589,221,613,277,633,350,646,436,653,531,653,632,646,734,630,833,607,925,597,945,586,958,561,988,558,994,553,991,557,985,582,955,593,942,601,923,625,832,640,733,648,632,648,531,641,436,627,351,608,279,584,224,572,209,557,196,524,178"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="507,199,507,245,501,245,501,199"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="483,175,451,186,414,204,377,229,349,263,334,292,323,323,309,388,304,387,318,321,329,290,344,260,374,225,411,200,449,182,482,170"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="346,937,349,962,353,986,348,987,344,963,340,938"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="571,1214,703,1279"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="630,1281,549,1554,544,1553,625,1279"/>
+</map>

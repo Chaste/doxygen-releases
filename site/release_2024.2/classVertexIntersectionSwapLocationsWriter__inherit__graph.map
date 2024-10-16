@@ -1,0 +1,9 @@
+<map id="VertexIntersectionSwapLocationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;" name="VertexIntersectionSwapLocationsWriter&lt; ELEMENT_DIM, SPACE_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,775,265,1009"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellPopulationWriter.html" title=" " alt="" coords="22,487,249,727"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,741,138,774,133,774,133,741"/>
+<area shape="rect" id="Node000003" href="$classAbstractCellBasedWriter.html" title=" " alt="" coords="25,159,245,439"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,452,138,486,133,486,133,452"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="18,5,253,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,125,138,158,133,158,133,125"/>
+</map>

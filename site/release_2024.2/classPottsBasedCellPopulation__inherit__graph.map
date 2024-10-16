@@ -1,0 +1,12 @@
+<map id="PottsBasedCellPopulation&lt; DIM &gt;" name="PottsBasedCellPopulation&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,2253,247,2688"/>
+<area shape="rect" id="Node000002" href="$classAbstractOnLatticeCellPopulation.html" title=" " alt="" coords="9,1720,269,2204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,2217,141,2253,136,2253,136,2217"/>
+<area shape="rect" id="Node000003" href="$classAbstractCellPopulation.html" title=" " alt="" coords="5,947,272,1671"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="141,1684,141,1720,136,1720,136,1684"/>
+<area shape="rect" id="Node000004" href="$classIdentifiable.html" title=" " alt="" coords="16,5,251,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,124,140,946,134,947,131,124"/>
+<area shape="rect" id="Node000005" href="$classAbstractCellPopulation.html" title=" " alt="" coords="155,160,421,884"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="157,123,170,159,165,161,152,125"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="219,898,210,947,205,946,214,897"/>
+</map>

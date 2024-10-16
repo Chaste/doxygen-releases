@@ -1,0 +1,10 @@
+<map id="SloughingCellKiller&lt; DIM &gt;" name="SloughingCellKiller&lt; DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,701,251,976"/>
+<area shape="rect" id="Node000002" href="$classAbstractCellKiller.html" title=" " alt="" coords="5,437,251,652"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,666,131,701,125,701,125,666"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,5,240,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,124,129,437,124,437,121,124"/>
+<area shape="rect" id="Node000004" href="$classAbstractCellKiller.html" title=" " alt="" coords="144,160,389,375"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="169,121,195,158,190,161,164,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="209,388,184,438,179,436,205,386"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="CellSrnModel" name="CellSrnModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="871,704,1020,1009"/>
+<area shape="rect" id="Node000002" href="$classAbstractSrnModel.html" title=" " alt="" coords="431,316,623,641"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,573,872,786,869,790,631,577"/>
+<area shape="rect" id="Node000003" href="$classIdentifiable.html" title=" " alt="" coords="5,133,240,239"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,245,432,406,429,410,204,249"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,153,403,219"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,218,358,254,376,291,423,359,418,362,371,293,353,256,340,220"/>
+<area shape="rect" id="Node000005" href="$classdouble.html" title=" " alt="" coords="427,153,485,219"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="448,219,442,254,444,292,446,300,441,301,439,292,437,254,443,218"/>
+<area shape="rect" id="Node000006" href="$classunsigned.html" title=" " alt="" coords="575,153,649,219"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="606,220,585,293,583,301,578,299,580,291,601,218"/>
+<area shape="rect" id="Node000007" href="$classbool.html" title=" " alt="" coords="752,153,795,219"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="766,220,751,256,730,294,686,347,637,394,634,390,682,343,726,290,747,254,761,218"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1108,439,1359,519"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1206,520,1032,746,1028,743,1201,517"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="875,153,1103,219"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="982,219,970,265,960,316,950,411,944,508,942,687,937,687,939,508,945,411,955,316,965,264,977,218"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1018,217,1192,424,1188,428,1014,221"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1173,153,1294,219"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1236,232,1236,438,1231,438,1231,232"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1222,5,1245,71"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1236,71,1236,137,1231,137,1231,71"/>
+</map>

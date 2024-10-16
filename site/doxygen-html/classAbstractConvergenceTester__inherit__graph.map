@@ -1,0 +1,13 @@
+<map id="AbstractConvergenceTester&lt; CELL, CARDIAC_PROBLEM, DIM, PROBLEM_DIM &gt;" name="AbstractConvergenceTester&lt; CELL, CARDIAC_PROBLEM, DIM, PROBLEM_DIM &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="425,503,681,777"/>
+<area shape="rect" id="Node000003" href="$classOdeConvergenceTester.html" title=" " alt="" coords="5,845,261,1000"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="415,734,275,828,245,847,243,843,272,823,412,730"/>
+<area shape="rect" id="Node000004" href="$classOdePdeConvergenceTester.html" title=" " alt="" coords="285,845,541,1000"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="482,791,454,846,449,844,477,788"/>
+<area shape="rect" id="Node000005" href="$classPdeConvergenceTester.html" title=" " alt="" coords="565,845,821,1000"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="630,788,658,844,653,846,625,791"/>
+<area shape="rect" id="Node000006" href="$classSpaceConvergenceTester.html" title=" " alt="" coords="845,825,1101,1020"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="694,730,835,823,847,831,844,836,832,828,691,734"/>
+<area shape="rect" id="Node000002" href="$classAbstractUntemplatedConvergenceTester.html" title=" " alt="" coords="421,5,685,455"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="556,469,556,503,551,503,551,469"/>
+</map>

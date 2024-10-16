@@ -1,0 +1,19 @@
+<map id="AbstractCardiacCellWithModifiers&lt; CARDIAC_CELL &gt;" name="AbstractCardiacCellWithModifiers&lt; CARDIAC_CELL &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,448,263,648"/>
+<area shape="rect" id="Node000002" href="$classCARDIAC__CELL.html" title=" " alt="" coords="57,305,168,371"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,384,126,448,121,448,115,385"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="193,291,393,385"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,387,222,437,217,433,255,384"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="75,148,153,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="152,212,229,278,225,282,149,216"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="49,5,179,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="117,99,117,148,111,148,111,99"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="177,148,408,213"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="295,214,295,274,290,274,290,214"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="432,148,559,213"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="445,224,355,293,351,289,442,220"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="445,13,468,78"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="458,78,465,123,468,133,463,134,459,125,453,79"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="521,13,544,78"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="526,79,511,133,506,131,521,77"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classAbstractLinearPde.html" title=" " alt="" coords="5,245,223,285"/>
+<area shape="rect" id="Node000001" href="$classAbstractLinearEllipticPde.html" title=" " alt="" coords="293,117,477,157"/>
+<area shape="poly" id="edge293_Node000000_Node000001" title=" " alt="" coords="168,237,340,155,342,160,171,242"/>
+<area shape="rect" id="Node000006" href="$classAbstractLinearParabolicPde.html" title=" " alt="" coords="285,213,484,253"/>
+<area shape="poly" id="edge298_Node000000_Node000006" title=" " alt="" coords="236,248,285,242,285,248,237,254"/>
+<area shape="rect" id="Node000010" href="$classAbstractLinearEllipticPde.html" title=" " alt="" coords="271,277,499,317"/>
+<area shape="poly" id="edge302_Node000000_Node000010" title=" " alt="" coords="236,277,271,281,270,287,236,282"/>
+<area shape="rect" id="Node000011" href="$classAbstractLinearParabolicPde.html" title=" " alt="" coords="271,341,499,381"/>
+<area shape="poly" id="edge303_Node000000_Node000011" title=" " alt="" coords="174,288,272,327,309,339,307,344,270,332,172,293"/>
+<area shape="rect" id="Node000002" href="$classAveragedSourceEllipticPde.html" title=" " alt="" coords="555,5,749,45"/>
+<area shape="poly" id="edge294_Node000001_Node000002" title=" " alt="" coords="433,108,546,55,579,43,581,48,548,60,435,113"/>
+<area shape="rect" id="Node000004" href="$classCellwiseSourceEllipticPde.html" title=" " alt="" coords="557,69,747,109"/>
+<area shape="poly" id="edge296_Node000001_Node000004" title=" " alt="" coords="490,116,556,104,557,109,491,121"/>
+<area shape="rect" id="Node000005" href="$classUniformSourceEllipticPde.html" title=" " alt="" coords="559,133,745,173"/>
+<area shape="poly" id="edge297_Node000001_Node000005" title=" " alt="" coords="491,141,558,145,558,150,490,146"/>
+<area shape="rect" id="Node000003" href="$classVolumeDependentAveragedSourceEllipticPde.html" title=" " alt="" coords="805,5,1052,45"/>
+<area shape="poly" id="edge295_Node000002_Node000003" title=" " alt="" coords="763,23,805,23,805,28,763,28"/>
+<area shape="rect" id="Node000007" href="$classAveragedSourceParabolicPde.html" title=" " alt="" coords="547,197,757,237"/>
+<area shape="poly" id="edge299_Node000006_Node000007" title=" " alt="" coords="497,224,546,221,547,226,498,229"/>
+<area shape="rect" id="Node000008" href="$classCellwiseSourceParabolicPde.html" title=" " alt="" coords="550,261,754,301"/>
+<area shape="poly" id="edge300_Node000006_Node000008" title=" " alt="" coords="498,251,550,260,550,266,497,256"/>
+<area shape="rect" id="Node000009" href="$classUniformSourceParabolicPde.html" title=" " alt="" coords="551,325,753,365"/>
+<area shape="poly" id="edge301_Node000006_Node000009" title=" " alt="" coords="487,256,500,263,515,275,525,288,534,300,548,311,572,323,570,328,545,316,530,303,521,291,512,279,497,268,485,261"/>
+</map>

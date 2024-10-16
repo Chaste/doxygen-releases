@@ -1,0 +1,14 @@
+<map id="PCTwoLevelsBlockDiagonal" name="PCTwoLevelsBlockDiagonal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,349,233,504"/>
+<area shape="rect" id="Node000002" href="$structPCTwoLevelsBlockDiagonal_1_1PCTwoLevelsBlockDiagonalContext.html" title=" " alt="" coords="187,207,438,287"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,289,216,340,213,336,268,285"/>
+<area shape="rect" id="Node000003" href="$classMat.html" title=" " alt="" coords="525,5,564,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="549,71,542,128,532,158,515,184,487,208,455,224,453,219,484,203,511,181,527,156,537,127,544,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="48,5,79,71"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="59,71,48,168,47,227,55,286,71,334,66,335,50,287,42,228,42,168,54,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="64,71,71,127,81,156,97,181,172,203,170,208,94,185,76,158,65,128,59,71"/>
+<area shape="rect" id="Node000005" href="$classVec.html" title=" " alt="" coords="218,5,255,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="230,71,224,125,226,154,235,182,242,193,237,196,230,184,221,155,219,125,225,70"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="333,5,415,71"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="373,71,363,124,347,183,344,193,339,191,342,182,358,123,367,70"/>
+</map>
